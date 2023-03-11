@@ -11,7 +11,7 @@ const aboutPageJSX = {
   [ESPANOL]:
     <div>
       <p>Esta es una herramienta de exhibición de las historias orales recopiladas como parte del Proyecto de Documentación de la Lengua Enenlhet con las comunidades (Toba) Enenlhet en Pozo Amarillo y Casanillo, Paraguay. El objetivo aquí es que los oradores puedan interactuar con los textos/grabaciones, disfrutarlos y brindar retroalimentación al equipo del proyecto. Para explorar todos los archivos del proyecto, consulte el repositorio de archivos de la Universidad de Texas en Austin: https://ailla.utexas.org/es/islandora/object/ailla%3A266557 </p>
-      <p>Para personalizar este texto de bienvenida, edite el archivo 'jsx/App/AboutPage.jsx' y luego ejecute el paquete web para que los cambios surtan efecto. </p>
+      <p>Es una prueba </p>
     </div>,
   [FRANCAIS]:
     <div>
