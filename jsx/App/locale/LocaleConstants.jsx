@@ -7,16 +7,16 @@ export const ESPANOL = "es";
 export const FRANCAIS = "fr";
 
 // Put default language here.
-export const DEFAULT_LOCALE = ENGLISH;
+export const DEFAULT_LOCALE = ESPANOL;
 
 // Below, write the text that goes in various parts of the website for each
 // language.
 
 // NavBar text (header).
 export const navBarTitleText = {
-  [ENGLISH]: "LingView: ELAN and FLEx Web Display",
-  [ESPANOL]: "LingView: Pantella Web ELAN y FLEx",
-  [FRANCAIS]: "LingView: Affichage Web ELAN et FLEx",
+  [ENGLISH]: "Enenlhet Language Documentation Project",
+  [ESPANOL]: "Enenlhet Nempaivoma",
+  [FRANCAIS]: "Projet de documentation de la langue Enenlhet",
 };
 
 export const navBarSearchText = {
