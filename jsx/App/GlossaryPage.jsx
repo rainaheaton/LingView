@@ -1,5 +1,5 @@
 import React from 'react';
-import { ENGLISH, ESPANOL, FRANCAIS } from './locale/LocaleConstants.jsx';
+import { ENGLISH, ESPANOL, DEUTSCH } from './locale/LocaleConstants.jsx';
 import { TranslatableText } from './locale/TranslatableText.jsx'
 
 const glossaryPageJSX = {
@@ -13,7 +13,7 @@ const glossaryPageJSX = {
       <p>No hay glosario en este momento. Para obtener un diccionario funcional de Enenlhet, escriba a Raina Heaton en rainaheaton [arroba] ou.edu para obtener una copia de la base de datos FLEx del proyecto. </p>
       <p> </p>
     </div>,
-  [FRANCAIS] :
+  [DEUTSCH] :
     <div>
       <p>Derzeit gibt es kein Glossar. Für ein Arbeitswörterbuch von Enenlhet schreiben Sie Raina Heaton an rainaheaton [et] ou.edu für eine Kopie der FLEx-Datenbank des Projekts. </p>
       <p> </p>
