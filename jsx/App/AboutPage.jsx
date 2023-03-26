@@ -15,8 +15,8 @@ const aboutPageJSX = {
     </div>,
   [FRANCAIS]:
     <div>
-      <p>Saisissez le contenu ici :) </p>
-      <p>Pour personnaliser ce texte de bienvenue, modifiez le fichier 'jsx/App/AboutPage.jsx', puis exécutez webpack pour que vos modifications prennent effet. </p>
+      <p>Dies ist ein Anzeigetool für die mündlichen Überlieferungen, die im Rahmen des Enenlhet-Sprachdokumentationsprojekts mit den (Toba) Enenlhet-Gemeinschaften in Pozo Amarillo und Casanillo, Paraguay, gesammelt wurden. Das Ziel dabei ist, dass die Sprecher mit den Texten/Aufnahmen interagieren, sie genießen und dem Projektteam Feedback geben können. Alle Dateien des Projekts finden Sie im Archiv der University of Texas at Austin: https://ailla.utexas.org/es/islandora/object/ailla%3A266557 </p>
+      <p> </p>
     </div>,
 };
 
