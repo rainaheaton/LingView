@@ -5,18 +5,18 @@ import { TranslatableText } from './locale/TranslatableText.jsx'
 const landingPageJSX = {
   [ENGLISH]:
     <div>
-      <p>Welcome! This website is powered by <a href='https://github.com/BrownCLPS/LingView/' target="_blank" rel="noopener noreferrer">Lingview</a>. Click <a href='#/index'>"Index of Texts"</a> to see some example texts.</p>
-      <p>To customize this welcome text, edit the jsx/App/LandingPage.jsx file, then run webpack for your changes to take effect. </p>
+      <p>Welcome! You have found the LingView site for the Enenlhet Language Documentation Project. Use this site to view our currently transcribed and translated narrative texts with speakers from Pozo Amarillo and Casanillo, Paraguay. </p>
+      <p>This website is powered by <a href='https://github.com/BrownCLPS/LingView/' target="_blank" rel="noopener noreferrer">Lingview</a>. Click <a href='#/index'>"Index of Texts"</a> to see some example texts. </p>
     </div>,
   [ESPANOL]:
     <div>
-      <p>¡Bienvenido! Este sitio web funciona con LingView. Haga clic <a href='#/index'>"Índice de textos"</a> para ver algunos textos de ejemplo. </p>
-      <p>Para personalizar este texto de bienvenida, edite el archivo 'jsx/App/LandingPage.jsx' y luego ejecute el paquete web para que los cambios surtan efecto. </p>
+      <p>¡Bienvenido! Ha encontrado el sitio LingView para el proyecto de documentación del idioma Enenlhet. Use este sitio para ver nuestros textos narrativos actualmente transcritos y traducidos con hablantes de Pozo Amarillo y Casanillo, Paraguay. </p>
+      <p>Este sitio web funciona con LingView. Haga clic <a href='#/index'>"Índice de textos"</a> para ver algunos textos de ejemplo. </p>
     </div>,
   [FRANCAIS]:
     <div>
-      <p>Bienvenue! Ce site Web est alimenté par LingView. Cliquez <a href='#/index'>"Index des Textes"</a> pour voir quelques exemples de textes. </p>
-      <p>Pour personnaliser ce texte de bienvenue, modifiez le fichier 'jsx/App/LandingPage.jsx', puis exécutez webpack pour que vos modifications prennent effet. </p>
+      <p>Willkommen! Sie haben die LingView-Site für das Enenlhet Language Documentation Project gefunden. Verwenden Sie diese Seite, um unsere derzeit transkribierten und übersetzten Erzähltexte mit Sprechern aus Pozo Amarillo und Casanillo, Paraguay, anzuzeigen. </p>
+      <p>Diese Web-Site ist ein Lebensmittel von LingView. Klicken Sie auf <a href='#/index'>"Index der Texte"</a> für alle Ihre Textbeispiele. </p>
     </div>,
 };
 
