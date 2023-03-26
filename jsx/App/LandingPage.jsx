@@ -1,5 +1,5 @@
 import React from 'react';
-import { ENGLISH, ESPANOL, FRANCAIS } from './locale/LocaleConstants.jsx';
+import { ENGLISH, ESPANOL, DEUTSCH } from './locale/LocaleConstants.jsx';
 import { TranslatableText } from './locale/TranslatableText.jsx'
 
 const landingPageJSX = {
@@ -13,7 +13,7 @@ const landingPageJSX = {
       <p>¡Bienvenido! Ha encontrado el sitio LingView para el proyecto de documentación del idioma Enenlhet. Use este sitio para ver nuestros textos narrativos transcritos y traducidos con hablantes de Pozo Amarillo y Casanillo, Paraguay. </p>
       <p>Este sitio web funciona con LingView. Haga clic <a href='#/index'>"Índice de textos"</a> para ver algunos textos de ejemplo. </p>
     </div>,
-  [FRANCAIS]:
+  [DEUTSCH]:
     <div>
       <p>Willkommen! Sie haben die LingView-Site für das Enenlhet Language Documentation Project gefunden. Verwenden Sie diese Seite, um unsere derzeit transkribierten und übersetzten Erzähltexte mit Sprechern aus Pozo Amarillo und Casanillo, Paraguay, anzuzeigen. </p>
       <p>Diese Web-Site ist ein Lebensmittel von LingView. Klicken Sie auf <a href='#/index'>"Index der Texte"</a> für alle Ihre Textbeispiele. </p>
