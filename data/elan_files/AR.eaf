@@ -4,7 +4,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
         <MEDIA_DESCRIPTOR
-            MEDIA_URL="file:///Volumes/NOAYOTZIN/Enenlhet/research 2019/grabaciones/De Tito/AR/10.3.2019_TR_AR_audio.wav" MIME_TYPE="audio/x-wav"/>
+            MEDIA_URL="https://sooners-my.sharepoint.com/:u:/g/personal/rainaheaton_ou_edu/EdVaN66uamZIkh7PTaPGKOgB19wgCAUjA6j1kYBruU5rNA?e=moe5Rd" MIME_TYPE="audio/x-mp3"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:3814a427-b1b2-40a6-8c7e-04223a422120</PROPERTY>
         <PROPERTY NAME="lastUsedAnnotationId">368</PROPERTY>
     </HEADER>
