@@ -10,7 +10,7 @@ const landingPageJSX = {
     </div>,
   [ESPANOL]:
     <div>
-      <p>¡Bienvenido! Ha encontrado el sitio LingView para el proyecto de documentación del idioma Enenlhet. Use este sitio para ver nuestros textos narrativos actualmente transcritos y traducidos con hablantes de Pozo Amarillo y Casanillo, Paraguay. </p>
+      <p>¡Bienvenido! Ha encontrado el sitio LingView para el proyecto de documentación del idioma Enenlhet. Use este sitio para ver nuestros textos narrativos transcritos y traducidos con hablantes de Pozo Amarillo y Casanillo, Paraguay. </p>
       <p>Este sitio web funciona con LingView. Haga clic <a href='#/index'>"Índice de textos"</a> para ver algunos textos de ejemplo. </p>
     </div>,
   [FRANCAIS]:
