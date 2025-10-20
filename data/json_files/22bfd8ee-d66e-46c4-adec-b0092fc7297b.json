@@ -1,0 +1,274 @@
+{
+  "metadata": {
+    "timed": true,
+    "story ID": "22bfd8ee-d66e-46c4-adec-b0092fc7297b",
+    "title": {
+      "_default": "CR_07.13.2025_Tekiomakha'ai"
+    },
+    "media": {
+      "audio_local": "",
+      "audio_remote": "",
+      "video": "",
+      "audio": "CR_07.13.2025_Tekiomakha'ai.wav"
+    },
+    "languages": [],
+    "date_created": "",
+    "date_uploaded": "10/20/2025",
+    "source": {
+      "_default": ""
+    },
+    "description": "",
+    "genre": "",
+    "author": "",
+    "glosser": "",
+    "speakers": [],
+    "xml_file_name": "CR_07.13.2025_Tekiomakha'ai.eaf",
+    "source_filetype": "ELAN",
+    "tier IDs": {
+      "ASR_pause": {
+        "subdivided": false
+      }
+    },
+    "speaker IDs": {
+      "S1": {
+        "tier": "ASR_pause"
+      }
+    }
+  },
+  "sentences": [
+    {
+      "speaker": "S1",
+      "tier": "ASR_pause",
+      "start_time_ms": 1701,
+      "end_time_ms": 4199,
+      "num_slots": 1,
+      "text": "asengelvaktek ennengko om tekiomakhaiana akvesai'a",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR_pause",
+      "start_time_ms": 5043,
+      "end_time_ms": 5796,
+      "num_slots": 1,
+      "text": "hemma lhennenga",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR_pause",
+      "start_time_ms": 6721,
+      "end_time_ms": 7950,
+      "num_slots": 1,
+      "text": "apkresep pkakhaiangko ha",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR_pause",
+      "start_time_ms": 8670,
+      "end_time_ms": 10123,
+      "num_slots": 1,
+      "text": "nietnengiek na pkennapma enenlhe",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR_pause",
+      "start_time_ms": 10549,
+      "end_time_ms": 11046,
+      "num_slots": 1,
+      "text": "oie lhna",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR_pause",
+      "start_time_ms": 11895,
+      "end_time_ms": 12183,
+      "num_slots": 1,
+      "text": "ba",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR_pause",
+      "start_time_ms": 13209,
+      "end_time_ms": 13282,
+      "num_slots": 1,
+      "text": "",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR_pause",
+      "start_time_ms": 13405,
+      "end_time_ms": 15194,
+      "num_slots": 1,
+      "text": "iapo knemakha napomalhkon ke lhennenga",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR_pause",
+      "start_time_ms": 15504,
+      "end_time_ms": 16224,
+      "num_slots": 1,
+      "text": "temakha nepva'a",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR_pause",
+      "start_time_ms": 17199,
+      "end_time_ms": 18831,
+      "num_slots": 1,
+      "text": "angke nelvaptanha ktekiomokai'a",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR_pause",
+      "start_time_ms": 18970,
+      "end_time_ms": 20926,
+      "num_slots": 1,
+      "text": "temo kuechui anio khalhma tekiomakhai",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR_pause",
+      "start_time_ms": 21945,
+      "end_time_ms": 22976,
+      "num_slots": 1,
+      "text": "oielhna lhna ptekioma",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR_pause",
+      "start_time_ms": 23812,
+      "end_time_ms": 24102,
+      "num_slots": 1,
+      "text": "a",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR_pause",
+      "start_time_ms": 24304,
+      "end_time_ms": 26450,
+      "num_slots": 1,
+      "text": "nelvaktam lha enengko akvesai'a ngkek ekiomakhai",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR_pause",
+      "start_time_ms": 27090,
+      "end_time_ms": 28346,
+      "num_slots": 1,
+      "text": "enenlhette apva'ak lhennenga",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR_pause",
+      "start_time_ms": 29040,
+      "end_time_ms": 30276,
+      "num_slots": 1,
+      "text": "temakha sakva'a enenlhe",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR_pause",
+      "start_time_ms": 30573,
+      "end_time_ms": 30661,
+      "num_slots": 1,
+      "text": "",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR_pause",
+      "start_time_ms": 30816,
+      "end_time_ms": 32442,
+      "num_slots": 1,
+      "text": "elha velengko mikelha enenlhe",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR_pause",
+      "start_time_ms": 32584,
+      "end_time_ms": 33022,
+      "num_slots": 1,
+      "text": "vanlha",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR_pause",
+      "start_time_ms": 33605,
+      "end_time_ms": 35307,
+      "num_slots": 1,
+      "text": "nevak apkakhaiangko lhnak co na",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR_pause",
+      "start_time_ms": 35428,
+      "end_time_ms": 35994,
+      "num_slots": 1,
+      "text": "tekiomakha",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR_pause",
+      "start_time_ms": 36344,
+      "end_time_ms": 37279,
+      "num_slots": 1,
+      "text": "svaktanlha nak ko",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR_pause",
+      "start_time_ms": 37968,
+      "end_time_ms": 38766,
+      "num_slots": 1,
+      "text": "hnnenga temma",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR_pause",
+      "start_time_ms": 39005,
+      "end_time_ms": 39267,
+      "num_slots": 1,
+      "text": "aen",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR_pause",
+      "start_time_ms": 39817,
+      "end_time_ms": 42677,
+      "num_slots": 1,
+      "text": "paapkakhaian ko lha'a kelhetsek apne apkak haiempo",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR_pause",
+      "start_time_ms": 43091,
+      "end_time_ms": 43322,
+      "num_slots": 1,
+      "text": "ram",
+      "dependents": []
+    }
+  ]
+}

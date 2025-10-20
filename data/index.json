@@ -2568,5 +2568,41 @@
     "source_filetype": "ELAN",
     "tier IDs": {},
     "speaker IDs": {}
+  },
+  "22bfd8ee-d66e-46c4-adec-b0092fc7297b": {
+    "timed": true,
+    "story ID": "22bfd8ee-d66e-46c4-adec-b0092fc7297b",
+    "title": {
+      "_default": "CR_07.13.2025_Tekiomakha'ai"
+    },
+    "media": {
+      "audio_local": "",
+      "audio_remote": "",
+      "video": "",
+      "audio": "CR_07.13.2025_Tekiomakha'ai.wav"
+    },
+    "languages": [],
+    "date_created": "",
+    "date_uploaded": "10/20/2025",
+    "source": {
+      "_default": ""
+    },
+    "description": "",
+    "genre": "",
+    "author": "",
+    "glosser": "",
+    "speakers": [],
+    "xml_file_name": "CR_07.13.2025_Tekiomakha'ai.eaf",
+    "source_filetype": "ELAN",
+    "tier IDs": {
+      "ASR_pause": {
+        "subdivided": false
+      }
+    },
+    "speaker IDs": {
+      "S1": {
+        "tier": "ASR_pause"
+      }
+    }
   }
 }
