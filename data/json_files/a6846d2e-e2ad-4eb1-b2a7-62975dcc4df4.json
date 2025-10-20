@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "timed": true,
+    "story ID": "a6846d2e-e2ad-4eb1-b2a7-62975dcc4df4",
+    "title": {
+      "_default": "Arnolio-Fernández_radioPA"
+    },
+    "media": {
+      "audio_local": "",
+      "audio_remote": "",
+      "video": "https://lingview-enenlhet.sfo3.digitaloceanspaces.com/2019/video/Arnolio-Fern%C3%A1ndez_radioPA.mp4",
+      "audio": ""
+    },
+    "languages": [],
+    "date_created": "",
+    "date_uploaded": "9/28/2025",
+    "source": {
+      "_default": ""
+    },
+    "description": "",
+    "genre": "",
+    "author": "",
+    "glosser": "",
+    "speakers": [],
+    "xml_file_name": "Arnolio-Fernández_radioPA.eaf",
+    "source_filetype": "ELAN",
+    "tier IDs": {},
+    "speaker IDs": {}
+  },
+  "sentences": []
+}

@@ -3,17 +3,17 @@
     "timed": true,
     "story ID": "71f939d8-3ec0-46cd-ab2d-0ae62904b37e",
     "title": {
-      "_default": "MR-narracion"
+      "_default": "Manolo-Romero"
     },
     "media": {
       "audio_local": "",
       "audio_remote": "",
-      "video": "",
-      "audio": "https://enenlhetaudio.nyc3.cdn.digitaloceanspaces.com/2019-08-16-MR-narracion.wav"
+      "video": "https://lingview-enenlhet.sfo3.digitaloceanspaces.com/2019/video/Manolo-Romero.mp4",
+      "audio": ""
     },
     "languages": [],
     "date_created": "",
-    "date_uploaded": "8/21/2025",
+    "date_uploaded": "9/26/2025",
     "source": {
       "_default": ""
     },
@@ -25,7 +25,7 @@
       "MR",
       "RH"
     ],
-    "xml_file_name": "MR-narracion.eaf",
+    "xml_file_name": "Manolo-Romero.eaf",
     "source_filetype": "ELAN",
     "tier IDs": {
       "transcript_MR": {

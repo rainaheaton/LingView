@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "timed": true,
+    "story ID": "2efca1b5-b2b6-4a70-8350-4a87790e50ca",
+    "title": {
+      "_default": "Erna-Faus_Ietna-Pommet"
+    },
+    "media": {
+      "audio_local": "",
+      "audio_remote": "",
+      "video": "https://lingview-enenlhet.sfo3.digitaloceanspaces.com/2025/video/Erna-Faus_Ietna-Pommet.mp4",
+      "audio": ""
+    },
+    "languages": [],
+    "date_created": "",
+    "date_uploaded": "9/28/2025",
+    "source": {
+      "_default": ""
+    },
+    "description": "",
+    "genre": "",
+    "author": "",
+    "glosser": "",
+    "speakers": [],
+    "xml_file_name": "Erna-Faus_Ietna-Pommet.eaf",
+    "source_filetype": "ELAN",
+    "tier IDs": {},
+    "speaker IDs": {}
+  },
+  "sentences": []
+}

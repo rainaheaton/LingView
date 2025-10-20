@@ -1,0 +1,3972 @@
+{
+  "metadata": {
+    "timed": true,
+    "story ID": "eb5d87ae-5c9a-43cf-a7ca-c3b2e3c62729",
+    "title": {
+      "_default": "Miguel-Romero"
+    },
+    "media": {
+      "audio_local": "",
+      "audio_remote": "",
+      "video": "https://lingview-enenlhet.sfo3.digitaloceanspaces.com/2019/video/Miguel-Romero.mp4",
+      "audio": ""
+    },
+    "languages": [],
+    "date_created": "",
+    "date_uploaded": "9/26/2025",
+    "source": {
+      "_default": ""
+    },
+    "description": "",
+    "genre": "",
+    "author": "",
+    "glosser": "",
+    "speakers": [
+      "MRR"
+    ],
+    "xml_file_name": "Miguel-Romero.eaf",
+    "source_filetype": "ELAN",
+    "tier IDs": {
+      "Transcript": {
+        "subdivided": false
+      },
+      "Translation": {
+        "subdivided": false
+      },
+      "RH transcript": {
+        "subdivided": false
+      },
+      "RH translation": {
+        "subdivided": false
+      }
+    },
+    "speaker IDs": {
+      "S1": {
+        "name": "MRR",
+        "tier": "Transcript"
+      },
+      "S2": {
+        "tier": "RH transcript"
+      }
+    }
+  },
+  "sentences": [
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 100,
+      "end_time_ms": 680,
+      "num_slots": 1,
+      "text": "alhnakho",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "perfecto"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S2",
+      "tier": "RH transcript",
+      "start_time_ms": 12600,
+      "end_time_ms": 13890,
+      "num_slots": 1,
+      "text": "entonces",
+      "dependents": [
+        {
+          "tier": "RH translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S2",
+      "tier": "RH transcript",
+      "start_time_ms": 17450,
+      "end_time_ms": 19590,
+      "num_slots": 1,
+      "text": "sek apvesai'a?",
+      "dependents": [
+        {
+          "tier": "RH translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "que es tu nombre?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 20290,
+      "end_time_ms": 21020,
+      "num_slots": 1,
+      "text": "Miguel",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "Miguel"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 24010,
+      "end_time_ms": 24760,
+      "num_slots": 1,
+      "text": "Romero",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "Romero"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S2",
+      "tier": "RH transcript",
+      "start_time_ms": 24010,
+      "end_time_ms": 24760,
+      "num_slots": 1,
+      "text": "",
+      "dependents": []
+    },
+    {
+      "speaker": "S2",
+      "tier": "RH transcript",
+      "start_time_ms": 25500,
+      "end_time_ms": 27330,
+      "num_slots": 1,
+      "text": "y vives aqui en",
+      "dependents": []
+    },
+    {
+      "speaker": "S2",
+      "tier": "RH transcript",
+      "start_time_ms": 28050,
+      "end_time_ms": 29000,
+      "num_slots": 1,
+      "text": "Pozo Amarillo?",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 29070,
+      "end_time_ms": 29520,
+      "num_slots": 1,
+      "text": "",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S2",
+      "tier": "RH transcript",
+      "start_time_ms": 31060,
+      "end_time_ms": 32160,
+      "num_slots": 1,
+      "text": "Cual parte exactamente?",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 32195,
+      "end_time_ms": 33265,
+      "num_slots": 1,
+      "text": "Tobati",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "Tobati"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 36599,
+      "end_time_ms": 38749,
+      "num_slots": 1,
+      "text": "",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S2",
+      "tier": "RH transcript",
+      "start_time_ms": 36599,
+      "end_time_ms": 38749,
+      "num_slots": 1,
+      "text": "Y cuantos anos tiene usted?",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 39166,
+      "end_time_ms": 43249,
+      "num_slots": 1,
+      "text": "40 y, yo? 77",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "77"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S2",
+      "tier": "RH transcript",
+      "start_time_ms": 44426,
+      "end_time_ms": 52409,
+      "num_slots": 1,
+      "text": "Hay algo que quieres contar o decir?",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 54989,
+      "end_time_ms": 56672,
+      "num_slots": 1,
+      "text": "anio pasado",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "ano pasado"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 57929,
+      "end_time_ms": 59046,
+      "num_slots": 1,
+      "text": "hablamos",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "hablamos"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 59417,
+      "end_time_ms": 63384,
+      "num_slots": 1,
+      "text": " sobre la escuela Enenlhet",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "sobre la escuela Enenlhet"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 63668,
+      "end_time_ms": 64484,
+      "num_slots": 1,
+      "text": "",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 64918,
+      "end_time_ms": 66301,
+      "num_slots": 1,
+      "text": "vanlha",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "solo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 69101,
+      "end_time_ms": 70034,
+      "num_slots": 1,
+      "text": "",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 71737,
+      "end_time_ms": 73304,
+      "num_slots": 1,
+      "text": "nietnek",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "habia"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 74628,
+      "end_time_ms": 79078,
+      "num_slots": 1,
+      "text": "asnek alhta ko",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "yo estuve "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 80828,
+      "end_time_ms": 82778,
+      "num_slots": 1,
+      "text": "Nenekev lhenenga",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "en Laguna Pora antes"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 85475,
+      "end_time_ms": 87759,
+      "num_slots": 1,
+      "text": "1969",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "1969"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 90270,
+      "end_time_ms": 92620,
+      "num_slots": 1,
+      "text": "1969",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "1969"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 92787,
+      "end_time_ms": 94620,
+      "num_slots": 1,
+      "text": "",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 97477,
+      "end_time_ms": 98393,
+      "num_slots": 1,
+      "text": "",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 101843,
+      "end_time_ms": 104226,
+      "num_slots": 1,
+      "text": "",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 105026,
+      "end_time_ms": 107259,
+      "num_slots": 1,
+      "text": "nennek alhta ennengko'o",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "estuvimos"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 107717,
+      "end_time_ms": 109684,
+      "num_slots": 1,
+      "text": "Nenekev' lhenenga",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "en Laguna Pora antes"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 110642,
+      "end_time_ms": 112858,
+      "num_slots": 1,
+      "text": "1960",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "1960"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 114458,
+      "end_time_ms": 116875,
+      "num_slots": 1,
+      "text": "nietne lhta ennengko escuela ",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "nosotros teniamos escuela"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 119611,
+      "end_time_ms": 122111,
+      "num_slots": 1,
+      "text": "escuela Enenlhet",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "una escula Enenlhet"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 123153,
+      "end_time_ms": 126352,
+      "num_slots": 1,
+      "text": "escuela Toba Enenlhet",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "escuela Toba Enenlhet"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 129886,
+      "end_time_ms": 131936,
+      "num_slots": 1,
+      "text": "1960",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "1960"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 133203,
+      "end_time_ms": 135336,
+      "num_slots": 1,
+      "text": "sketketse lhta ko",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "cuando yo era chico"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 136127,
+      "end_time_ms": 141596,
+      "num_slots": 1,
+      "text": "1961 mok hom escuela",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "en 1961 otra escuela"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 143636,
+      "end_time_ms": 149236,
+      "num_slots": 1,
+      "text": "1962 mok hom escuela",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "en 1962 otra escuela"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 149959,
+      "end_time_ms": 151109,
+      "num_slots": 1,
+      "text": "tan",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "luego"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 153704,
+      "end_time_ms": 158937,
+      "num_slots": 1,
+      "text": "1966",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "1966"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 160109,
+      "end_time_ms": 161692,
+      "num_slots": 1,
+      "text": "netlhengekek ennengko",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "nosotros no fuimos"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 162943,
+      "end_time_ms": 165209,
+      "num_slots": 1,
+      "text": "escuela Paraguay alhta akvesai'a",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "escuela era su nombre "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 169446,
+      "end_time_ms": 170513,
+      "num_slots": 1,
+      "text": "tan",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "despues"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 173296,
+      "end_time_ms": 175862,
+      "num_slots": 1,
+      "text": "nennek ennengko Ya'alve Saanga",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "estuvimos en Ya'alve Saanga"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 176037,
+      "end_time_ms": 177504,
+      "num_slots": 1,
+      "text": "63",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "1963"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 180105,
+      "end_time_ms": 183188,
+      "num_slots": 1,
+      "text": "primer grado lhta ko",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "yo estuve en el primer grado"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 185038,
+      "end_time_ms": 188804,
+      "num_slots": 1,
+      "text": "tan profesor alhta",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "el profesor era"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 189114,
+      "end_time_ms": 190947,
+      "num_slots": 1,
+      "text": "Juan Wins",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "Juan Wins"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 192172,
+      "end_time_ms": 196239,
+      "num_slots": 1,
+      "text": "Filadelfia lhta",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "era en Filadelfia"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 197732,
+      "end_time_ms": 198583,
+      "num_slots": 1,
+      "text": "",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 200499,
+      "end_time_ms": 202332,
+      "num_slots": 1,
+      "text": "nelht(?), netamen",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "y despues"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 203574,
+      "end_time_ms": 206441,
+      "num_slots": 1,
+      "text": "64 mok hom escuela",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "en 1964 otra escuela"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 207109,
+      "end_time_ms": 208459,
+      "num_slots": 1,
+      "text": "segundo grado",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "segundo grado"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 211422,
+      "end_time_ms": 212172,
+      "num_slots": 1,
+      "text": "nhan",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "y"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 212719,
+      "end_time_ms": 215103,
+      "num_slots": 1,
+      "text": "aptepkek alhta Juan Wins",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "Juan Wins salio"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 215834,
+      "end_time_ms": 217418,
+      "num_slots": 1,
+      "text": "Filadelfia",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "Filadelfia"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 218278,
+      "end_time_ms": 223861,
+      "num_slots": 1,
+      "text": "tan apvaktanie'",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "luego vino"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 224527,
+      "end_time_ms": 226744,
+      "num_slots": 1,
+      "text": "apkeniem'o Argentina",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "venia desde Argentina"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 228543,
+      "end_time_ms": 230993,
+      "num_slots": 1,
+      "text": "Ernesto Aitsen alhta apvesai'a",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "su nombre era Ernesto Aisten"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 233975,
+      "end_time_ms": 238225,
+      "num_slots": 1,
+      "text": "apnek ma'a Filadelfia",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "el esta en Filadelfia"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 239562,
+      "end_time_ms": 240562,
+      "num_slots": 1,
+      "text": "",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 241604,
+      "end_time_ms": 242854,
+      "num_slots": 1,
+      "text": "dos anio",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "dos anos"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 245567,
+      "end_time_ms": 248634,
+      "num_slots": 1,
+      "text": "vakho cuarto grado lhta ko",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "cuando yo era en el cuarto grado"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 249770,
+      "end_time_ms": 251170,
+      "num_slots": 1,
+      "text": "netamen nelhanhan",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "alli se termino"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 251915,
+      "end_time_ms": 255015,
+      "num_slots": 1,
+      "text": "nelelhiakme ennengko Laguna Pora",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "venimos de nuevo a Laguna Pora"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 256412,
+      "end_time_ms": 257795,
+      "num_slots": 1,
+      "text": "tan",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "luego"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 258528,
+      "end_time_ms": 262228,
+      "num_slots": 1,
+      "text": "svakmek ko 16 anio",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "cuando cumpli 16 anos"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 263700,
+      "end_time_ms": 267250,
+      "num_slots": 1,
+      "text": "neten smakmema ko escuela  profesor",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "yo estuve tabajando como profesor en la escuela"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 267856,
+      "end_time_ms": 272523,
+      "num_slots": 1,
+      "text": "vanlha ketsek edad asmakmekama",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "yo era joven todavia cuando yo estaba trabajando"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 276352,
+      "end_time_ms": 279985,
+      "num_slots": 1,
+      "text": "sketlhekmoskek ko primer grado Nenekev'",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "estoy ensenando primer grado en Laguna Pora"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 283701,
+      "end_time_ms": 284567,
+      "num_slots": 1,
+      "text": "tan",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "luego"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 286819,
+      "end_time_ms": 289386,
+      "num_slots": 1,
+      "text": "",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 292700,
+      "end_time_ms": 295633,
+      "num_slots": 1,
+      "text": "netamen nelentepkek ennengko estancia",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "luego nosotros salimos de la estancia"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 297512,
+      "end_time_ms": 299579,
+      "num_slots": 1,
+      "text": "nengakhengvakme ennengko aniep",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "estuvimos mudando una chacra"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 301308,
+      "end_time_ms": 303275,
+      "num_slots": 1,
+      "text": "nentengiangkek ennengko aniep",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "buscamos donde hay chacras"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 306535,
+      "end_time_ms": 308068,
+      "num_slots": 1,
+      "text": "apkelentepkek Enenlhet",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "y salieron la gente"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 308993,
+      "end_time_ms": 310309,
+      "num_slots": 1,
+      "text": "aptengiangkek aniep",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "buscaron chacras"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 310630,
+      "end_time_ms": 311530,
+      "num_slots": 1,
+      "text": "",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 311943,
+      "end_time_ms": 314376,
+      "num_slots": 1,
+      "text": "Ianqalho Namok akvesai'a",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "y el lugar se llamaba Ianqalho Namok"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 318135,
+      "end_time_ms": 319002,
+      "num_slots": 1,
+      "text": "tan",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "luego"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 322764,
+      "end_time_ms": 323680,
+      "num_slots": 1,
+      "text": "na",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "y"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 324718,
+      "end_time_ms": 327452,
+      "num_slots": 1,
+      "text": "neltavek antenia'a mok hom mo'ok aniep",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "estamos pensando en buscar otra chacra"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 328082,
+      "end_time_ms": 330198,
+      "num_slots": 1,
+      "text": "nengetlhengkek ennengko Hapong Aniep",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "pensamos elegir un lugar Hapong Aniep"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 331824,
+      "end_time_ms": 333207,
+      "num_slots": 1,
+      "text": "Nakha Nialpa'",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "(se llama) Nakhanialpa'"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 335810,
+      "end_time_ms": 337827,
+      "num_slots": 1,
+      "text": "apkakhengvakmo Enenlhet ma'a Toba",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "de alli se mudaron la gente Toba "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 341031,
+      "end_time_ms": 342598,
+      "num_slots": 1,
+      "text": "netamen",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "luego"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 345193,
+      "end_time_ms": 348093,
+      "num_slots": 1,
+      "text": "Ianqalho Namok mok hom",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "(fuimos a) Ianqalho Namok otra vez"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 350954,
+      "end_time_ms": 355621,
+      "num_slots": 1,
+      "text": "ketlhenkek mok hom Enenlhet ko Ianqalho Namok kakhengvakmek ma'a",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "la gente de alla y la gente de alli son en  Ianqalho Namok"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 356201,
+      "end_time_ms": 357301,
+      "num_slots": 1,
+      "text": "Tomakha Apvetek",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "Tomakha Apvetek"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 361582,
+      "end_time_ms": 362815,
+      "num_slots": 1,
+      "text": "ka ntak ania'a",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "asi es la informacion"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 365754,
+      "end_time_ms": 367370,
+      "num_slots": 1,
+      "text": "kam'a",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "y alli"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 368320,
+      "end_time_ms": 372120,
+      "num_slots": 1,
+      "text": "tan 19",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "luego en 19-"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 373877,
+      "end_time_ms": 377227,
+      "num_slots": 1,
+      "text": "70 akvakmo",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "hasta 1970"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 378727,
+      "end_time_ms": 380527,
+      "num_slots": 1,
+      "text": "1970",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "1970"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 381369,
+      "end_time_ms": 382119,
+      "num_slots": 1,
+      "text": "tan",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "luego"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 382936,
+      "end_time_ms": 384369,
+      "num_slots": 1,
+      "text": "komete",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "komete (una organizacion)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 384877,
+      "end_time_ms": 386310,
+      "num_slots": 1,
+      "text": "Filadelfia",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "Filadelfia"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 386785,
+      "end_time_ms": 388151,
+      "num_slots": 1,
+      "text": "nietne lhta Reunion",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "era Reunion"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 390143,
+      "end_time_ms": 391276,
+      "num_slots": 1,
+      "text": "apkaknekha",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "se reunen"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 392617,
+      "end_time_ms": 395667,
+      "num_slots": 1,
+      "text": "pota eliohok ma'a ko Nenekev'",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "para conocer a la gente alla de Laguna Pora"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 396700,
+      "end_time_ms": 397400,
+      "num_slots": 1,
+      "text": "tan",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "luego"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 398542,
+      "end_time_ms": 400208,
+      "num_slots": 1,
+      "text": "61",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "1961"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 400333,
+      "end_time_ms": 401533,
+      "num_slots": 1,
+      "text": "62",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "1962"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 403108,
+      "end_time_ms": 403825,
+      "num_slots": 1,
+      "text": "na",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "y"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 405291,
+      "end_time_ms": 406941,
+      "num_slots": 1,
+      "text": "nelentepkek ennengko",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "nosotros salimos"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 407862,
+      "end_time_ms": 409562,
+      "num_slots": 1,
+      "text": "nengakhengva ennengko",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "ya estuvimos aqui"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 410304,
+      "end_time_ms": 411620,
+      "num_slots": 1,
+      "text": "ka Pozo Amarillo",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "en Pozo Amarillo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 411937,
+      "end_time_ms": 413770,
+      "num_slots": 1,
+      "text": "62",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "1962"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 415028,
+      "end_time_ms": 416595,
+      "num_slots": 1,
+      "text": "4 de Agusto lhta",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "era 4 de Augusto del ano 1962"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 418529,
+      "end_time_ms": 419379,
+      "num_slots": 1,
+      "text": "",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 425743,
+      "end_time_ms": 426627,
+      "num_slots": 1,
+      "text": "netamen",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "luego"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 431412,
+      "end_time_ms": 432496,
+      "num_slots": 1,
+      "text": "nelentepkek",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "salimos"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 432846,
+      "end_time_ms": 434046,
+      "num_slots": 1,
+      "text": "",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 434921,
+      "end_time_ms": 436654,
+      "num_slots": 1,
+      "text": "",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 437612,
+      "end_time_ms": 438945,
+      "num_slots": 1,
+      "text": "netamen",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "luego"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 440170,
+      "end_time_ms": 442886,
+      "num_slots": 1,
+      "text": "nengelvak ennengko nenlhamakho Toba ",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "ya todo nosotros somos Toba "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 443836,
+      "end_time_ms": 445703,
+      "num_slots": 1,
+      "text": "4 aldea",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "hay 4 aldeas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 446716,
+      "end_time_ms": 452133,
+      "num_slots": 1,
+      "text": "4 augusto, Palo Verde, Chaco'i",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "4 augusto, Palo Verde, Chaco'i"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 453953,
+      "end_time_ms": 457986,
+      "num_slots": 1,
+      "text": "Tobati, Carpa Cue",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "Tobati, Carpa Cue"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 460003,
+      "end_time_ms": 462919,
+      "num_slots": 1,
+      "text": "kan Laguna Pora lhta Campo Leon kan",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "vienen de Laguna Pora"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 464461,
+      "end_time_ms": 466928,
+      "num_slots": 1,
+      "text": "1962",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "1962"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 469969,
+      "end_time_ms": 470769,
+      "num_slots": 1,
+      "text": "tan",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "luego"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 472277,
+      "end_time_ms": 473444,
+      "num_slots": 1,
+      "text": "asvak ko'o",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "yo llege"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 475352,
+      "end_time_ms": 478685,
+      "num_slots": 1,
+      "text": "62",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "1962"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 479878,
+      "end_time_ms": 482362,
+      "num_slots": 1,
+      "text": "askmakmema ko escuela Tobati",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "yo estuve en la escuela en Tobati"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 482862,
+      "end_time_ms": 483945,
+      "num_slots": 1,
+      "text": "62",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "en 1962"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 485461,
+      "end_time_ms": 485895,
+      "num_slots": 1,
+      "text": "",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 487568,
+      "end_time_ms": 488635,
+      "num_slots": 1,
+      "text": "vanlha",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "solo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 489876,
+      "end_time_ms": 490993,
+      "num_slots": 1,
+      "text": "3 pelten",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "3 meses"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 492392,
+      "end_time_ms": 493409,
+      "num_slots": 1,
+      "text": "nelha",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "hasta"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 495008,
+      "end_time_ms": 497842,
+      "num_slots": 1,
+      "text": "tan",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "luego"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 500415,
+      "end_time_ms": 504765,
+      "num_slots": 1,
+      "text": "nemmeiakhek ennengko cursillo Ya'alve Saanga",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "nosotros no fuimos al cursillo en Ya'alve Saanga"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 506397,
+      "end_time_ms": 507297,
+      "num_slots": 1,
+      "text": "tan",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "luego"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 509131,
+      "end_time_ms": 510481,
+      "num_slots": 1,
+      "text": "nengelvaktek mok hom",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "estuvimos de nuevo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 510898,
+      "end_time_ms": 515631,
+      "num_slots": 1,
+      "text": "mok hom escuela, ko escuela Tobati, maestro",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "yo era un maestro en otra escuela en Tobati"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 519152,
+      "end_time_ms": 520652,
+      "num_slots": 1,
+      "text": "tan",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "luego"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 524083,
+      "end_time_ms": 525567,
+      "num_slots": 1,
+      "text": "na",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "y"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 527502,
+      "end_time_ms": 530653,
+      "num_slots": 1,
+      "text": "netamen skelvateskek ko escuela",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "luego yo sali de la escuela"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 533247,
+      "end_time_ms": 534147,
+      "num_slots": 1,
+      "text": "tan",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "luego"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 534509,
+      "end_time_ms": 541775,
+      "num_slots": 1,
+      "text": "ngvakme nelha escuela",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "se termino en la escuela"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 543334,
+      "end_time_ms": 545284,
+      "num_slots": 1,
+      "text": "tan",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "luego"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 547697,
+      "end_time_ms": 549664,
+      "num_slots": 1,
+      "text": "aptalhnek alhta po'ok profesor",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "entro otro profesor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 550282,
+      "end_time_ms": 553449,
+      "num_slots": 1,
+      "text": "kam'a Tomakha Apvetek a",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "de alli Tomakha Apvetek"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 553540,
+      "end_time_ms": 557756,
+      "num_slots": 1,
+      "text": "Tobati",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "Tobati"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 557856,
+      "end_time_ms": 561106,
+      "num_slots": 1,
+      "text": "nietne lhta oka",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "habia"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 563038,
+      "end_time_ms": 564405,
+      "num_slots": 1,
+      "text": "avanhek alhta oka",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "mucho dificultad"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 564763,
+      "end_time_ms": 566213,
+      "num_slots": 1,
+      "text": "hengeliaskamalhma aniep",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "tabajando en la chacra"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 566980,
+      "end_time_ms": 569513,
+      "num_slots": 1,
+      "text": "aniep ennengko",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "nuestra chacra"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 571352,
+      "end_time_ms": 575786,
+      "num_slots": 1,
+      "text": "kaleke, peia",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "porotos, patatas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 577046,
+      "end_time_ms": 578289,
+      "num_slots": 1,
+      "text": "mo'ok nan",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "y otros"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 579829,
+      "end_time_ms": 581395,
+      "num_slots": 1,
+      "text": "ietepepa'",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "algodon"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 583642,
+      "end_time_ms": 584842,
+      "num_slots": 1,
+      "text": "nengenakhe ennengko",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "estamos plantando"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 587794,
+      "end_time_ms": 588927,
+      "num_slots": 1,
+      "text": "vanlha",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "solo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 590668,
+      "end_time_ms": 591868,
+      "num_slots": 1,
+      "text": "ehalhnankok",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "teniamos mucho animo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 593760,
+      "end_time_ms": 596193,
+      "num_slots": 1,
+      "text": "lhaniek enenlhet Colonia Banco",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "habia mucha gente en Colonia Banco"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 598151,
+      "end_time_ms": 599801,
+      "num_slots": 1,
+      "text": "kolhvave koka'",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "y ahora "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 600784,
+      "end_time_ms": 602168,
+      "num_slots": 1,
+      "text": "apkenmaskengvakme' ",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "estan moriendo (los pioneros Enenlhet)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 605768,
+      "end_time_ms": 607551,
+      "num_slots": 1,
+      "text": "vanlha",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "solo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 609686,
+      "end_time_ms": 612220,
+      "num_slots": 1,
+      "text": "vanlhanhan engketko'ok ennengko'o",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "eramos jovenes todavia"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 613361,
+      "end_time_ms": 614445,
+      "num_slots": 1,
+      "text": "nengaktengama",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "ya estamos creciendo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 622298,
+      "end_time_ms": 624782,
+      "num_slots": 1,
+      "text": "paihakhek evalhok",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "estuvimos contentos"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 626946,
+      "end_time_ms": 628946,
+      "num_slots": 1,
+      "text": "kaha'e ania'a",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "ya esta la informacion"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 631281,
+      "end_time_ms": 636414,
+      "num_slots": 1,
+      "text": "mama mo'ok alhianma",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "no tengo otro"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 639864,
+      "end_time_ms": 640614,
+      "num_slots": 1,
+      "text": "ntase'e",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "es bueno"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 642349,
+      "end_time_ms": 646432,
+      "num_slots": 1,
+      "text": "akpaihakhe evalhok",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "mi corazon esta contento"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 647862,
+      "end_time_ms": 649279,
+      "num_slots": 1,
+      "text": "kaha'e grabacion",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "esta grabacion"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 653714,
+      "end_time_ms": 660164,
+      "num_slots": 1,
+      "text": "ntase'e evanhek apaihekha evalhok",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "es muy lindo, esto muy contento"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 664947,
+      "end_time_ms": 668831,
+      "num_slots": 1,
+      "text": "vanlha ngvakmek ko 72 anos",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "ahora tengo 72 anos"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 670896,
+      "end_time_ms": 674346,
+      "num_slots": 1,
+      "text": "vanlha apnek nan eietka",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "y tengo mi hijo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 674679,
+      "end_time_ms": 676663,
+      "num_slots": 1,
+      "text": "po'ok na eietka",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "tengo otro mi hijo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 678029,
+      "end_time_ms": 680629,
+      "num_slots": 1,
+      "text": "vanlha",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "solo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 682408,
+      "end_time_ms": 684542,
+      "num_slots": 1,
+      "text": "avanhek astema gracia",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "estoy muy agradecido"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 684707,
+      "end_time_ms": 689690,
+      "num_slots": 1,
+      "text": "vanlha",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "es todo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S2",
+      "tier": "RH transcript",
+      "start_time_ms": 693375,
+      "end_time_ms": 694375,
+      "num_slots": 1,
+      "text": "hay",
+      "dependents": []
+    },
+    {
+      "speaker": "S2",
+      "tier": "RH transcript",
+      "start_time_ms": 698201,
+      "end_time_ms": 702251,
+      "num_slots": 1,
+      "text": "hay mas quieres decir sobre que",
+      "dependents": []
+    },
+    {
+      "speaker": "S2",
+      "tier": "RH transcript",
+      "start_time_ms": 702933,
+      "end_time_ms": 705600,
+      "num_slots": 1,
+      "text": "esta pasando ahora en Pozo Amarillo?",
+      "dependents": []
+    },
+    {
+      "speaker": "S2",
+      "tier": "RH transcript",
+      "start_time_ms": 705841,
+      "end_time_ms": 709458,
+      "num_slots": 1,
+      "text": "si hay cambios y como les afectan la gente?",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 716026,
+      "end_time_ms": 717125,
+      "num_slots": 1,
+      "text": "vanlha",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "nada mas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 722733,
+      "end_time_ms": 723933,
+      "num_slots": 1,
+      "text": "ntase'e",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "es lindo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 726541,
+      "end_time_ms": 729492,
+      "num_slots": 1,
+      "text": "mama niekhe mo'ok alhianma",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "no tengo otro para decir"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 732108,
+      "end_time_ms": 733325,
+      "num_slots": 1,
+      "text": "mama",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "no"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 733775,
+      "end_time_ms": 735424,
+      "num_slots": 1,
+      "text": "alhenek mo'ok ania'a",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "no tengo mas para contar"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 736207,
+      "end_time_ms": 738641,
+      "num_slots": 1,
+      "text": "vanlha nengakhangkek Pozo Amarillo",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "estamos en Pozo Amarillo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 740416,
+      "end_time_ms": 742966,
+      "num_slots": 1,
+      "text": "ngvakmek 47 ano",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "y estamos 47 anos"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 743397,
+      "end_time_ms": 744530,
+      "num_slots": 1,
+      "text": "Pozo Amarillo",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "Pozo Amarillo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 745205,
+      "end_time_ms": 748938,
+      "num_slots": 1,
+      "text": "62 Laguna Pora, 62",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "1962 en Laguna Pora"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 749263,
+      "end_time_ms": 751196,
+      "num_slots": 1,
+      "text": "nelva ennengko 62",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "llegamos en 1962"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 751604,
+      "end_time_ms": 754154,
+      "num_slots": 1,
+      "text": "ngvakmek 47 ano",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "alcanzamos 47 anos"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 755037,
+      "end_time_ms": 757204,
+      "num_slots": 1,
+      "text": "vanlha konne Pozo Amarillo",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "solo dentro de Pozo Amarillo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 758545,
+      "end_time_ms": 759312,
+      "num_slots": 1,
+      "text": "Toba",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "Toba"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 760303,
+      "end_time_ms": 762586,
+      "num_slots": 1,
+      "text": "Enlhet Enenlhet",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "aqui hay Enlhet y Enenlhet"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 763552,
+      "end_time_ms": 765369,
+      "num_slots": 1,
+      "text": "Enlhet Enenlhet ",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "Enlhet y Enenlhet "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 765952,
+      "end_time_ms": 767268,
+      "num_slots": 1,
+      "text": "nelpalhkalhke'",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "estamos mesclados"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 768068,
+      "end_time_ms": 768652,
+      "num_slots": 1,
+      "text": "ko",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "yo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 769285,
+      "end_time_ms": 770985,
+      "num_slots": 1,
+      "text": "mesclado akvesai'a",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "se dice mescaldo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 778877,
+      "end_time_ms": 779944,
+      "num_slots": 1,
+      "text": "vanlha",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "es todo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 785885,
+      "end_time_ms": 788519,
+      "num_slots": 1,
+      "text": "no hay otro informacion",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "no hay otro informacion"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S2",
+      "tier": "RH transcript",
+      "start_time_ms": 788640,
+      "end_time_ms": 794773,
+      "num_slots": 1,
+      "text": "no? pues puedes decir lo que quieres",
+      "dependents": []
+    },
+    {
+      "speaker": "S2",
+      "tier": "RH transcript",
+      "start_time_ms": 794917,
+      "end_time_ms": 796667,
+      "num_slots": 1,
+      "text": "ya esta?",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 796884,
+      "end_time_ms": 798467,
+      "num_slots": 1,
+      "text": "si ya esta todo",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "si ya esta todo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcript",
+      "start_time_ms": 799667,
+      "end_time_ms": 800717,
+      "num_slots": 1,
+      "text": "ya esta ya",
+      "dependents": [
+        {
+          "tier": "Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "ya esta ya"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S2",
+      "tier": "RH transcript",
+      "start_time_ms": 800634,
+      "end_time_ms": 801700,
+      "num_slots": 1,
+      "text": "gracias",
+      "dependents": []
+    }
+  ]
+}

@@ -1,0 +1,3115 @@
+{
+  "metadata": {
+    "timed": true,
+    "story ID": "3814a427-b1b2-40a6-8c7e-04223a422120",
+    "title": {
+      "_default": "Arsenio-Romero"
+    },
+    "media": {
+      "audio_local": "",
+      "audio_remote": "",
+      "video": "https://lingview-enenlhet.sfo3.digitaloceanspaces.com/2019/video/Arsenio-Romero.mp4",
+      "audio": ""
+    },
+    "languages": [],
+    "date_created": "",
+    "date_uploaded": "9/27/2025",
+    "source": {
+      "_default": ""
+    },
+    "description": "",
+    "genre": "",
+    "author": "",
+    "glosser": "",
+    "speakers": [
+      "Arsenio Romero"
+    ],
+    "xml_file_name": "Arsenio-Romero.eaf",
+    "source_filetype": "ELAN",
+    "tier IDs": {
+      "AR_transcripcion": {
+        "subdivided": false
+      },
+      "AR-traduccion": {
+        "subdivided": false
+      }
+    },
+    "speaker IDs": {
+      "S1": {
+        "name": "Arsenio Romero",
+        "tier": "AR_transcripcion"
+      }
+    }
+  },
+  "sentences": [
+    {
+      "speaker": "S1",
+      "tier": "AR_transcripcion",
+      "start_time_ms": 0,
+      "end_time_ms": 1000,
+      "num_slots": 1,
+      "text": "takha lhta",
+      "dependents": [
+        {
+          "tier": "AR-traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "fue así"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "AR_transcripcion",
+      "start_time_ms": 1060,
+      "end_time_ms": 2183,
+      "num_slots": 1,
+      "text": "aklhenammalhka'",
+      "dependents": [
+        {
+          "tier": "AR-traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "hay información"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "AR_transcripcion",
+      "start_time_ms": 2800,
+      "end_time_ms": 5040,
+      "num_slots": 1,
+      "text": "vanlha skelto niekhe ngkolpenesoho'",
+      "dependents": [
+        {
+          "tier": "AR-traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "solo quiero que preparen"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "AR_transcripcion",
+      "start_time_ms": 5200,
+      "end_time_ms": 6460,
+      "num_slots": 1,
+      "text": "annaivomo nak",
+      "dependents": [
+        {
+          "tier": "AR-traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "los que juegan"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "AR_transcripcion",
+      "start_time_ms": 6981,
+      "end_time_ms": 9521,
+      "num_slots": 1,
+      "text": "ngkolteniama sekhek patakkom",
+      "dependents": [
+        {
+          "tier": "AR-traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "se busca dinero"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "AR_transcripcion",
+      "start_time_ms": 9849,
+      "end_time_ms": 11349,
+      "num_slots": 1,
+      "text": "potanhan y",
+      "dependents": [
+        {
+          "tier": "AR-traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "para que"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "AR_transcripcion",
+      "start_time_ms": 12310,
+      "end_time_ms": 13739,
+      "num_slots": 1,
+      "text": "ngkolloka sekhek ma'a",
+      "dependents": [
+        {
+          "tier": "AR-traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "se puede pasar allá"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "AR_transcripcion",
+      "start_time_ms": 13752,
+      "end_time_ms": 14892,
+      "num_slots": 1,
+      "text": "kolonia",
+      "dependents": [
+        {
+          "tier": "AR-traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "a la Colonia"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "AR_transcripcion",
+      "start_time_ms": 15292,
+      "end_time_ms": 16112,
+      "num_slots": 1,
+      "text": "y",
+      "dependents": [
+        {
+          "tier": "AR-traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "y"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "AR_transcripcion",
+      "start_time_ms": 16302,
+      "end_time_ms": 17122,
+      "num_slots": 1,
+      "text": "potanhan",
+      "dependents": [
+        {
+          "tier": "AR-traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "y luego"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "AR_transcripcion",
+      "start_time_ms": 18585,
+      "end_time_ms": 20575,
+      "num_slots": 1,
+      "text": "vanlha niekhe ko skeltaniekhe",
+      "dependents": [
+        {
+          "tier": "AR-traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "creo que solo yo quiero"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "AR_transcripcion",
+      "start_time_ms": 20685,
+      "end_time_ms": 21628,
+      "num_slots": 1,
+      "text": "y kolelh",
+      "dependents": [
+        {
+          "tier": "AR-traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "y como"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "AR_transcripcion",
+      "start_time_ms": 21758,
+      "end_time_ms": 22828,
+      "num_slots": 1,
+      "text": "kolhe ngkotnek nan",
+      "dependents": [
+        {
+          "tier": "AR-traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "y como podemos"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "AR_transcripcion",
+      "start_time_ms": 22848,
+      "end_time_ms": 24178,
+      "num_slots": 1,
+      "text": "angenkeskehak pekhai'a sekhek",
+      "dependents": [
+        {
+          "tier": "AR-traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "recogerlo muy rapido"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "AR_transcripcion",
+      "start_time_ms": 25330,
+      "end_time_ms": 26756,
+      "num_slots": 1,
+      "text": "camiseta phalhnanko'ok",
+      "dependents": [
+        {
+          "tier": "AR-traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "para tener camisetas nuevas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "AR_transcripcion",
+      "start_time_ms": 26766,
+      "end_time_ms": 27496,
+      "num_slots": 1,
+      "text": "semana nak",
+      "dependents": [
+        {
+          "tier": "AR-traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "esta semana"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "AR_transcripcion",
+      "start_time_ms": 28056,
+      "end_time_ms": 29646,
+      "num_slots": 1,
+      "text": "vanlha niekhe ko skeltak ma'a",
+      "dependents": [
+        {
+          "tier": "AR-traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "solo yo necesito esto"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "AR_transcripcion",
+      "start_time_ms": 30119,
+      "end_time_ms": 31669,
+      "num_slots": 1,
+      "text": "ampekhesok anteniak",
+      "dependents": [
+        {
+          "tier": "AR-traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "se necesita muy pronto"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "AR_transcripcion",
+      "start_time_ms": 31766,
+      "end_time_ms": 33866,
+      "num_slots": 1,
+      "text": "camiseta aphalhnanko'ok",
+      "dependents": [
+        {
+          "tier": "AR-traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "camisetas nuevas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "AR_transcripcion",
+      "start_time_ms": 34449,
+      "end_time_ms": 38648,
+      "num_slots": 1,
+      "text": "vanlha sneng'o lhta kom'a jasy treciento mil",
+      "dependents": [
+        {
+          "tier": "AR-traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "es que yo escuché que jerseys son trescientos mil [guarani]"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "AR_transcripcion",
+      "start_time_ms": 38899,
+      "end_time_ms": 40217,
+      "num_slots": 1,
+      "text": "nengapaskama manie'",
+      "dependents": [
+        {
+          "tier": "AR-traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "enviamos primero"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "AR_transcripcion",
+      "start_time_ms": 40738,
+      "end_time_ms": 43076,
+      "num_slots": 1,
+      "text": "kakpo lhna lhta elvak kolhvavek ma'a",
+      "dependents": [
+        {
+          "tier": "AR-traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "entonces van a llegar enseguida"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "AR_transcripcion",
+      "start_time_ms": 43725,
+      "end_time_ms": 45345,
+      "num_slots": 1,
+      "text": "kolhve niekhe ngveskamo ennengko'o",
+      "dependents": [
+        {
+          "tier": "AR-traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "muy pronto nosotros podemos alcanzar esto"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "AR_transcripcion",
+      "start_time_ms": 45496,
+      "end_time_ms": 46436,
+      "num_slots": 1,
+      "text": "malha dos",
+      "dependents": [
+        {
+          "tier": "AR-traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "creo que en dos,"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "AR_transcripcion",
+      "start_time_ms": 46833,
+      "end_time_ms": 48948,
+      "num_slots": 1,
+      "text": "lhema knem ngkovomok he treciento",
+      "dependents": [
+        {
+          "tier": "AR-traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "o un dia alcanzará trescientos"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "AR_transcripcion",
+      "start_time_ms": 49513,
+      "end_time_ms": 50093,
+      "num_slots": 1,
+      "text": "y",
+      "dependents": [
+        {
+          "tier": "AR-traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "y"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "AR_transcripcion",
+      "start_time_ms": 51063,
+      "end_time_ms": 52706,
+      "num_slots": 1,
+      "text": "kolietnamata aktek semana nak",
+      "dependents": [
+        {
+          "tier": "AR-traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "ustedes pueden pensar esta semana"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "AR_transcripcion",
+      "start_time_ms": 53141,
+      "end_time_ms": 55651,
+      "num_slots": 1,
+      "text": "aniem'akha' taiepek mokhom annaivoma",
+      "dependents": [
+        {
+          "tier": "AR-traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "falta mucho todavía para jugar"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "AR_transcripcion",
+      "start_time_ms": 55948,
+      "end_time_ms": 56706,
+      "num_slots": 1,
+      "text": "finalista nak",
+      "dependents": [
+        {
+          "tier": "AR-traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "en la final"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "AR_transcripcion",
+      "start_time_ms": 57058,
+      "end_time_ms": 58328,
+      "num_slots": 1,
+      "text": "aplheno lhta dos",
+      "dependents": [
+        {
+          "tier": "AR-traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "[me] dijo que dos"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "AR_transcripcion",
+      "start_time_ms": 58862,
+      "end_time_ms": 60292,
+      "num_slots": 1,
+      "text": "dos semana kelha ngkolhoho'",
+      "dependents": [
+        {
+          "tier": "AR-traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "durará dos semanas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "AR_transcripcion",
+      "start_time_ms": 60689,
+      "end_time_ms": 61830,
+      "num_slots": 1,
+      "text": "akhaikokha sekhoie'",
+      "dependents": [
+        {
+          "tier": "AR-traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "se puede descansar"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "AR_transcripcion",
+      "start_time_ms": 62483,
+      "end_time_ms": 63593,
+      "num_slots": 1,
+      "text": "kakpota  y",
+      "dependents": [
+        {
+          "tier": "AR-traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "para que"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "AR_transcripcion",
+      "start_time_ms": 63733,
+      "end_time_ms": 64568,
+      "num_slots": 1,
+      "text": "ngkoietok",
+      "dependents": [
+        {
+          "tier": "AR-traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "justo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "AR_transcripcion",
+      "start_time_ms": 64623,
+      "end_time_ms": 65637,
+      "num_slots": 1,
+      "text": "ngkolentalhnekhak ma'a",
+      "dependents": [
+        {
+          "tier": "AR-traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "ya se puede usar allá"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "AR_transcripcion",
+      "start_time_ms": 65831,
+      "end_time_ms": 66761,
+      "num_slots": 1,
+      "text": "finalistata",
+      "dependents": [
+        {
+          "tier": "AR-traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "en la final"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "AR_transcripcion",
+      "start_time_ms": 66822,
+      "end_time_ms": 68155,
+      "num_slots": 1,
+      "text": "aphalhnankok camiseta",
+      "dependents": [
+        {
+          "tier": "AR-traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "las camisetas nuevas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "AR_transcripcion",
+      "start_time_ms": 68829,
+      "end_time_ms": 69913,
+      "num_slots": 1,
+      "text": "kolietnamata ktek",
+      "dependents": [
+        {
+          "tier": "AR-traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "se puede pensar"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "AR_transcripcion",
+      "start_time_ms": 70035,
+      "end_time_ms": 71955,
+      "num_slots": 1,
+      "text": "akhaikamok kolonia",
+      "dependents": [
+        {
+          "tier": "AR-traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "los que están en la Colonia"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "AR_transcripcion",
+      "start_time_ms": 72325,
+      "end_time_ms": 72879,
+      "num_slots": 1,
+      "text": "kanhan",
+      "dependents": [
+        {
+          "tier": "AR-traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "y también"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "AR_transcripcion",
+      "start_time_ms": 73409,
+      "end_time_ms": 75189,
+      "num_slots": 1,
+      "text": "y elpasem hata apnakteiangka'a",
+      "dependents": [
+        {
+          "tier": "AR-traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "y ustedes pueden ayudar a sus señoras"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "AR_transcripcion",
+      "start_time_ms": 75759,
+      "end_time_ms": 76509,
+      "num_slots": 1,
+      "text": "y",
+      "dependents": [
+        {
+          "tier": "AR-traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "y"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "AR_transcripcion",
+      "start_time_ms": 76879,
+      "end_time_ms": 79165,
+      "num_slots": 1,
+      "text": "mo'o lanha eteniak kolhvavek camisetas",
+      "dependents": [
+        {
+          "tier": "AR-traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "si ustedes también quieren buscar ya enseguida las camisetas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "AR_transcripcion",
+      "start_time_ms": 80094,
+      "end_time_ms": 82689,
+      "num_slots": 1,
+      "text": "y kakpota ngkonmama finalistata",
+      "dependents": [
+        {
+          "tier": "AR-traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "para que pueden usarlas en la final"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "AR_transcripcion",
+      "start_time_ms": 84809,
+      "end_time_ms": 85829,
+      "num_slots": 1,
+      "text": "nave lhtanham'a",
+      "dependents": [
+        {
+          "tier": "AR-traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "fue el mismo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "AR_transcripcion",
+      "start_time_ms": 85929,
+      "end_time_ms": 86948,
+      "num_slots": 1,
+      "text": "asenso nak",
+      "dependents": [
+        {
+          "tier": "AR-traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "de ascenso"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "AR_transcripcion",
+      "start_time_ms": 87103,
+      "end_time_ms": 87465,
+      "num_slots": 1,
+      "text": "y",
+      "dependents": [
+        {
+          "tier": "AR-traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "y"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "AR_transcripcion",
+      "start_time_ms": 87690,
+      "end_time_ms": 89327,
+      "num_slots": 1,
+      "text": "ngkelvannalhke lhtanha pvalho'ok",
+      "dependents": [
+        {
+          "tier": "AR-traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "si alguien tiene dudas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "AR_transcripcion",
+      "start_time_ms": 89956,
+      "end_time_ms": 92155,
+      "num_slots": 1,
+      "text": "kelpekheske niekhe ennaiok semana nak",
+      "dependents": [
+        {
+          "tier": "AR-traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "estas muy aporado de jugar esta semana"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "AR_transcripcion",
+      "start_time_ms": 92898,
+      "end_time_ms": 93724,
+      "num_slots": 1,
+      "text": "vanlha koka",
+      "dependents": [
+        {
+          "tier": "AR-traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "solo pero"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "AR_transcripcion",
+      "start_time_ms": 93798,
+      "end_time_ms": 94538,
+      "num_slots": 1,
+      "text": "y",
+      "dependents": [
+        {
+          "tier": "AR-traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "y"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "AR_transcripcion",
+      "start_time_ms": 94616,
+      "end_time_ms": 96465,
+      "num_slots": 1,
+      "text": "ietnaiam nalhta sekhe semana nak",
+      "dependents": [
+        {
+          "tier": "AR-traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "se detendrá esta semana"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "AR_transcripcion",
+      "start_time_ms": 97532,
+      "end_time_ms": 99810,
+      "num_slots": 1,
+      "text": "vanlha sioho takho clasificasion",
+      "dependents": [
+        {
+          "tier": "AR-traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "solo yo sabia esta clasificasion"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "AR_transcripcion",
+      "start_time_ms": 99882,
+      "end_time_ms": 100603,
+      "num_slots": 1,
+      "text": "y",
+      "dependents": [
+        {
+          "tier": "AR-traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "y"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "AR_transcripcion",
+      "start_time_ms": 100612,
+      "end_time_ms": 101432,
+      "num_slots": 1,
+      "text": "gracias nahan",
+      "dependents": [
+        {
+          "tier": "AR-traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "gracias y"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "AR_transcripcion",
+      "start_time_ms": 101690,
+      "end_time_ms": 102760,
+      "num_slots": 1,
+      "text": "y",
+      "dependents": [
+        {
+          "tier": "AR-traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "y"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "AR_transcripcion",
+      "start_time_ms": 103320,
+      "end_time_ms": 104534,
+      "num_slots": 1,
+      "text": "apkelvaskapekho",
+      "dependents": [
+        {
+          "tier": "AR-traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "los esfuerzos de"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "AR_transcripcion",
+      "start_time_ms": 105150,
+      "end_time_ms": 106060,
+      "num_slots": 1,
+      "text": "nennemo lhema",
+      "dependents": [
+        {
+          "tier": "AR-traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "nuestros vecinos en"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "AR_transcripcion",
+      "start_time_ms": 106290,
+      "end_time_ms": 107410,
+      "num_slots": 1,
+      "text": "Nueva Union",
+      "dependents": [
+        {
+          "tier": "AR-traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "Nueva Unión"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "AR_transcripcion",
+      "start_time_ms": 108209,
+      "end_time_ms": 109229,
+      "num_slots": 1,
+      "text": "19 de Abril",
+      "dependents": [
+        {
+          "tier": "AR-traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "19 de Abril"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "AR_transcripcion",
+      "start_time_ms": 109547,
+      "end_time_ms": 110787,
+      "num_slots": 1,
+      "text": "clasificado",
+      "dependents": [
+        {
+          "tier": "AR-traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "clasificado"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "AR_transcripcion",
+      "start_time_ms": 111517,
+      "end_time_ms": 112741,
+      "num_slots": 1,
+      "text": "lhamakho equipo",
+      "dependents": [
+        {
+          "tier": "AR-traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "el equipo completo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "AR_transcripcion",
+      "start_time_ms": 113170,
+      "end_time_ms": 115051,
+      "num_slots": 1,
+      "text": "primera juvenil femenina",
+      "dependents": [
+        {
+          "tier": "AR-traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "primera juvenil femenina"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "AR_transcripcion",
+      "start_time_ms": 115703,
+      "end_time_ms": 117724,
+      "num_slots": 1,
+      "text": "clasificasion alhta ptangkok",
+      "dependents": [
+        {
+          "tier": "AR-traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "es la clasificasion de ustedes"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "AR_transcripcion",
+      "start_time_ms": 118879,
+      "end_time_ms": 119879,
+      "num_slots": 1,
+      "text": "koka nekha nak a",
+      "dependents": [
+        {
+          "tier": "AR-traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "al otro lado acá"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "AR_transcripcion",
+      "start_time_ms": 119939,
+      "end_time_ms": 120499,
+      "num_slots": 1,
+      "text": "y",
+      "dependents": [
+        {
+          "tier": "AR-traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "y"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "AR_transcripcion",
+      "start_time_ms": 120670,
+      "end_time_ms": 121930,
+      "num_slots": 1,
+      "text": "atletico Pozo Amarillo",
+      "dependents": [
+        {
+          "tier": "AR-traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "atlético Pozo Amarillo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "AR_transcripcion",
+      "start_time_ms": 122166,
+      "end_time_ms": 124120,
+      "num_slots": 1,
+      "text": "eliminado lhna lhta ptaiangkok primera",
+      "dependents": [
+        {
+          "tier": "AR-traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "fue eliminado en la primera"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "AR_transcripcion",
+      "start_time_ms": 124736,
+      "end_time_ms": 125517,
+      "num_slots": 1,
+      "text": "vanlha",
+      "dependents": [
+        {
+          "tier": "AR-traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "solo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "AR_transcripcion",
+      "start_time_ms": 125666,
+      "end_time_ms": 127714,
+      "num_slots": 1,
+      "text": "juvenil que estan clasificado",
+      "dependents": [
+        {
+          "tier": "AR-traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "tienen el juvenil clasificado"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "AR_transcripcion",
+      "start_time_ms": 128244,
+      "end_time_ms": 129137,
+      "num_slots": 1,
+      "text": "femeninanhan",
+      "dependents": [
+        {
+          "tier": "AR-traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "femenina también"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "AR_transcripcion",
+      "start_time_ms": 129444,
+      "end_time_ms": 130293,
+      "num_slots": 1,
+      "text": "clasificado",
+      "dependents": [
+        {
+          "tier": "AR-traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "clasificado"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "AR_transcripcion",
+      "start_time_ms": 131168,
+      "end_time_ms": 133362,
+      "num_slots": 1,
+      "text": "vanlha skelto niekhe ko elvaskapkesek ma'a",
+      "dependents": [
+        {
+          "tier": "AR-traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "quiero animar con ellos"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "AR_transcripcion",
+      "start_time_ms": 133834,
+      "end_time_ms": 135448,
+      "num_slots": 1,
+      "text": "elvaskapkes hata",
+      "dependents": [
+        {
+          "tier": "AR-traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "hay que esforzar"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "AR_transcripcion",
+      "start_time_ms": 135506,
+      "end_time_ms": 137166,
+      "num_slots": 1,
+      "text": "enmeiakhata mota reunion",
+      "dependents": [
+        {
+          "tier": "AR-traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "puedemos ir siempre a la reunión"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "AR_transcripcion",
+      "start_time_ms": 137801,
+      "end_time_ms": 139379,
+      "num_slots": 1,
+      "text": "elpasem hata mota",
+      "dependents": [
+        {
+          "tier": "AR-traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "que siempre las acompañen"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "AR_transcripcion",
+      "start_time_ms": 139651,
+      "end_time_ms": 141896,
+      "num_slots": 1,
+      "text": "femenina panko'ok nlhokala juvenil",
+      "dependents": [
+        {
+          "tier": "AR-traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "femenina, puede ser en juvenil"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "AR_transcripcion",
+      "start_time_ms": 142369,
+      "end_time_ms": 142859,
+      "num_slots": 1,
+      "text": "y",
+      "dependents": [
+        {
+          "tier": "AR-traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "y"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "AR_transcripcion",
+      "start_time_ms": 143021,
+      "end_time_ms": 144344,
+      "num_slots": 1,
+      "text": "sekha pkaktengama nak ma'a",
+      "dependents": [
+        {
+          "tier": "AR-traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "esta creciendo recientemente allá"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "AR_transcripcion",
+      "start_time_ms": 144462,
+      "end_time_ms": 145931,
+      "num_slots": 1,
+      "text": "y mosa'a lhta pelota",
+      "dependents": [
+        {
+          "tier": "AR-traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "sabían jugar"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "AR_transcripcion",
+      "start_time_ms": 146635,
+      "end_time_ms": 148500,
+      "num_slots": 1,
+      "text": "vanlha skelto niekhe elvaskapkesek",
+      "dependents": [
+        {
+          "tier": "AR-traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "yo quiero animar"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "AR_transcripcion",
+      "start_time_ms": 149132,
+      "end_time_ms": 150672,
+      "num_slots": 1,
+      "text": "eteniaskes amai'",
+      "dependents": [
+        {
+          "tier": "AR-traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "busca en el camino"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "AR_transcripcion",
+      "start_time_ms": 151000,
+      "end_time_ms": 152689,
+      "num_slots": 1,
+      "text": "epasengvakhata mota reunion",
+      "dependents": [
+        {
+          "tier": "AR-traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "participar sin falta en la reunión"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "AR_transcripcion",
+      "start_time_ms": 153346,
+      "end_time_ms": 154534,
+      "num_slots": 1,
+      "text": "aktakha lhta",
+      "dependents": [
+        {
+          "tier": "AR-traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "lo que pasó"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "AR_transcripcion",
+      "start_time_ms": 154646,
+      "end_time_ms": 155724,
+      "num_slots": 1,
+      "text": "spasengvekha kolham'a",
+      "dependents": [
+        {
+          "tier": "AR-traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "yo participê allá"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "AR_transcripcion",
+      "start_time_ms": 156106,
+      "end_time_ms": 156576,
+      "num_slots": 1,
+      "text": "y",
+      "dependents": [
+        {
+          "tier": "AR-traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "y"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "AR_transcripcion",
+      "start_time_ms": 156837,
+      "end_time_ms": 158034,
+      "num_slots": 1,
+      "text": "have lhta ktema",
+      "dependents": [
+        {
+          "tier": "AR-traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "ya no pasa"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "AR_transcripcion",
+      "start_time_ms": 158327,
+      "end_time_ms": 159327,
+      "num_slots": 1,
+      "text": "vanlha sleng'a lhta",
+      "dependents": [
+        {
+          "tier": "AR-traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "solo que yo escuché"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "AR_transcripcion",
+      "start_time_ms": 159407,
+      "end_time_ms": 160810,
+      "num_slots": 1,
+      "text": "y clasificasion",
+      "dependents": [
+        {
+          "tier": "AR-traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "la clasificasion"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "AR_transcripcion",
+      "start_time_ms": 162413,
+      "end_time_ms": 163933,
+      "num_slots": 1,
+      "text": "kakno nak nan Narcelona",
+      "dependents": [
+        {
+          "tier": "AR-traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "la misma que Barcelona"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "AR_transcripcion",
+      "start_time_ms": 164114,
+      "end_time_ms": 164454,
+      "num_slots": 1,
+      "text": "y",
+      "dependents": [
+        {
+          "tier": "AR-traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "y"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "AR_transcripcion",
+      "start_time_ms": 164764,
+      "end_time_ms": 166244,
+      "num_slots": 1,
+      "text": "Paz del Chaco, Barcelona",
+      "dependents": [
+        {
+          "tier": "AR-traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "Paz del Chaco, Barcelona"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "AR_transcripcion",
+      "start_time_ms": 167234,
+      "end_time_ms": 169736,
+      "num_slots": 1,
+      "text": "clasificado lhtanha ptaiangkok completo equipo",
+      "dependents": [
+        {
+          "tier": "AR-traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "todo el equipo está clasificado también"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "AR_transcripcion",
+      "start_time_ms": 170224,
+      "end_time_ms": 171931,
+      "num_slots": 1,
+      "text": "primera juvenil y femenina",
+      "dependents": [
+        {
+          "tier": "AR-traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "primera juvenil y femenina"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "AR_transcripcion",
+      "start_time_ms": 173021,
+      "end_time_ms": 175270,
+      "num_slots": 1,
+      "text": "nalhta pkammelhekha ka niekhe ngke'e 19 de Abril",
+      "dependents": [
+        {
+          "tier": "AR-traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "juegan contra ellos el 19 de abril"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "AR_transcripcion",
+      "start_time_ms": 175334,
+      "end_time_ms": 176206,
+      "num_slots": 1,
+      "text": "kolelha ktakha",
+      "dependents": [
+        {
+          "tier": "AR-traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "como se quedó"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "AR_transcripcion",
+      "start_time_ms": 176971,
+      "end_time_ms": 178051,
+      "num_slots": 1,
+      "text": "mo'ok semana telhaha",
+      "dependents": [
+        {
+          "tier": "AR-traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "creo que la otra semana"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "AR_transcripcion",
+      "start_time_ms": 178620,
+      "end_time_ms": 179689,
+      "num_slots": 1,
+      "text": "elammelhek",
+      "dependents": [
+        {
+          "tier": "AR-traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "contra"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "AR_transcripcion",
+      "start_time_ms": 182149,
+      "end_time_ms": 184896,
+      "num_slots": 1,
+      "text": "ma'ave lhta niekhe ennaiok semana nak sabado nak",
+      "dependents": [
+        {
+          "tier": "AR-traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "ya es que vamos a jugar esta semana, este sábado"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "AR_transcripcion",
+      "start_time_ms": 185569,
+      "end_time_ms": 188482,
+      "num_slots": 1,
+      "text": "nlhokala nhan domingo o sabado",
+      "dependents": [
+        {
+          "tier": "AR-traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "puede ser también domingo o sabado"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "AR_transcripcion",
+      "start_time_ms": 189055,
+      "end_time_ms": 189885,
+      "num_slots": 1,
+      "text": "koka ntemak ma'a",
+      "dependents": [
+        {
+          "tier": "AR-traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "depende"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "AR_transcripcion",
+      "start_time_ms": 190005,
+      "end_time_ms": 191448,
+      "num_slots": 1,
+      "text": "reunion apanko'ok tan",
+      "dependents": [
+        {
+          "tier": "AR-traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "en la reunión"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "AR_transcripcion",
+      "start_time_ms": 192103,
+      "end_time_ms": 192453,
+      "num_slots": 1,
+      "text": "y",
+      "dependents": [
+        {
+          "tier": "AR-traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "y"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "AR_transcripcion",
+      "start_time_ms": 192753,
+      "end_time_ms": 194172,
+      "num_slots": 1,
+      "text": "pota angellanama ennengkolha'",
+      "dependents": [
+        {
+          "tier": "AR-traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "nosotros vamos a mirar"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "AR_transcripcion",
+      "start_time_ms": 194723,
+      "end_time_ms": 195482,
+      "num_slots": 1,
+      "text": "partido",
+      "dependents": [
+        {
+          "tier": "AR-traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "el partido"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "AR_transcripcion",
+      "start_time_ms": 196129,
+      "end_time_ms": 198000,
+      "num_slots": 1,
+      "text": "aktakha acenso nak",
+      "dependents": [
+        {
+          "tier": "AR-traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "en cuanto sobre el ascenso"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "AR_transcripcion",
+      "start_time_ms": 199129,
+      "end_time_ms": 200310,
+      "num_slots": 1,
+      "text": "kangke'e alheno nak",
+      "dependents": [
+        {
+          "tier": "AR-traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "sobre esto es lo que estoy contando"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "AR_transcripcion",
+      "start_time_ms": 200332,
+      "end_time_ms": 202872,
+      "num_slots": 1,
+      "text": "atletico Toba femenina",
+      "dependents": [
+        {
+          "tier": "AR-traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "atlética Toba femenina y"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "AR_transcripcion",
+      "start_time_ms": 203172,
+      "end_time_ms": 204034,
+      "num_slots": 1,
+      "text": "kollaielh hata",
+      "dependents": [
+        {
+          "tier": "AR-traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "hay que esperar"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "AR_transcripcion",
+      "start_time_ms": 204592,
+      "end_time_ms": 204992,
+      "num_slots": 1,
+      "text": "y",
+      "dependents": [
+        {
+          "tier": "AR-traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "y"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "AR_transcripcion",
+      "start_time_ms": 205432,
+      "end_time_ms": 206517,
+      "num_slots": 1,
+      "text": "metka kpekhai'a",
+      "dependents": [
+        {
+          "tier": "AR-traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "sin apurarse"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "AR_transcripcion",
+      "start_time_ms": 207316,
+      "end_time_ms": 208931,
+      "num_slots": 1,
+      "text": "mamma mokhom ania'a",
+      "dependents": [
+        {
+          "tier": "AR-traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "no hay  otra información"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "AR_transcripcion",
+      "start_time_ms": 209589,
+      "end_time_ms": 211517,
+      "num_slots": 1,
+      "text": "vanlha skelto urgentem'a niekhe",
+      "dependents": [
+        {
+          "tier": "AR-traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "quiero, es muy urgente"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "AR_transcripcion",
+      "start_time_ms": 211658,
+      "end_time_ms": 213465,
+      "num_slots": 1,
+      "text": "camisetas angankesekha'",
+      "dependents": [
+        {
+          "tier": "AR-traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": " recoger para las camisetas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "AR_transcripcion",
+      "start_time_ms": 213640,
+      "end_time_ms": 214750,
+      "num_slots": 1,
+      "text": "vakmo treciento mil",
+      "dependents": [
+        {
+          "tier": "AR-traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "hasta trescientos mil [Guarani]"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "AR_transcripcion",
+      "start_time_ms": 214996,
+      "end_time_ms": 216236,
+      "num_slots": 1,
+      "text": "kakpota angapaksek ma'a",
+      "dependents": [
+        {
+          "tier": "AR-traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "para que podemos enviarlo allá"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "AR_transcripcion",
+      "start_time_ms": 216422,
+      "end_time_ms": 217534,
+      "num_slots": 1,
+      "text": "kolhvavek elvak ma'a",
+      "dependents": [
+        {
+          "tier": "AR-traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "y que llegan enseguida"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "AR_transcripcion",
+      "start_time_ms": 218002,
+      "end_time_ms": 218517,
+      "num_slots": 1,
+      "text": "pota",
+      "dependents": [
+        {
+          "tier": "AR-traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "para"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "AR_transcripcion",
+      "start_time_ms": 218862,
+      "end_time_ms": 219492,
+      "num_slots": 1,
+      "text": "y",
+      "dependents": [
+        {
+          "tier": "AR-traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "y"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "AR_transcripcion",
+      "start_time_ms": 220142,
+      "end_time_ms": 221775,
+      "num_slots": 1,
+      "text": "ngkoietok ma'a finalista",
+      "dependents": [
+        {
+          "tier": "AR-traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "va directamente al final"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "AR_transcripcion",
+      "start_time_ms": 222362,
+      "end_time_ms": 223689,
+      "num_slots": 1,
+      "text": "ke ania'a ngke'e Bernardo",
+      "dependents": [
+        {
+          "tier": "AR-traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "este es mi información Bernado"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "AR_transcripcion",
+      "start_time_ms": 223885,
+      "end_time_ms": 225620,
+      "num_slots": 1,
+      "text": "pota aleltennasangkok",
+      "dependents": [
+        {
+          "tier": "AR-traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "para que puedo informar"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "AR_transcripcion",
+      "start_time_ms": 226366,
+      "end_time_ms": 226982,
+      "num_slots": 1,
+      "text": "aktakha'",
+      "dependents": [
+        {
+          "tier": "AR-traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "sobre lo que está pasando"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "AR_transcripcion",
+      "start_time_ms": 227086,
+      "end_time_ms": 227446,
+      "num_slots": 1,
+      "text": "y",
+      "dependents": [
+        {
+          "tier": "AR-traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "y"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "AR_transcripcion",
+      "start_time_ms": 227686,
+      "end_time_ms": 228413,
+      "num_slots": 1,
+      "text": "lhenammalhka'",
+      "dependents": [
+        {
+          "tier": "AR-traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "es la información"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "AR_transcripcion",
+      "start_time_ms": 228636,
+      "end_time_ms": 229376,
+      "num_slots": 1,
+      "text": "partido",
+      "dependents": [
+        {
+          "tier": "AR-traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "partido"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "AR_transcripcion",
+      "start_time_ms": 229806,
+      "end_time_ms": 230706,
+      "num_slots": 1,
+      "text": "y",
+      "dependents": [
+        {
+          "tier": "AR-traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "y"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "AR_transcripcion",
+      "start_time_ms": 231769,
+      "end_time_ms": 232948,
+      "num_slots": 1,
+      "text": "semana lhta kokanhan",
+      "dependents": [
+        {
+          "tier": "AR-traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "esta semana y también"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "AR_transcripcion",
+      "start_time_ms": 233859,
+      "end_time_ms": 234586,
+      "num_slots": 1,
+      "text": "semana nak",
+      "dependents": [
+        {
+          "tier": "AR-traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "esta semana"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "AR_transcripcion",
+      "start_time_ms": 235109,
+      "end_time_ms": 238275,
+      "num_slots": 1,
+      "text": "skelelmalhnema lhta mota sekla ngkotnek finalistaie",
+      "dependents": [
+        {
+          "tier": "AR-traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "pregunté quién siempre lo va a hacer, para ir a la final"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "AR_transcripcion",
+      "start_time_ms": 238694,
+      "end_time_ms": 239796,
+      "num_slots": 1,
+      "text": "vanlha",
+      "dependents": [
+        {
+          "tier": "AR-traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "solo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "AR_transcripcion",
+      "start_time_ms": 240491,
+      "end_time_ms": 241651,
+      "num_slots": 1,
+      "text": "mamma mokhom ania'a",
+      "dependents": [
+        {
+          "tier": "AR-traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "no hay otra información ahora"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "AR_transcripcion",
+      "start_time_ms": 242062,
+      "end_time_ms": 244689,
+      "num_slots": 1,
+      "text": "mamma vanlha angelailhek mokhom",
+      "dependents": [
+        {
+          "tier": "AR-traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "no hay, solo vamos a esperar "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "AR_transcripcion",
+      "start_time_ms": 244903,
+      "end_time_ms": 246178,
+      "num_slots": 1,
+      "text": "nueva informacion",
+      "dependents": [
+        {
+          "tier": "AR-traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "nueva información"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "AR_transcripcion",
+      "start_time_ms": 246598,
+      "end_time_ms": 247603,
+      "num_slots": 1,
+      "text": "nonak",
+      "dependents": [
+        {
+          "tier": "AR-traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "sobre"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "AR_transcripcion",
+      "start_time_ms": 248569,
+      "end_time_ms": 249729,
+      "num_slots": 1,
+      "text": "dos semana kelha",
+      "dependents": [
+        {
+          "tier": "AR-traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "dos semanas creo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "AR_transcripcion",
+      "start_time_ms": 250077,
+      "end_time_ms": 251551,
+      "num_slots": 1,
+      "text": "akietemo akhaikokha'",
+      "dependents": [
+        {
+          "tier": "AR-traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "van a descansar"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "AR_transcripcion",
+      "start_time_ms": 252103,
+      "end_time_ms": 253172,
+      "num_slots": 1,
+      "text": "mangkotnekhek ma'a",
+      "dependents": [
+        {
+          "tier": "AR-traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "no va hacer como"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "AR_transcripcion",
+      "start_time_ms": 253269,
+      "end_time_ms": 254448,
+      "num_slots": 1,
+      "text": "aktepo la ania'a",
+      "dependents": [
+        {
+          "tier": "AR-traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "van a lanzar la información"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "AR_transcripcion",
+      "start_time_ms": 254768,
+      "end_time_ms": 256775,
+      "num_slots": 1,
+      "text": "netamen ngkotnek finalista",
+      "dependents": [
+        {
+          "tier": "AR-traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "luego sera la final"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "AR_transcripcion",
+      "start_time_ms": 256812,
+      "end_time_ms": 257667,
+      "num_slots": 1,
+      "text": "netamen",
+      "dependents": [
+        {
+          "tier": "AR-traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "después"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "AR_transcripcion",
+      "start_time_ms": 258362,
+      "end_time_ms": 259551,
+      "num_slots": 1,
+      "text": "aniohok nahan",
+      "dependents": [
+        {
+          "tier": "AR-traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "y vamos a saber"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "AR_transcripcion",
+      "start_time_ms": 259706,
+      "end_time_ms": 261218,
+      "num_slots": 1,
+      "text": "ngkotiepok campeon ke",
+      "dependents": [
+        {
+          "tier": "AR-traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "quien va a ser el campeón"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "AR_transcripcion",
+      "start_time_ms": 261551,
+      "end_time_ms": 262844,
+      "num_slots": 1,
+      "text": "sek la vice campeon",
+      "dependents": [
+        {
+          "tier": "AR-traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "quien va a ser el vice campeón"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "AR_transcripcion",
+      "start_time_ms": 264293,
+      "end_time_ms": 265379,
+      "num_slots": 1,
+      "text": "kangke'e alheno nak",
+      "dependents": [
+        {
+          "tier": "AR-traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "esí lo que estoy informando"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "AR_transcripcion",
+      "start_time_ms": 267482,
+      "end_time_ms": 268815,
+      "num_slots": 1,
+      "text": "mammanlho la mo'ok ania'a",
+      "dependents": [
+        {
+          "tier": "AR-traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "no tengo más información"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "AR_transcripcion",
+      "start_time_ms": 268873,
+      "end_time_ms": 269830,
+      "num_slots": 1,
+      "text": "vanlha",
+      "dependents": [
+        {
+          "tier": "AR-traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "solo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "AR_transcripcion",
+      "start_time_ms": 269975,
+      "end_time_ms": 271453,
+      "num_slots": 1,
+      "text": "alhaieta mokhom",
+      "dependents": [
+        {
+          "tier": "AR-traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "mas tarde voy a informar"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "AR_transcripcion",
+      "start_time_ms": 271772,
+      "end_time_ms": 273406,
+      "num_slots": 1,
+      "text": "y nietnek kelha ania'a ngke'e",
+      "dependents": [
+        {
+          "tier": "AR-traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "y creo hay información"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "AR_transcripcion",
+      "start_time_ms": 273493,
+      "end_time_ms": 275565,
+      "num_slots": 1,
+      "text": "amaika'a nak apvaktamo konne radio",
+      "dependents": [
+        {
+          "tier": "AR-traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "los visitantes que viene al estación del radio"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "AR_transcripcion",
+      "start_time_ms": 276087,
+      "end_time_ms": 276681,
+      "num_slots": 1,
+      "text": "y",
+      "dependents": [
+        {
+          "tier": "AR-traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "y"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "AR_transcripcion",
+      "start_time_ms": 277688,
+      "end_time_ms": 279630,
+      "num_slots": 1,
+      "text": "takha apvekta",
+      "dependents": [
+        {
+          "tier": "AR-traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "como esta llegando"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "AR_transcripcion",
+      "start_time_ms": 279780,
+      "end_time_ms": 281056,
+      "num_slots": 1,
+      "text": "",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "AR_transcripcion",
+      "start_time_ms": 281107,
+      "end_time_ms": 282431,
+      "num_slots": 1,
+      "text": "alhaieta mokhom",
+      "dependents": [
+        {
+          "tier": "AR-traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "mas tarde voy informar otra vez"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

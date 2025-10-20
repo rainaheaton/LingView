@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "timed": true,
+    "story ID": "202b0cd7-d739-4cd1-9193-9de3879109e1",
+    "title": {
+      "_default": "Rosalia-Miranda_radioPA"
+    },
+    "media": {
+      "audio_local": "",
+      "audio_remote": "",
+      "video": "https://lingview-enenlhet.sfo3.digitaloceanspaces.com/2019/video/Rosalia-Miranda_radioPA.mp4",
+      "audio": ""
+    },
+    "languages": [],
+    "date_created": "",
+    "date_uploaded": "9/28/2025",
+    "source": {
+      "_default": ""
+    },
+    "description": "",
+    "genre": "",
+    "author": "",
+    "glosser": "",
+    "speakers": [],
+    "xml_file_name": "Rosalia-Miranda_radioPA.eaf",
+    "source_filetype": "ELAN",
+    "tier IDs": {},
+    "speaker IDs": {}
+  },
+  "sentences": []
+}

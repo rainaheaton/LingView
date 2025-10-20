@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "timed": true,
+    "story ID": "05eef3a5-8562-4b32-ae9b-8e5c38601170",
+    "title": {
+      "_default": "Miguel-Romero_Hapong-Aniep"
+    },
+    "media": {
+      "audio_local": "",
+      "audio_remote": "",
+      "video": "https://lingview-enenlhet.sfo3.digitaloceanspaces.com/2025/video/Miguel-Romero_Hapong-Aniep.mp4",
+      "audio": ""
+    },
+    "languages": [],
+    "date_created": "",
+    "date_uploaded": "9/28/2025",
+    "source": {
+      "_default": ""
+    },
+    "description": "",
+    "genre": "",
+    "author": "",
+    "glosser": "",
+    "speakers": [],
+    "xml_file_name": "Miguel-Romero_Hapong-Aniep.eaf",
+    "source_filetype": "ELAN",
+    "tier IDs": {},
+    "speaker IDs": {}
+  },
+  "sentences": []
+}

@@ -31,9 +31,6 @@ export function Header() {
           <NavLink to="/about">
             <TranslatableText dictionary={navBarAboutText} />
           </NavLink>
-          <NavLink to="/glossary">
-            <TranslatableText dictionary={navBarGlossaryText} />
-          </NavLink>
           <NavLink to="/index">
             <TranslatableText dictionary={navBarIndexText} />
           </NavLink>

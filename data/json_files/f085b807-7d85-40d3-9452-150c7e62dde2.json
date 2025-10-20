@@ -1,0 +1,6226 @@
+{
+  "metadata": {
+    "timed": true,
+    "story ID": "f085b807-7d85-40d3-9452-150c7e62dde2",
+    "title": {
+      "_default": "Delosanto-Aguilar_parte1"
+    },
+    "media": {
+      "audio_local": "",
+      "audio_remote": "",
+      "video": "https://lingview-enenlhet.sfo3.digitaloceanspaces.com/2022/video/Delosanto-Aguilar_parte1.mp4",
+      "audio": ""
+    },
+    "languages": [],
+    "date_created": "",
+    "date_uploaded": "9/25/2025",
+    "source": {
+      "_default": ""
+    },
+    "description": "",
+    "genre": "",
+    "author": "",
+    "glosser": "",
+    "speakers": [
+      "Delosanto Aguilera"
+    ],
+    "xml_file_name": "Delosanto-Aguilar_parte1.eaf",
+    "source_filetype": "ELAN",
+    "tier IDs": {
+      "FF_Transcripcion": {
+        "subdivided": false
+      },
+      "FF_Traduccion": {
+        "subdivided": false
+      }
+    },
+    "speaker IDs": {
+      "S1": {
+        "name": "Delosanto Aguilera",
+        "tier": "FF_Transcripcion"
+      }
+    }
+  },
+  "sentences": [
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 500,
+      "end_time_ms": 990,
+      "num_slots": 1,
+      "text": "tase......",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "bueno"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 3000,
+      "end_time_ms": 4880,
+      "num_slots": 1,
+      "text": "aniep alhtanham'a",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "había una chacra allá también"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 7120,
+      "end_time_ms": 9470,
+      "num_slots": 1,
+      "text": "y niehe knema lhta ltema          ",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "no se como fue llamado"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 9545,
+      "end_time_ms": 11405,
+      "num_slots": 1,
+      "text": "Ia' Mekka Ngken Ielhem'",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "Ia' Mekka Ngken Ielhem' (nombre de lugar, lit. sin mamma anguila)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 12005,
+      "end_time_ms": 14005,
+      "num_slots": 1,
+      "text": "ka aniep alhta",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "era una chacra"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 14585,
+      "end_time_ms": 16405,
+      "num_slots": 1,
+      "text": "lietektemapo lhta v'hak",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "se plantó pomelo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 18115,
+      "end_time_ms": 20705,
+      "num_slots": 1,
+      "text": "pota kolhek hei'asakho",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "luego me lleva"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 22410,
+      "end_time_ms": 24010,
+      "num_slots": 1,
+      "text": "talhelhmanha",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "tambien me acompaña"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 24621,
+      "end_time_ms": 26250,
+      "num_slots": 1,
+      "text": "po'ok alhta Melanta",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "otra persona Melanta"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 26427,
+      "end_time_ms": 28523,
+      "num_slots": 1,
+      "text": "henaivesaikokhe mota ",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "el siempre estaba jugando conmigo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 28937,
+      "end_time_ms": 30808,
+      "num_slots": 1,
+      "text": "neliavekho aniep",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "fuimos a la chacra"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 31987,
+      "end_time_ms": 35213,
+      "num_slots": 1,
+      "text": "samaneia ietnengke lhta samaneia",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "habían sandías en cantidad"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 36410,
+      "end_time_ms": 40652,
+      "num_slots": 1,
+      "text": "lekvaiakme mota samaneia moke masmak Melanta",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "saque sandía pero Melanta no dijó nada"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 41794,
+      "end_time_ms": 44020,
+      "num_slots": 1,
+      "text": "kanha lietektemapo lhtanhan",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "tambien pomelos"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 45623,
+      "end_time_ms": 47994,
+      "num_slots": 1,
+      "text": "mucho lha kielhna",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "había mucha fruta"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 48037,
+      "end_time_ms": 49795,
+      "num_slots": 1,
+      "text": "mante kielhna ma",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "mucha fruta"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 50935,
+      "end_time_ms": 53838,
+      "num_slots": 1,
+      "text": "mandarina kanha kmases anak ",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "mandarinas y también naranjas dulces"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 54795,
+      "end_time_ms": 56053,
+      "num_slots": 1,
+      "text": "kanha",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "también"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 56430,
+      "end_time_ms": 59027,
+      "num_slots": 1,
+      "text": "lietektemapo kmaska na liavai'a",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "pomelos agrios"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 62181,
+      "end_time_ms": 67100,
+      "num_slots": 1,
+      "text": "ka siav'o he vaktamo na seihengka ",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "yo estaba creciendo, mi padre vino"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 67668,
+      "end_time_ms": 71636,
+      "num_slots": 1,
+      "text": "pelhasep ka pkelelmotmak ma'a Iovaqhe",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "de noche explotaba en Iovaqhe"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 72351,
+      "end_time_ms": 74899,
+      "num_slots": 1,
+      "text": "38 psekama",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "38 usaba [?]"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 75800,
+      "end_time_ms": 78381,
+      "num_slots": 1,
+      "text": "pog,pog,pog",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "pog, pog, pog"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 79625,
+      "end_time_ms": 82625,
+      "num_slots": 1,
+      "text": "apekkenalha paqtek pieihengka Melanta ",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "entonces el papá de Melanta pone ojo "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 83234,
+      "end_time_ms": 86815,
+      "num_slots": 1,
+      "text": "kelhiakme na niapom tama na pkano ",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "ya viene tu papá le dijo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 87218,
+      "end_time_ms": 88960,
+      "num_slots": 1,
+      "text": "evatata ngke'e",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "va a llegar aquí"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 90480,
+      "end_time_ms": 92447,
+      "num_slots": 1,
+      "text": "mpaihakhe evalhok",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "me sentí muy feliz"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 93390,
+      "end_time_ms": 97616,
+      "num_slots": 1,
+      "text": "pelhasep apvektak Nesakhanem natemma lhta",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "llegó por la noche a Nesakhanem donde estaba nuestra casa"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 98590,
+      "end_time_ms": 100831,
+      "num_slots": 1,
+      "text": "na pkelhiakmo nak ",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "está viniendo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 101573,
+      "end_time_ms": 108041,
+      "num_slots": 1,
+      "text": "stoma ko pketsentak ma'a pakova mangko pan",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "trajé mi comida de banana, mango, y pan"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 109402,
+      "end_time_ms": 111693,
+      "num_slots": 1,
+      "text": "sketsepave svet'o",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "yo estaba feliz de verlo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 113973,
+      "end_time_ms": 118070,
+      "num_slots": 1,
+      "text": "pota alhe pkammelhakha steianveiakmek kelhanhan",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "estaba sentado frente a él, no me di cuenta de que dormía"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 121222,
+      "end_time_ms": 124222,
+      "num_slots": 1,
+      "text": "monneiangkok pkaqhemo kelham'a ",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "No lo sentí cuando volvió"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 126196,
+      "end_time_ms": 129841,
+      "num_slots": 1,
+      "text": "ka tsak'o sketangke niekhe ",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "cuando amaneció lo busqué"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 130338,
+      "end_time_ms": 135241,
+      "num_slots": 1,
+      "text": "ka kno hei'asakho aniep mokhomta songke sketamo seihengka",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "me llevaron a la chacra, porque me extrañaba mi papá"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 135322,
+      "end_time_ms": 136629,
+      "num_slots": 1,
+      "text": "nok aniep",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "vamos a la chacra!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 137204,
+      "end_time_ms": 140027,
+      "num_slots": 1,
+      "text": "mpaihengvakhe evalhok aniep svakho ",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "estaba feliz cuando llegué a la chacra"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 142409,
+      "end_time_ms": 143635,
+      "num_slots": 1,
+      "text": "pota ",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "para"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 145379,
+      "end_time_ms": 149814,
+      "num_slots": 1,
+      "text": "ngkolhek hetaskeso samania e",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "me mostraron las sandías"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 151007,
+      "end_time_ms": 153216,
+      "num_slots": 1,
+      "text": "palhqatme mota samania ",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "rompe la sandía "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 153507,
+      "end_time_ms": 157217,
+      "num_slots": 1,
+      "text": "pota nha ngkolhek hei'asakho Opkenamo lhta kvesa",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "me llevaron a Opkenamok se llama"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 157769,
+      "end_time_ms": 159640,
+      "num_slots": 1,
+      "text": "nekha nak Iovaqhe ",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "a lado de Iovaqhe"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 159676,
+      "end_time_ms": 161450,
+      "num_slots": 1,
+      "text": "lhtanha aniep ma'a",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "era una chacra"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 163035,
+      "end_time_ms": 166584,
+      "num_slots": 1,
+      "text": "ka siavho he ke lhengke",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "cuando crecí me fui"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 167135,
+      "end_time_ms": 168055,
+      "num_slots": 1,
+      "text": "pota ",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "para"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 168986,
+      "end_time_ms": 171809,
+      "num_slots": 1,
+      "text": "ngkolhek helannengka nalhma'",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "me invitan al monte"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 172240,
+      "end_time_ms": 175046,
+      "num_slots": 1,
+      "text": "panaqtema nenteksasekama",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "masticamos una hoja de arbusto"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 175616,
+      "end_time_ms": 178842,
+      "num_slots": 1,
+      "text": "nak nentengiai'a eniaspok",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "a buscar carganda [cuello?]"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 179553,
+      "end_time_ms": 182536,
+      "num_slots": 1,
+      "text": "ka nengengkeskama ham Nianemana",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "para que hacemos el Nianemana (danza tradicional)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 184111,
+      "end_time_ms": 187930,
+      "num_slots": 1,
+      "text": "malhtoka helvai'ak natemma heltamongvaiakme lhta kom'a",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "no estuve más acercando la casa, me acostumbré"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 188060,
+      "end_time_ms": 189820,
+      "num_slots": 1,
+      "text": "maskengke lhta heliepvaiam'",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "terminó mi añoranza"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 190407,
+      "end_time_ms": 194149,
+      "num_slots": 1,
+      "text": "ketko'ok alhta songke keliepetkekho ",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "porque yo estaba junto con otros jóvenes"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 194766,
+      "end_time_ms": 196798,
+      "num_slots": 1,
+      "text": "nenmeiekhe mota ",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "siempre fuimos"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 197593,
+      "end_time_ms": 201190,
+      "num_slots": 1,
+      "text": "neliaikamata panaqtema nenteksaskama",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "buscamos arbustos para masticar"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 202909,
+      "end_time_ms": 205618,
+      "num_slots": 1,
+      "text": "kanentema ngke'e nak na ha'e ",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "asi se hace aquí y también "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 206040,
+      "end_time_ms": 207653,
+      "num_slots": 1,
+      "text": "po'ok alhta Leonso ",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "era otro hombre Leonso"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 208300,
+      "end_time_ms": 210219,
+      "num_slots": 1,
+      "text": "ta hengelieplekamam'a",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "nos acompaño"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 211040,
+      "end_time_ms": 212830,
+      "num_slots": 1,
+      "text": "Mancalio lhta pvesa'a ",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "Mancalio era su nombre"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 213632,
+      "end_time_ms": 218051,
+      "num_slots": 1,
+      "text": "nentakmelkeskamavek nan annengkenek ham ptema mota",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "tenemos que ponerlo bien así me dijo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 218646,
+      "end_time_ms": 223065,
+      "num_slots": 1,
+      "text": "iamet atkok nenengkeskamak a malhek nentemak ",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "a colocar un palito sobre un hoyo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 224214,
+      "end_time_ms": 228795,
+      "num_slots": 1,
+      "text": "aholhek na ngkotnek nempaivoma vangko la iamet atkok",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "el grito dura mucho si tiene palo largo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 230006,
+      "end_time_ms": 231829,
+      "num_slots": 1,
+      "text": "lha ptema pota ",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "así dijo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 234599,
+      "end_time_ms": 235228,
+      "num_slots": 1,
+      "text": "pota ",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "después "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 235663,
+      "end_time_ms": 238824,
+      "num_slots": 1,
+      "text": "ngkoite nianemam'a Halhema Teves",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "pasa la fiesta Nianemana en Halhema Teves"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 239620,
+      "end_time_ms": 243636,
+      "num_slots": 1,
+      "text": "ke kangkempa nianemana ngke'e kolonia nak",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "empesó el Nianemana en la Colonia"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 245793,
+      "end_time_ms": 248196,
+      "num_slots": 1,
+      "text": "ka pmamo na ngke luis leiva ",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "se agarró Luis Leiva"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 250270,
+      "end_time_ms": 252129,
+      "num_slots": 1,
+      "text": "kannema kiantemekho",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "se llevó"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 252402,
+      "end_time_ms": 253885,
+      "num_slots": 1,
+      "text": "Halhema Teves",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "a Halhema Teves"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 255616,
+      "end_time_ms": 260648,
+      "num_slots": 1,
+      "text": "kelpaive pketko'ok kmangko nak pensema paha lhta vesa'a ",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "los jóvenes estaban gritando allá"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 263394,
+      "end_time_ms": 265410,
+      "num_slots": 1,
+      "text": "epaio' ntama",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "grita"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 265554,
+      "end_time_ms": 266489,
+      "num_slots": 1,
+      "text": "epaio'",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "a gritar"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 267029,
+      "end_time_ms": 270029,
+      "num_slots": 1,
+      "text": "smangkaqhe sma'a paio'",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "estaba avergonzado de gritar"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 271018,
+      "end_time_ms": 273051,
+      "num_slots": 1,
+      "text": "kolhva sveta'a ",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "recien yo veo que"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 273447,
+      "end_time_ms": 275608,
+      "num_slots": 1,
+      "text": "smangkakke mota ",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "tenía vergüenza"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 275820,
+      "end_time_ms": 280239,
+      "num_slots": 1,
+      "text": "epaio', Otalio lhta pvesa'a apaivakhe mota ",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "grita! Otalio se llama, cada rato grita"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 282194,
+      "end_time_ms": 284855,
+      "num_slots": 1,
+      "text": "lhema ma'a ngkoklhek aknem ",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "empieza a entrar el sol"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 286399,
+      "end_time_ms": 291624,
+      "num_slots": 1,
+      "text": "koka siepkonkaso na ee aholhe spaivoma ",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "comenzó a probar gritando largos, largos minutos"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 293302,
+      "end_time_ms": 297157,
+      "num_slots": 1,
+      "text": "koktakha ntase nak lheiap ptak heiano",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "como está usted, te salió bien, me dijo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 297604,
+      "end_time_ms": 299169,
+      "num_slots": 1,
+      "text": "Otalio lhta pvesa",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "Otalio era su nombre"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 299571,
+      "end_time_ms": 301991,
+      "num_slots": 1,
+      "text": "angenmeiakha'e pkaknangkolha na pketko'ok",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "vamos a ir donde están los jóvenes"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 303385,
+      "end_time_ms": 305046,
+      "num_slots": 1,
+      "text": "ka nelvakho ",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "llegamos"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 306172,
+      "end_time_ms": 307817,
+      "num_slots": 1,
+      "text": "het-haniakme nak ",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "me acercó"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 311434,
+      "end_time_ms": 315853,
+      "num_slots": 1,
+      "text": "niehek knema lhta ltemo ka piapom hengke'e",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "no se como se llamaba, era el papá de él"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 316968,
+      "end_time_ms": 321049,
+      "num_slots": 1,
+      "text": "Sillo na pvesa'a o niehe pvesa'a lhta ",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "Sillo es su nombre, no se como se llamaba"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 323353,
+      "end_time_ms": 324063,
+      "num_slots": 1,
+      "text": "tap",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 324361,
+      "end_time_ms": 326313,
+      "num_slots": 1,
+      "text": "seklhek paivomolhke ke",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "quien gritó? "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 326488,
+      "end_time_ms": 328456,
+      "num_slots": 1,
+      "text": "kangke'e pkenmangka nak ",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "a aquel que está parado"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 329217,
+      "end_time_ms": 332266,
+      "num_slots": 1,
+      "text": "kolhe ptama iama tatse ngke'e ",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "enseguida hace iama tatse este"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 332849,
+      "end_time_ms": 335462,
+      "num_slots": 1,
+      "text": "lag,lag,lag epaio'",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "lag, lag, lag grita"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 336030,
+      "end_time_ms": 340030,
+      "num_slots": 1,
+      "text": "lhespaiva ngkoiav'alhma ketko'ok",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "grité en medio de los jóvenes "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 341011,
+      "end_time_ms": 343431,
+      "num_slots": 1,
+      "text": "kellailhave spaivoma ",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "escucharon cuando grité"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 344614,
+      "end_time_ms": 349033,
+      "num_slots": 1,
+      "text": "lheiap anak alhaieta tepota knem tama heiano ",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "usted [lo hace?] mas tarde cuando salga el sol, así me dijo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 350007,
+      "end_time_ms": 352039,
+      "num_slots": 1,
+      "text": "iamasma iamet ",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "iamasma iamet (nombre de uno de juego)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 352579,
+      "end_time_ms": 355224,
+      "num_slots": 1,
+      "text": "nak hepekkenak sosekhe ",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "me pone por la mañana [?]"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 357985,
+      "end_time_ms": 361823,
+      "num_slots": 1,
+      "text": "e nek hetalheso hetalheskama pankek nam'a ",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "me enmarco a mí mismo me enmarco"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 362167,
+      "end_time_ms": 363796,
+      "num_slots": 1,
+      "text": "po'ok alhta leonso",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "era un otro Leonso"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 365388,
+      "end_time_ms": 369308,
+      "num_slots": 1,
+      "text": "lhemanha piephongvekhak ma'a kieto iokhalhma",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "uno salió hacia afuera "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 370318,
+      "end_time_ms": 372705,
+      "num_slots": 1,
+      "text": "ngkelvana ngketlhekmok ha'e ptama ",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "ya vienen las mujeres "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 374563,
+      "end_time_ms": 377241,
+      "num_slots": 1,
+      "text": "no heiatkeskasakho epatek naqhapa ",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "me ponen mi cabeza en un bolsón de caraguatá"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 378336,
+      "end_time_ms": 380545,
+      "num_slots": 1,
+      "text": "ngvengka lhta ngketsokmok",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "trajeron una olla "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 382041,
+      "end_time_ms": 383654,
+      "num_slots": 1,
+      "text": "khanemalhka ",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "cocinaron"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 386357,
+      "end_time_ms": 391018,
+      "num_slots": 1,
+      "text": "hellan'ave niekhe ngkelvana ke hetalheske koka ",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "las mujeres me miraban pero me habia marcado"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 393238,
+      "end_time_ms": 396835,
+      "num_slots": 1,
+      "text": "ke mamma nlhenek Kopaknemangve lhta kvesa'a",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "nada va a hablar, Kopaknemangve era su nombre (de una señora)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 397103,
+      "end_time_ms": 398023,
+      "num_slots": 1,
+      "text": "soma",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "soma"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 398647,
+      "end_time_ms": 401001,
+      "num_slots": 1,
+      "text": "kanha pmamo nak Feliciano piavai'a",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "y también que tomo [?] Feliciano gordo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 401567,
+      "end_time_ms": 403792,
+      "num_slots": 1,
+      "text": "mokhamek kelham'a",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "creo que está todavía "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 404438,
+      "end_time_ms": 406132,
+      "num_slots": 1,
+      "text": "metkelha tava'",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "cuando ella no tenía a su marido"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 406721,
+      "end_time_ms": 409011,
+      "num_slots": 1,
+      "text": "kanha mo'ok alhta ham Aksel",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "también era otro, Aksel"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 409307,
+      "end_time_ms": 410887,
+      "num_slots": 1,
+      "text": "ietnektamo nak",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "vino por acá"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 411908,
+      "end_time_ms": 414762,
+      "num_slots": 1,
+      "text": "heltamesave niehe skenmangkolha ",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "me miran fuerte donde estoy parado"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 415728,
+      "end_time_ms": 419438,
+      "num_slots": 1,
+      "text": "ke kalpekeno ngvengka ngkeltakhave ",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "pusieron la olla y se fueron "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 422456,
+      "end_time_ms": 425908,
+      "num_slots": 1,
+      "text": "ka ntavelhkek nentoma ",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "y comieron la comida "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 426944,
+      "end_time_ms": 430250,
+      "num_slots": 1,
+      "text": "molhkai'ak ko apetek vanlha pkelvaneiam",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "yo no recibí carne, solo los ancianos"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 431505,
+      "end_time_ms": 436005,
+      "num_slots": 1,
+      "text": "vanlha na lhok'o iaqtepa lhta namalhek peia'",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "solo yo recibí zapallo y batata"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 437128,
+      "end_time_ms": 440644,
+      "num_slots": 1,
+      "text": "moka tavak apetek seppo paqtek alhta kiepetkai'a ",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "yo no comí carne con fariña de mandioca"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 442969,
+      "end_time_ms": 447453,
+      "num_slots": 1,
+      "text": "pota mokhom ngkolhe apasom'a piav'a temma lhema phapak ",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "y luego otra vez me puede mandar donde hay mucha gente "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 448309,
+      "end_time_ms": 451261,
+      "num_slots": 1,
+      "text": "etienengvakho no m'a ngkotiepok nianemana tkok ",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "puedes ir a mirar que salga el Nianemana atkok"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 454547,
+      "end_time_ms": 460031,
+      "num_slots": 1,
+      "text": "ke mokhek kelha pkeneng kenengvekhak nianemana tkok ",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "de lejos paro a mirar el Nianemana tkok"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 460521,
+      "end_time_ms": 461827,
+      "num_slots": 1,
+      "text": "pkeliaskama",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "ayudan"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 462725,
+      "end_time_ms": 467837,
+      "num_slots": 1,
+      "text": "ka pvet'o kelha mo'o ngkotiepok ma'a pota etaqho kolhvave",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "cuando veo antes de irme y volver enseguida"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 469751,
+      "end_time_ms": 472041,
+      "num_slots": 1,
+      "text": "ma'aklhe ngkotiepok nianemana tkok",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "va a salir del Nianemana tkok"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 473624,
+      "end_time_ms": 475576,
+      "num_slots": 1,
+      "text": "kenmesnelhtako ",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "pare y salte"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 477786,
+      "end_time_ms": 479205,
+      "num_slots": 1,
+      "text": "tep aknem alhta",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "donde sale el sol"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 480435,
+      "end_time_ms": 481516,
+      "num_slots": 1,
+      "text": "smeiakhe",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "me fui"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 482659,
+      "end_time_ms": 485336,
+      "num_slots": 1,
+      "text": "pota ataqhok mokhom ",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "volví otra vez"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 486737,
+      "end_time_ms": 487850,
+      "num_slots": 1,
+      "text": "kakpota ",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "es para"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 488288,
+      "end_time_ms": 491256,
+      "num_slots": 1,
+      "text": "anelhtentak mokhom smammelho ko ",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "salté y lo enfrenté"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 491707,
+      "end_time_ms": 495255,
+      "num_slots": 1,
+      "text": "tepo knem koka spaivo nak ko ",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "donde sale el sol, comencé a gritar"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 496939,
+      "end_time_ms": 499004,
+      "num_slots": 1,
+      "text": "aholhe spaivoma ",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "un grito muy largo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 503430,
+      "end_time_ms": 509140,
+      "num_slots": 1,
+      "text": "pota ngkolentepok vankeskama iettek ke ma aholhe' nlhanie' ",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "y sale vankeskama iettek muy largo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 509384,
+      "end_time_ms": 512287,
+      "num_slots": 1,
+      "text": "have tres nlhaniek anke ",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "no es tres, es mucho"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 513731,
+      "end_time_ms": 517053,
+      "num_slots": 1,
+      "text": "mekka kpekhai'a kokam'a klhengama manie nak ",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "despacito el va primero "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 518974,
+      "end_time_ms": 520684,
+      "num_slots": 1,
+      "text": "mamma kpekhai'a ",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "sin apurar"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 523461,
+      "end_time_ms": 527219,
+      "num_slots": 1,
+      "text": "mamma nha kpekhai'a kolha alhaie alhengama",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "yo también sin apurarme de andar"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 528811,
+      "end_time_ms": 534827,
+      "num_slots": 1,
+      "text": "pota avomok natemma lhke sienaivkek iamet kelaptepangke",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "cuando llegué a una casa tiré un palo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 537743,
+      "end_time_ms": 539437,
+      "num_slots": 1,
+      "text": "spaivongvakmo",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "gritando"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 542356,
+      "end_time_ms": 544744,
+      "num_slots": 1,
+      "text": "pota ataqhok netamen ",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "y volví de nuevo atras"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 546361,
+      "end_time_ms": 552684,
+      "num_slots": 1,
+      "text": "nlepangkek iaqtepa stoma ntama nak apenneng'a lhta manna ngvammelhmok kom'a",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "que mi zapallo no está maduro me dijo una anciana, pero no lo miré "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 553304,
+      "end_time_ms": 557385,
+      "num_slots": 1,
+      "text": "nlepangkek iaqtepa stoma lhta nta skelhiakmo",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "no está maduro mi zapallo así me dijo, pero volví"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 559091,
+      "end_time_ms": 561333,
+      "num_slots": 1,
+      "text": "muchonha ieta'ai'",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "habían muchas cabras"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 562120,
+      "end_time_ms": 564217,
+      "num_slots": 1,
+      "text": "nengke napmo ieta'ai'",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "se mataron las cabras"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 565600,
+      "end_time_ms": 569455,
+      "num_slots": 1,
+      "text": "pota ngkotnakho ptoskama pkaqhengke panke ",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "aunque no es el dueño, igual los mata"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 569548,
+      "end_time_ms": 572822,
+      "num_slots": 1,
+      "text": "ke mammanha pmasma pto pankok",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "su dueño no dijo nada"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 574157,
+      "end_time_ms": 577464,
+      "num_slots": 1,
+      "text": "kaqhangveiakme pankek ma ngkotnakho ptoskama",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "los matan aunque no son suyos"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 578846,
+      "end_time_ms": 580813,
+      "num_slots": 1,
+      "text": "kantemak lhennenga ",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "así fue antes"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 583015,
+      "end_time_ms": 585225,
+      "num_slots": 1,
+      "text": "mamma plhankok ieta'ai'",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "no tenia corral para las cabras"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 586013,
+      "end_time_ms": 589351,
+      "num_slots": 1,
+      "text": "kellomaka panke kantemak na kavatio ",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "vivían así nomas, lo mismo también con los caballos"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 590166,
+      "end_time_ms": 591634,
+      "num_slots": 1,
+      "text": "mamma plhano'o",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "no tenia corral"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 594681,
+      "end_time_ms": 597681,
+      "num_slots": 1,
+      "text": "nante niehe pnaktoskama hama tova",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "los Tobas tenian muchos animales"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 598929,
+      "end_time_ms": 602107,
+      "num_slots": 1,
+      "text": "stema seta lhtanha skailhemok ko paivoma",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "me abuelo escuchaba sus palabras"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 603746,
+      "end_time_ms": 607004,
+      "num_slots": 1,
+      "text": "kamasoma pvai'o argentina kelhaha ",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "cuando llegó un Argentino fue muy mal"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 608548,
+      "end_time_ms": 611419,
+      "num_slots": 1,
+      "text": "casado nke kelha pmeioiakmok",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "casado el llegó [lugar?]"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 612372,
+      "end_time_ms": 613614,
+      "num_slots": 1,
+      "text": "apvetangvo nak ",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "encontró"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 614356,
+      "end_time_ms": 616227,
+      "num_slots": 1,
+      "text": "keskama vakka ",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "muchas vacas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 617038,
+      "end_time_ms": 620651,
+      "num_slots": 1,
+      "text": "nepkesek ieta'ai cavatio ",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "ovejas, cabras, caballos"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 620943,
+      "end_time_ms": 622605,
+      "num_slots": 1,
+      "text": "ieta pomap",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "chanchos"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 624328,
+      "end_time_ms": 628215,
+      "num_slots": 1,
+      "text": "pote l-hatsosekhak ma'a argentinalhke laqlekhe ",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "los sacó el Argentino y los llevó"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 629516,
+      "end_time_ms": 631016,
+      "num_slots": 1,
+      "text": "casado nke na ",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "casado [a Puerto Casado?]"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 631722,
+      "end_time_ms": 633673,
+      "num_slots": 1,
+      "text": "mamma koka patakkom",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "pero no había dinero"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 634283,
+      "end_time_ms": 637234,
+      "num_slots": 1,
+      "text": "mellaiangko mok aptekamo pkellaiangko",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "no lo entregó, solo comida entregó"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 637797,
+      "end_time_ms": 639249,
+      "num_slots": 1,
+      "text": "maskengvakmo",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "los que murieron"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 640172,
+      "end_time_ms": 643817,
+      "num_slots": 1,
+      "text": "mangna eliamok elkekhak lhepop lhennenga ma'",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "ellos no sabían que iba a tomar la tierra"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 644755,
+      "end_time_ms": 647239,
+      "num_slots": 1,
+      "text": "mamma songkek na escuela lhennenga ",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "no había una escuela antes"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 647907,
+      "end_time_ms": 649423,
+      "num_slots": 1,
+      "text": "ka songkek nam'a ",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "ahi es la problema"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 650965,
+      "end_time_ms": 653465,
+      "num_slots": 1,
+      "text": "mok alhaie ennengko'o alhaie nak",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "somos muy tardes"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 654170,
+      "end_time_ms": 656089,
+      "num_slots": 1,
+      "text": "neliangveiakme alhaie nak",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "aprendimos muy tarde "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 656992,
+      "end_time_ms": 660266,
+      "num_slots": 1,
+      "text": "hatelha ngkotnek ham alhaie nak na pketlheiam",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "creo que va a pasar que va a volver"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 660525,
+      "end_time_ms": 662218,
+      "num_slots": 1,
+      "text": "hatelha ngkotnek",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "creo que va pasar"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 663766,
+      "end_time_ms": 665508,
+      "num_slots": 1,
+      "text": "keliangvakmo la'a ",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "tenia aprender [?]"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 666694,
+      "end_time_ms": 667371,
+      "num_slots": 1,
+      "text": "ka",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "ka"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 667860,
+      "end_time_ms": 670456,
+      "num_slots": 1,
+      "text": "escuelak vanlha nengiave'",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "solo sabemos de la escuela"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 670934,
+      "end_time_ms": 673240,
+      "num_slots": 1,
+      "text": "ka nietenak nengiamom'a ",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "ahi hay donde aprendemos"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 674348,
+      "end_time_ms": 676203,
+      "num_slots": 1,
+      "text": "nengiangveianlha escuela ",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "aprendimos en la escuela"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 676533,
+      "end_time_ms": 677679,
+      "num_slots": 1,
+      "text": "mongak'o la'a ",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "si no tenemos miedo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 678385,
+      "end_time_ms": 679853,
+      "num_slots": 1,
+      "text": "mongakho la escuela ",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "si no tenemos miedo de la escuela"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 681332,
+      "end_time_ms": 682638,
+      "num_slots": 1,
+      "text": "pota anioho'",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "para saber"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 683362,
+      "end_time_ms": 686620,
+      "num_slots": 1,
+      "text": "pota ammok ham ley 104 nak",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "y luego tomar ley 104 "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 687301,
+      "end_time_ms": 689253,
+      "num_slots": 1,
+      "text": "mengelpeiveskasekhak",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "aprendimos sobre la ley "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 690122,
+      "end_time_ms": 691815,
+      "num_slots": 1,
+      "text": "kaktemo nak kom'a ",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "así me pasó"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 692893,
+      "end_time_ms": 694683,
+      "num_slots": 1,
+      "text": "siengveiakmo",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "aprendí"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 695324,
+      "end_time_ms": 698840,
+      "num_slots": 1,
+      "text": "apkanet alhtanha maestrom'a halhema teves",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "habian dos profesores en Halhema Teves"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 699105,
+      "end_time_ms": 699830,
+      "num_slots": 1,
+      "text": "ka ",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "esta"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 701361,
+      "end_time_ms": 705635,
+      "num_slots": 1,
+      "text": "Julian lhta pvesa Julian Medina manie pvaiam",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "Julian era su nombre, Julian Medina, el llegó primero"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 706485,
+      "end_time_ms": 711050,
+      "num_slots": 1,
+      "text": "kakvakmo lhema anio pota etaqho iaqmongkaso",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "vino por un año, se fue de nuevo, fue reemplazado"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 711369,
+      "end_time_ms": 714820,
+      "num_slots": 1,
+      "text": "Raul alhta pvesa Raul Gutierre lhta pvesa",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "Raul era su nombre, Raul Gutierrez"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 715860,
+      "end_time_ms": 719441,
+      "num_slots": 1,
+      "text": "koka kiangvakmo nak ko siangveiakmom'a ",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "aprendí mucho más allá"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 720983,
+      "end_time_ms": 725257,
+      "num_slots": 1,
+      "text": "ka hengeliasekhak takha mangko nak Makha Nempena'",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "up Paraguayo nos llevó a Makha Nempena'"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 726772,
+      "end_time_ms": 729030,
+      "num_slots": 1,
+      "text": "ta nenmeiakhe nengkom'a ",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "nosotros fuimos por allá"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 729298,
+      "end_time_ms": 731040,
+      "num_slots": 1,
+      "text": "Raul Gutierre",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "Raul Gutierrez"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 731674,
+      "end_time_ms": 733819,
+      "num_slots": 1,
+      "text": "vankek na kastellano ",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "sabe mucho Castellano"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 735301,
+      "end_time_ms": 737446,
+      "num_slots": 1,
+      "text": "pota ngelelhiemok mokhom ",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "venimos otra vez"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 738298,
+      "end_time_ms": 742008,
+      "num_slots": 1,
+      "text": "kakto nelha escuela pvakho Hakopiavai'a lhta  ",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "cuando terminó la escuela llegó un Menonita Hakopiavai'a"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 742735,
+      "end_time_ms": 744252,
+      "num_slots": 1,
+      "text": "kemponha ",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "desde"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 744581,
+      "end_time_ms": 746823,
+      "num_slots": 1,
+      "text": "Nialva Sanga pvaiakmo nak",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "llegó a Ya'alve Saanga"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 747386,
+      "end_time_ms": 750628,
+      "num_slots": 1,
+      "text": "examen alhta nelha lhta nta escuelam'a",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "había un examen y terminó la escuela"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 752494,
+      "end_time_ms": 757043,
+      "num_slots": 1,
+      "text": "nave pnanlha julvo raul alhta pvesa mokhe na ",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "Raul estaba sentado un poquito lejos"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 758015,
+      "end_time_ms": 760321,
+      "num_slots": 1,
+      "text": "ko'o lhta lhok'ak tiza ",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "yo recibí tiza"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 760947,
+      "end_time_ms": 763286,
+      "num_slots": 1,
+      "text": "talhesangkek pizarron alhta ",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "escribiendo en la pizarra"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 764548,
+      "end_time_ms": 768613,
+      "num_slots": 1,
+      "text": "niemaske pvalhok keniem'o lhta he Nialva Aanga ",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "hubo silencio cuando llegó a Ya'alve Saanga"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 769358,
+      "end_time_ms": 771616,
+      "num_slots": 1,
+      "text": "escuela vesque kelha ",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "creo que fue el presidente de la escuela "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 773578,
+      "end_time_ms": 778465,
+      "num_slots": 1,
+      "text": "pota atiepok kom'a tercera lhta ko stak ma'a ",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "yo sale y estuve en el tercer grado"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 778592,
+      "end_time_ms": 780495,
+      "num_slots": 1,
+      "text": "tercer grado lhta stak",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "lo hice tercer grado"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 781904,
+      "end_time_ms": 786226,
+      "num_slots": 1,
+      "text": "aklhengamanke lhtanha ko stalheskama mokhom aniekhe ",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "yo escribo sin pausa hasta ahora"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 787169,
+      "end_time_ms": 789153,
+      "num_slots": 1,
+      "text": "aklhengamanke nak nentalheskama",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "escribiendo sin pausa"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 791554,
+      "end_time_ms": 794844,
+      "num_slots": 1,
+      "text": "maske oka sveto alqama vakkahak",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "no veo más las letras "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 795737,
+      "end_time_ms": 799205,
+      "num_slots": 1,
+      "text": "koka niekhe ha'e lente nak alientalhnema",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "es mejor hacerlo despacio"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 802735,
+      "end_time_ms": 803428,
+      "num_slots": 1,
+      "text": "pota ",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "para"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 805356,
+      "end_time_ms": 810211,
+      "num_slots": 1,
+      "text": "ngkolhe niekhe heiapaso Nialva Sanga tepakho la mokhom escuela ",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "tuve que ser enviado a Ya'alve Saanga cuando comience la escuela"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 811318,
+      "end_time_ms": 814641,
+      "num_slots": 1,
+      "text": "ma'a noka ngkomaskok na ham Halhema Teves",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "[pero] termina allá en Halhema Teves"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 815387,
+      "end_time_ms": 819435,
+      "num_slots": 1,
+      "text": "kaklhemongva'ak tovam'a Nentepak mucho ",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "muchos Tobas venieron a Nentepak "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 820757,
+      "end_time_ms": 822612,
+      "num_slots": 1,
+      "text": "kaklhemangvekhek ma'a ",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "fueron a mudarse allí"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 823539,
+      "end_time_ms": 826459,
+      "num_slots": 1,
+      "text": "ntalhnak tavapak makena tamnek ",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "hierro entró por un tren"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 827585,
+      "end_time_ms": 829020,
+      "num_slots": 1,
+      "text": "ieto nelhkeiha",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "hacia el norte "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 829566,
+      "end_time_ms": 831518,
+      "num_slots": 1,
+      "text": "kenmakmongvekhak tova ",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "Tobas venieron a trabajar"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 833336,
+      "end_time_ms": 834771,
+      "num_slots": 1,
+      "text": "ennengkonha",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "nosotros también"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 835784,
+      "end_time_ms": 840477,
+      "num_slots": 1,
+      "text": "maske lhtanha escuelam'a Nentepak mamma escuela ",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "se terminó la escuela allá en Nentepak, no había escuela"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 841331,
+      "end_time_ms": 844073,
+      "num_slots": 1,
+      "text": "kellomaka pankek takha pketko'ok",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "estaban sin hacer nada a los Paraguayos [los jóvenes ?]"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 845545,
+      "end_time_ms": 848012,
+      "num_slots": 1,
+      "text": "mahai'a ngkon ngkomaskok kelha ",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "van terminando creo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 852942,
+      "end_time_ms": 858039,
+      "num_slots": 1,
+      "text": "ka pekhengka ko ngke'e seihengka nok hata angenmangkota kolonia",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "entonces mi papá queria que fuéramos a la Colonia"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 858992,
+      "end_time_ms": 861815,
+      "num_slots": 1,
+      "text": "pqanet apanke lhta pkelaimomakpok",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "se quedo poco [dos?]"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 861909,
+      "end_time_ms": 863361,
+      "num_slots": 1,
+      "text": "Halhema Teves",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "en Halhema Teves ( km 145)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 863738,
+      "end_time_ms": 866673,
+      "num_slots": 1,
+      "text": "nemolhta ltemo coronel",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "se le llamaba el coronel"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 867349,
+      "end_time_ms": 869043,
+      "num_slots": 1,
+      "text": "potanha juan",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "también Juan"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 870925,
+      "end_time_ms": 874231,
+      "num_slots": 1,
+      "text": "potanha peihengka'a ngke'e lhta pnemak nanm'a",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "y también era su padre quien estaba ahí"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 876027,
+      "end_time_ms": 877607,
+      "num_slots": 1,
+      "text": "qanet apanke ",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "muy poco [tiene dos?]"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 878144,
+      "end_time_ms": 882854,
+      "num_slots": 1,
+      "text": "pota henmeiantak ham Mesakhanem vanlha lhta Melanta lhta ko svet'o",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "y luego, cuando llegamos a Mesakhanem, solo encontré a Melanta"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 883987,
+      "end_time_ms": 885245,
+      "num_slots": 1,
+      "text": "potanha ",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "y también"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 887347,
+      "end_time_ms": 889444,
+      "num_slots": 1,
+      "text": "po'ok alhta ngke'e Roberto ",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "Roberto y un otro"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 891708,
+      "end_time_ms": 893240,
+      "num_slots": 1,
+      "text": "Alejo lhta pvesa",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "Alejo era su nombre"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 896289,
+      "end_time_ms": 900370,
+      "num_slots": 1,
+      "text": "pota hetlhengvomho nengko amai alhta ngke'e meiakho",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "fuimos de viaje hasta donde estaba el camino"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 900894,
+      "end_time_ms": 904620,
+      "num_slots": 1,
+      "text": "Kalhetmetma ee niephongvekhak mokhe ",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "pasando allá Kalhetmetma "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 905535,
+      "end_time_ms": 907196,
+      "num_slots": 1,
+      "text": "Lhamolhevantaq anak",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "Lhamolhevantaq "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 907919,
+      "end_time_ms": 910612,
+      "num_slots": 1,
+      "text": "tanenmangko nengko koleto ",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "fuimos en un cachapé"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 912351,
+      "end_time_ms": 917076,
+      "num_slots": 1,
+      "text": "nenmaiakho Tomakha Avete lhta Ietnakha Nialpa'",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "nos pasamos por Tomakha Avetek y Ietnakha Nialpa' "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 918558,
+      "end_time_ms": 920607,
+      "num_slots": 1,
+      "text": "o Hapong Aniep alhta",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "y Hapong Aniep"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 920683,
+      "end_time_ms": 922038,
+      "num_slots": 1,
+      "text": "nenmeiakhak",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "nos fuimos"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 922202,
+      "end_time_ms": 923444,
+      "num_slots": 1,
+      "text": "Iangqalhonamok",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "a Iangqalhonamok"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 923733,
+      "end_time_ms": 925798,
+      "num_slots": 1,
+      "text": "Iangqalhonamonlho lhta kvesa'a",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "Iangqalhonamok se llamaba"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 927499,
+      "end_time_ms": 929483,
+      "num_slots": 1,
+      "text": "ta nengakhengvakmo ennengko",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "mudamos ahí"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 932288,
+      "end_time_ms": 934852,
+      "num_slots": 1,
+      "text": "kelletsepave pkelvet'o",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "estaban muy felices"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 938623,
+      "end_time_ms": 941414,
+      "num_slots": 1,
+      "text": "Isak alhta pvesa'a Isak Ramon ",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "Isak era nombre, Isak rRamon"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 941830,
+      "end_time_ms": 943459,
+      "num_slots": 1,
+      "text": "ta pnemak ma'a ",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "estaba ahí"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 944117,
+      "end_time_ms": 945230,
+      "num_slots": 1,
+      "text": "potanha",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "y tambien"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 945380,
+      "end_time_ms": 947945,
+      "num_slots": 1,
+      "text": "Mita'i Paiseiam alhta knemaltema ",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "Mita'i Negro era su nombre "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 948734,
+      "end_time_ms": 951056,
+      "num_slots": 1,
+      "text": "kanha knemaltemo Nialva",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "y también uno que se llamaba Nialva"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 952450,
+      "end_time_ms": 953773,
+      "num_slots": 1,
+      "text": "kanha ",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "también"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 955034,
+      "end_time_ms": 956454,
+      "num_slots": 1,
+      "text": "niehe pvesai'a lhta ",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "no me acuerdo su nombre "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 957329,
+      "end_time_ms": 959829,
+      "num_slots": 1,
+      "text": "Enriquenlho lhta ntema pvesai'a ",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "Enrique era su nombre "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 961322,
+      "end_time_ms": 963854,
+      "num_slots": 1,
+      "text": "ka piapom ham Tomas Fernandez",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "su papá era Tomás Fernández"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 964508,
+      "end_time_ms": 965863,
+      "num_slots": 1,
+      "text": "ta pnemak ma'a",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "así fue allí"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 971927,
+      "end_time_ms": 975411,
+      "num_slots": 1,
+      "text": "nenmakmongvo kolhvavek ma'a Nenekev' anak ",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "trabajamos enseguida en Laguna Pora"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 976287,
+      "end_time_ms": 978029,
+      "num_slots": 1,
+      "text": "ta nenmakmekama",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "trabajamos"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 981675,
+      "end_time_ms": 983820,
+      "num_slots": 1,
+      "text": "ntasek lhennenga",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "antiguamente era muy linda"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 986173,
+      "end_time_ms": 988318,
+      "num_slots": 1,
+      "text": "ntsek ko sveta'a lhennenga ",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "yo vi que era muy bien antes"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 990038,
+      "end_time_ms": 995919,
+      "num_slots": 1,
+      "text": "kolhva magkolatsemanha svetai'a kolhvave nak ketko'ok",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "ahora yo no veo bien en este tiempo a los jóvenes"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 998302,
+      "end_time_ms": 1001495,
+      "num_slots": 1,
+      "text": "malha ntemak nemallaiangko ",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "como se da oportunidad"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 1002500,
+      "end_time_ms": 1005726,
+      "num_slots": 1,
+      "text": "ketko'ok anak alhaie na pketlheiam'",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "para los jóvenes que vienen después"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 1006539,
+      "end_time_ms": 1009426,
+      "num_slots": 1,
+      "text": "malha ntemak metka ngkolhe lpakmetkeso",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "como está pasando que nadie habla"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 1010684,
+      "end_time_ms": 1012442,
+      "num_slots": 1,
+      "text": "mamma lhennenga m'a",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "no era así antes"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 1013116,
+      "end_time_ms": 1015212,
+      "num_slots": 1,
+      "text": "nemahempaqmetkeskama ",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "hablamos"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 1017398,
+      "end_time_ms": 1020882,
+      "num_slots": 1,
+      "text": "eniapom engken eniama'",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "nuestros papás, mamás, abuelas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 1021710,
+      "end_time_ms": 1022823,
+      "num_slots": 1,
+      "text": "hemmeivok",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "nos cuidan"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 1023740,
+      "end_time_ms": 1025111,
+      "num_slots": 1,
+      "text": "memhamokm'a ",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "no andamos por allá"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 1025219,
+      "end_time_ms": 1026848,
+      "num_slots": 1,
+      "text": "angasekhok na ",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "respetamos"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 1027733,
+      "end_time_ms": 1028878,
+      "num_slots": 1,
+      "text": "lhennenga ",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "antes"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 1029523,
+      "end_time_ms": 1031620,
+      "num_slots": 1,
+      "text": "kolhva maskengkek ham ",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "ahora ya se terminó"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 1033128,
+      "end_time_ms": 1035709,
+      "num_slots": 1,
+      "text": "maskengkek temo lhta lhennenga",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "terminó la manera de antes "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 1036536,
+      "end_time_ms": 1040488,
+      "num_slots": 1,
+      "text": "mo'o la elhong kolhvave nak he menieve'",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "si uno quiere salir, nadie lo prohibe "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 1040726,
+      "end_time_ms": 1042855,
+      "num_slots": 1,
+      "text": "mangkonievek na piama'",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "no ataja a su abuela"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 1043486,
+      "end_time_ms": 1045599,
+      "num_slots": 1,
+      "text": "eiekangvakha koka ",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "pero pasa [?]"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 1046547,
+      "end_time_ms": 1047853,
+      "num_slots": 1,
+      "text": "kantemak",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "así es "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 1048006,
+      "end_time_ms": 1049248,
+      "num_slots": 1,
+      "text": "svetai'a lhta ",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "yo he visto"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 1051484,
+      "end_time_ms": 1055806,
+      "num_slots": 1,
+      "text": "nelvetakhe niehenha nennema lhepop anak hengke'e",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "estamos biencitos aquí en nuestro territorio"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 1056893,
+      "end_time_ms": 1059006,
+      "num_slots": 1,
+      "text": "mokeltakmelkasak mokhom ",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "ya no son atendidos"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 1061124,
+      "end_time_ms": 1062641,
+      "num_slots": 1,
+      "text": "ketko'ok ",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "los jóvenes"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 1063916,
+      "end_time_ms": 1066432,
+      "num_slots": 1,
+      "text": "kaimelhke eltaqmelkese",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "una falta de cuidado"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 1067047,
+      "end_time_ms": 1070015,
+      "num_slots": 1,
+      "text": "lhemeta esavhakpok ha pkelvneiam anak ",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "antes de que los ancianos se pierdan"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 1071894,
+      "end_time_ms": 1074862,
+      "num_slots": 1,
+      "text": "ntasek na enmekha ngke'e spaivoma nak ",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "mejor toma en cuenta lo que estoy contando"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 1074965,
+      "end_time_ms": 1077223,
+      "num_slots": 1,
+      "text": "skeltennangka nak ",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "estoy contando"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 1081110,
+      "end_time_ms": 1084658,
+      "num_slots": 1,
+      "text": "enmeiav lhepop enmeiav titulo ",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "hay que cuidar la tierra, y el título"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 1085206,
+      "end_time_ms": 1087174,
+      "num_slots": 1,
+      "text": "have eniangkok ",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "no lo entrega"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 1087214,
+      "end_time_ms": 1089149,
+      "num_slots": 1,
+      "text": "mo'ok nekha la'a ka'",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "a los al otro lado"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 1089734,
+      "end_time_ms": 1093009,
+      "num_slots": 1,
+      "text": "elieniok titulo nak he mamma'",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "si vendes este título, no hay nada"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 1093054,
+      "end_time_ms": 1095425,
+      "num_slots": 1,
+      "text": "melvetangvomek lhepop anak ",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "oo podrás encontrar [otro]"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 1096243,
+      "end_time_ms": 1098614,
+      "num_slots": 1,
+      "text": "savhekpek ma'a pkelvaneiam alhta ",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "estamos perdiendo los viejos"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 1100468,
+      "end_time_ms": 1105629,
+      "num_slots": 1,
+      "text": "leng'a mota ko mahai'a ngkoieniolhkak kelha have kelha niapa",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "escuché que quieren vender será cierto"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 1106796,
+      "end_time_ms": 1110554,
+      "num_slots": 1,
+      "text": "havenha nieniok lhepop sleng'a lhtanha kom'a ",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "no se vende nuestra tierra, yo escuché"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 1111064,
+      "end_time_ms": 1112839,
+      "num_slots": 1,
+      "text": "nakha nak Heno ",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "donde está Heno"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 1113329,
+      "end_time_ms": 1115296,
+      "num_slots": 1,
+      "text": "mahai'e lienio'ok ",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "es que quieren vender"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 1115580,
+      "end_time_ms": 1117322,
+      "num_slots": 1,
+      "text": "mekka ania'a kelha",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "creo que falta información"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 1119072,
+      "end_time_ms": 1121701,
+      "num_slots": 1,
+      "text": "nemaheltennaskama lhtanha kom'a ",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "yo aviso a nosotros"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 1123858,
+      "end_time_ms": 1126858,
+      "num_slots": 1,
+      "text": "nientelhe lhta ham nenteniai'a lhepop",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "es muy dificil buscar [otra] tierra"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 1127137,
+      "end_time_ms": 1129040,
+      "num_slots": 1,
+      "text": "nelvaiakme nnengkom'a ",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "llegamos nosotros ahí"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 1129530,
+      "end_time_ms": 1131288,
+      "num_slots": 1,
+      "text": "palacio nke nak ",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "en un palacio"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 1131898,
+      "end_time_ms": 1133479,
+      "num_slots": 1,
+      "text": "tone lhta ",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "era un tone [?]"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 1134728,
+      "end_time_ms": 1136647,
+      "num_slots": 1,
+      "text": "a niakse niok lhepop ",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "la tierra no debe ser entregada"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 1137674,
+      "end_time_ms": 1140190,
+      "num_slots": 1,
+      "text": "mepaqmetkeseke na Kasike nak ",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "no habla Kasike"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 1140407,
+      "end_time_ms": 1141197,
+      "num_slots": 1,
+      "text": "mamma ",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "no hay"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 1142714,
+      "end_time_ms": 1147488,
+      "num_slots": 1,
+      "text": "kaqhok cuardia panko nak etaqheso etaqho ",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "aunque podemos irnos si nuestro tutela es rechazada"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 1148524,
+      "end_time_ms": 1151411,
+      "num_slots": 1,
+      "text": "probibido indigena lhta etne ",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "se hace que los Indigenas son prohibidos  "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 1151910,
+      "end_time_ms": 1153684,
+      "num_slots": 1,
+      "text": "palacio nke nak ",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "en el palacio mismo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 1153982,
+      "end_time_ms": 1157482,
+      "num_slots": 1,
+      "text": "kolhva ham libre ntemak ham ",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "ahora está libre "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 1158334,
+      "end_time_ms": 1160624,
+      "num_slots": 1,
+      "text": "ka evomok Kasikem'a eklhek",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "cuando llega Kasike, entra "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 1160871,
+      "end_time_ms": 1162258,
+      "num_slots": 1,
+      "text": "palacio nke nak ",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "al palacio mismo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 1163031,
+      "end_time_ms": 1165596,
+      "num_slots": 1,
+      "text": "tone lhtokam'a malhte eiholhma",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "tone era, no es bueno"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 1170028,
+      "end_time_ms": 1172206,
+      "num_slots": 1,
+      "text": "ntaqmelekhek kolhvave nak ",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "ahora está mejorando"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 1173977,
+      "end_time_ms": 1175784,
+      "num_slots": 1,
+      "text": "kekko lhenak ma'a ",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "así yo digo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 1176958,
+      "end_time_ms": 1181119,
+      "num_slots": 1,
+      "text": "o lhanie niekhe ngke'e ania'a nak mokhom kelha ",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "hay mucho que informar, puedo seguir"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "FF_Transcripcion",
+      "start_time_ms": 1181724,
+      "end_time_ms": 1183644,
+      "num_slots": 1,
+      "text": "he hai'",
+      "dependents": [
+        {
+          "tier": "FF_Traduccion",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "si"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

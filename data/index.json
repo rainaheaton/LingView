@@ -1,112 +1,512 @@
 {
-  "1e3bff88-29b9-4b3f-be34-bffc38624bac": {
-    "timed": false,
-    "story ID": "1e3bff88-29b9-4b3f-be34-bffc38624bac",
+  "f085b807-7d85-40d3-9452-150c7e62dde2": {
+    "timed": true,
+    "story ID": "f085b807-7d85-40d3-9452-150c7e62dde2",
     "title": {
-      "con-Latn-EC": "103 Singo a'i",
-      "en": "Black People",
-      "es": "El negro",
-      "_default": "Singo a'i"
+      "_default": "Delosanto-Aguilar_parte1"
     },
     "media": {
-      "audio": "",
-      "video": ""
+      "audio_local": "",
+      "audio_remote": "",
+      "video": "https://lingview-enenlhet.sfo3.digitaloceanspaces.com/2022/video/Delosanto-Aguilar_parte1.mp4",
+      "audio": ""
     },
-    "languages": [
-      "con-Latn-EC",
-      "en",
-      "es"
-    ],
+    "languages": [],
     "date_created": "",
-    "date_uploaded": "2/3/2018",
+    "date_uploaded": "9/25/2025",
     "source": {
-      "con-Latn-EC": "Blaser, Magdalena \"Mitos del pueblo Cofán\"",
-      "en": "Blaser, Magdalena \"Myths of the Cofán people\"",
       "_default": ""
     },
     "description": "",
     "genre": "",
     "author": "",
     "glosser": "",
-    "speakers": [],
-    "xml_file_name": "103.xml",
-    "source_filetype": "FLEx",
-    "tier IDs": {
-      "palabra en a'ingae (ortografía Borman)": {
-        "subdivided": true
-      },
-      "morfema (como en el texto) en a'ingae (ortografía Borman)": {
-        "subdivided": true
-      },
-      "morfema (forma típica) en a'ingae (ortografía Borman)": {
-        "subdivided": true
-      },
-      "glosa de morfema en inglés": {
-        "subdivided": true
-      },
-      "frase en inglés": {
-        "subdivided": false
-      },
-      "frase en Español": {
-        "subdivided": false
-      },
-      "frase en a'ingae (ortografía Borman)": {
-        "subdivided": false
-      }
-    }
-  },
-  "1ed3d641-acd9-4466-811d-17c8ed59844c": {
-    "timed": true,
-    "story ID": "1ed3d641-acd9-4466-811d-17c8ed59844c",
-    "title": {
-      "_default": "Kuke chiste"
-    },
-    "media": {
-      "audio": "",
-      "video": "https://enenlhetaudio.nyc3.cdn.digitaloceanspaces.com/20170804_kuke_chiste_FACQ.mp4"
-    },
-    "languages": [],
-    "date_created": "",
-    "date_uploaded": "8/30/2018",
-    "source": {
-      "_default": ""
-    },
-    "description": "A joke about a hare\n",
-    "genre": "",
-    "author": "",
-    "glosser": "",
     "speakers": [
-      "Fausto Criollo"
+      "Delosanto Aguilera"
     ],
-    "xml_file_name": "20170804_kuke_chiste_FACQ.eaf",
+    "xml_file_name": "Delosanto-Aguilar_parte1.eaf",
     "source_filetype": "ELAN",
     "tier IDs": {
-      "Gloss": {
-        "subdivided": true
+      "FF_Transcripcion": {
+        "subdivided": false
       },
-      "Glosa": {
-        "subdivided": true
-      },
-      "Ortografía vieja": {
-        "subdivided": true
-      },
-      "Morfema": {
-        "subdivided": true
-      },
-      "English": {
-        "subdivided": true
-      },
-      "Español": {
-        "subdivided": true
-      },
-      "A'ingae": {
-        "subdivided": true
+      "FF_Traduccion": {
+        "subdivided": false
       }
     },
     "speaker IDs": {
       "S1": {
-        "name": "Fausto Criollo",
-        "tier": "--"
+        "name": "Delosanto Aguilera",
+        "tier": "FF_Transcripcion"
+      }
+    }
+  },
+  "25794d75-7519-4df6-a6a4-d05707bd930d": {
+    "timed": true,
+    "story ID": "25794d75-7519-4df6-a6a4-d05707bd930d",
+    "title": {
+      "_default": "Delosanto-Aguilar_parte2"
+    },
+    "media": {
+      "audio_local": "",
+      "audio_remote": "",
+      "video": "https://lingview-enenlhet.sfo3.digitaloceanspaces.com/2022/video/Delosanto-Aguilar_parte2.mp4",
+      "audio": ""
+    },
+    "languages": [],
+    "date_created": "",
+    "date_uploaded": "9/25/2025",
+    "source": {
+      "_default": ""
+    },
+    "description": "",
+    "genre": "",
+    "author": "",
+    "glosser": "",
+    "speakers": [
+      "Delosanto Aguilera",
+      "Delosanto Augilera",
+      "Manolo Romero"
+    ],
+    "xml_file_name": "Delosanto-Aguilar_parte2.eaf",
+    "source_filetype": "ELAN",
+    "tier IDs": {
+      "Transcripcion_FF": {
+        "subdivided": false
+      },
+      "Traduccion_FF": {
+        "subdivided": false
+      },
+      "Transcripcion_MR": {
+        "subdivided": false
+      },
+      "Traduccion_MR": {
+        "subdivided": false
+      }
+    },
+    "speaker IDs": {
+      "S1": {
+        "name": "Delosanto Aguilera",
+        "tier": "Transcripcion_FF"
+      },
+      "S2": {
+        "name": "Manolo Romero",
+        "tier": "Transcripcion_MR"
+      }
+    }
+  },
+  "558b444f-3684-4c76-bc0b-19d2072ba3dd": {
+    "timed": true,
+    "story ID": "558b444f-3684-4c76-bc0b-19d2072ba3dd",
+    "title": {
+      "_default": "Delosanto-Aguilar_parte3"
+    },
+    "media": {
+      "audio_local": "",
+      "audio_remote": "",
+      "video": "https://lingview-enenlhet.sfo3.digitaloceanspaces.com/2022/video/Delosanto-Aguilar_parte3.mp4",
+      "audio": ""
+    },
+    "languages": [],
+    "date_created": "",
+    "date_uploaded": "9/25/2025",
+    "source": {
+      "_default": ""
+    },
+    "description": "",
+    "genre": "",
+    "author": "",
+    "glosser": "",
+    "speakers": [
+      "FF",
+      "Manolo Romero"
+    ],
+    "xml_file_name": "Delosanto-Aguilar_parte3.eaf",
+    "source_filetype": "ELAN",
+    "tier IDs": {
+      "Transcripcion_FF": {
+        "subdivided": false
+      },
+      "Traduccion_FF": {
+        "subdivided": false
+      },
+      "Transcripcion_MR": {
+        "subdivided": false
+      },
+      "Traduccion_MR": {
+        "subdivided": false
+      },
+      "Notas": {
+        "subdivided": false
+      }
+    },
+    "speaker IDs": {
+      "S1": {
+        "tier": "Transcripcion_FF"
+      },
+      "S2": {
+        "name": "Manolo Romero",
+        "tier": "Transcripcion_MR"
+      },
+      "S3": {
+        "tier": "Notas"
+      }
+    }
+  },
+  "fbdafaa1-6a1a-49f5-aa4f-6ec04d418bea": {
+    "timed": true,
+    "story ID": "fbdafaa1-6a1a-49f5-aa4f-6ec04d418bea",
+    "title": {
+      "_default": "Carlito-Manuel_parte2"
+    },
+    "media": {
+      "audio_local": "",
+      "audio_remote": "",
+      "video": "https://lingview-enenlhet.sfo3.digitaloceanspaces.com/2019/video/Carlito-Manuel_parte2.mp4",
+      "audio": ""
+    },
+    "languages": [],
+    "date_created": "",
+    "date_uploaded": "9/26/2025",
+    "source": {
+      "_default": ""
+    },
+    "description": "",
+    "genre": "",
+    "author": "",
+    "glosser": "",
+    "speakers": [
+      "CA",
+      "RH",
+      "MR"
+    ],
+    "xml_file_name": "Carlito-Manuel_parte2.eaf",
+    "source_filetype": "ELAN",
+    "tier IDs": {
+      "transcripcion_CA": {
+        "subdivided": false
+      },
+      "traduccion_CA": {
+        "subdivided": false
+      },
+      "transcripcion_RH": {
+        "subdivided": false
+      },
+      "traduccion_RH": {
+        "subdivided": false
+      },
+      "transcripcion_MR": {
+        "subdivided": false
+      },
+      "traduccion_MR": {
+        "subdivided": false
+      }
+    },
+    "speaker IDs": {
+      "S1": {
+        "name": "CA",
+        "tier": "transcripcion_CA"
+      },
+      "S2": {
+        "name": "RH",
+        "tier": "transcripcion_RH"
+      },
+      "S3": {
+        "name": "MR",
+        "tier": "transcripcion_MR"
+      }
+    }
+  },
+  "15c59e4b-7176-42c2-ac73-504d9a6a8ad0": {
+    "timed": true,
+    "story ID": "15c59e4b-7176-42c2-ac73-504d9a6a8ad0",
+    "title": {
+      "_default": "Elsa-Romero"
+    },
+    "media": {
+      "audio_local": "",
+      "audio_remote": "",
+      "video": "https://lingview-enenlhet.sfo3.digitaloceanspaces.com/2019/video/Elsa-Romero.mp4",
+      "audio": ""
+    },
+    "languages": [],
+    "date_created": "",
+    "date_uploaded": "9/26/2025",
+    "source": {
+      "_default": ""
+    },
+    "description": "",
+    "genre": "",
+    "author": "",
+    "glosser": "",
+    "speakers": [
+      "ER",
+      "RH",
+      "MRR"
+    ],
+    "xml_file_name": "Elsa-Romero.eaf",
+    "source_filetype": "ELAN",
+    "tier IDs": {
+      "transcript_ER": {
+        "subdivided": false
+      },
+      "translation_ER": {
+        "subdivided": false
+      },
+      "transcript_RH": {
+        "subdivided": false
+      },
+      "translation_RH": {
+        "subdivided": false
+      },
+      "transcript_MRR": {
+        "subdivided": false
+      }
+    },
+    "speaker IDs": {
+      "S1": {
+        "name": "ER",
+        "tier": "transcript_ER"
+      },
+      "S2": {
+        "name": "RH",
+        "tier": "transcript_RH"
+      },
+      "S3": {
+        "name": "RH",
+        "tier": "translation_RH"
+      },
+      "S4": {
+        "name": "MRR",
+        "tier": "transcript_MRR"
+      }
+    }
+  },
+  "4957d86b-6296-4e5e-9091-b2b717d286ef": {
+    "timed": true,
+    "story ID": "4957d86b-6296-4e5e-9091-b2b717d286ef",
+    "title": {
+      "_default": "Elsa-Romero_Miguel-Romero_tejido"
+    },
+    "media": {
+      "audio_local": "",
+      "audio_remote": "",
+      "video": "https://lingview-enenlhet.sfo3.digitaloceanspaces.com/2019/video/Elsa-Romero_Miguel-Romero_tejido.mp4",
+      "audio": ""
+    },
+    "languages": [],
+    "date_created": "",
+    "date_uploaded": "9/26/2025",
+    "source": {
+      "_default": ""
+    },
+    "description": "",
+    "genre": "",
+    "author": "",
+    "glosser": "",
+    "speakers": [
+      "Elsa Romero",
+      "Miguel Romero",
+      "Raina Heaton"
+    ],
+    "xml_file_name": "Elsa-Romero_Miguel-Romero_tejido.eaf",
+    "source_filetype": "ELAN",
+    "tier IDs": {
+      "ER_transcripcion": {
+        "subdivided": false
+      },
+      "MRR_transcripcion": {
+        "subdivided": false
+      },
+      "RH_transcripcion": {
+        "subdivided": false
+      },
+      "ER_traduccion": {
+        "subdivided": false
+      },
+      "MRR_traduccion": {
+        "subdivided": false
+      },
+      "RH_traduccion": {
+        "subdivided": false
+      }
+    },
+    "speaker IDs": {
+      "S1": {
+        "name": "Elsa Romero",
+        "tier": "ER_transcripcion"
+      },
+      "S2": {
+        "name": "Miguel Romero",
+        "tier": "MRR_transcripcion"
+      },
+      "S3": {
+        "name": "Raina Heaton",
+        "tier": "RH_transcripcion"
+      }
+    }
+  },
+  "0389cefa-09a0-4d0c-a43f-4d6a6297254a": {
+    "timed": true,
+    "story ID": "0389cefa-09a0-4d0c-a43f-4d6a6297254a",
+    "title": {
+      "_default": "Carlito-Manuel_parte1"
+    },
+    "media": {
+      "audio_local": "",
+      "audio_remote": "",
+      "video": "https://lingview-enenlhet.sfo3.digitaloceanspaces.com/2019/video/Carlito-Manuel_parte1.mp4",
+      "audio": ""
+    },
+    "languages": [],
+    "date_created": "",
+    "date_uploaded": "9/26/2025",
+    "source": {
+      "_default": ""
+    },
+    "description": "",
+    "genre": "",
+    "author": "",
+    "glosser": "",
+    "speakers": [
+      "CA",
+      "RH",
+      "MR"
+    ],
+    "xml_file_name": "Carlito-Manuel_parte1.eaf",
+    "source_filetype": "ELAN",
+    "tier IDs": {
+      "transcripcion_CA": {
+        "subdivided": false
+      },
+      "traduccion_CA": {
+        "subdivided": false
+      },
+      "transcripcion_RH": {
+        "subdivided": false
+      },
+      "transcripcion_MR": {
+        "subdivided": false
+      }
+    },
+    "speaker IDs": {
+      "S1": {
+        "name": "CA",
+        "tier": "transcripcion_CA"
+      },
+      "S2": {
+        "name": "RH",
+        "tier": "transcripcion_RH"
+      },
+      "S3": {
+        "name": "MR",
+        "tier": "transcripcion_MR"
+      }
+    }
+  },
+  "d0c8be2d-ceb4-4d09-a331-d576e51417be": {
+    "timed": true,
+    "story ID": "d0c8be2d-ceb4-4d09-a331-d576e51417be",
+    "title": {
+      "_default": "Lisa-Fernandez"
+    },
+    "media": {
+      "audio_local": "",
+      "audio_remote": "",
+      "video": "https://lingview-enenlhet.sfo3.digitaloceanspaces.com/2019/video/Lisa-Fernandez.mp4",
+      "audio": ""
+    },
+    "languages": [],
+    "date_created": "",
+    "date_uploaded": "9/26/2025",
+    "source": {
+      "_default": ""
+    },
+    "description": "",
+    "genre": "",
+    "author": "",
+    "glosser": "",
+    "speakers": [
+      "LF",
+      "RH"
+    ],
+    "xml_file_name": "Lisa-Fernandez.eaf",
+    "source_filetype": "ELAN",
+    "tier IDs": {
+      "transcript_LF": {
+        "subdivided": false
+      },
+      "translation_LF": {
+        "subdivided": false
+      },
+      "transcript_RH": {
+        "subdivided": false
+      },
+      "translation_RH": {
+        "subdivided": false
+      }
+    },
+    "speaker IDs": {
+      "S1": {
+        "name": "LF",
+        "tier": "transcript_LF"
+      },
+      "S2": {
+        "name": "RH",
+        "tier": "transcript_RH"
+      }
+    }
+  },
+  "f4a426e5-1260-42f2-9e4c-6ce790fa617b": {
+    "timed": true,
+    "story ID": "f4a426e5-1260-42f2-9e4c-6ce790fa617b",
+    "title": {
+      "_default": "Lucia-Marciano"
+    },
+    "media": {
+      "audio_local": "",
+      "audio_remote": "",
+      "video": "https://lingview-enenlhet.sfo3.digitaloceanspaces.com/2019/video/Lucia-Marciano.mp4",
+      "audio": ""
+    },
+    "languages": [],
+    "date_created": "",
+    "date_uploaded": "9/26/2025",
+    "source": {
+      "_default": ""
+    },
+    "description": "",
+    "genre": "",
+    "author": "",
+    "glosser": "",
+    "speakers": [
+      "LM",
+      "RH"
+    ],
+    "xml_file_name": "Lucia-Marciano.eaf",
+    "source_filetype": "ELAN",
+    "tier IDs": {
+      "transcript_LM": {
+        "subdivided": false
+      },
+      "translation_LM": {
+        "subdivided": false
+      },
+      "transcript_RH": {
+        "subdivided": false
+      },
+      "translation_RH": {
+        "subdivided": false
+      }
+    },
+    "speaker IDs": {
+      "S1": {
+        "name": "LM",
+        "tier": "transcript_LM"
+      },
+      "S2": {
+        "name": "RH",
+        "tier": "transcript_RH"
       }
     }
   },
@@ -114,17 +514,17 @@
     "timed": true,
     "story ID": "71f939d8-3ec0-46cd-ab2d-0ae62904b37e",
     "title": {
-      "_default": "MR-narracion"
+      "_default": "Manolo-Romero"
     },
     "media": {
       "audio_local": "",
       "audio_remote": "",
-      "video": "",
-      "audio": "https://enenlhetaudio.nyc3.cdn.digitaloceanspaces.com/2019-08-16-MR-narracion.wav"
+      "video": "https://lingview-enenlhet.sfo3.digitaloceanspaces.com/2019/video/Manolo-Romero.mp4",
+      "audio": ""
     },
     "languages": [],
     "date_created": "",
-    "date_uploaded": "8/21/2025",
+    "date_uploaded": "9/26/2025",
     "source": {
       "_default": ""
     },
@@ -136,7 +536,7 @@
       "MR",
       "RH"
     ],
-    "xml_file_name": "MR-narracion.eaf",
+    "xml_file_name": "Manolo-Romero.eaf",
     "source_filetype": "ELAN",
     "tier IDs": {
       "transcript_MR": {
@@ -159,5 +559,2014 @@
         "tier": "transcript_RH"
       }
     }
+  },
+  "f97cf6ae-eadf-4d46-8f4c-e436aba82ff7": {
+    "timed": true,
+    "story ID": "f97cf6ae-eadf-4d46-8f4c-e436aba82ff7",
+    "title": {
+      "_default": "Marcelino-Marciano"
+    },
+    "media": {
+      "audio_local": "",
+      "audio_remote": "",
+      "video": "https://lingview-enenlhet.sfo3.digitaloceanspaces.com/2019/video/Marcelino-Marciano.mp4",
+      "audio": ""
+    },
+    "languages": [],
+    "date_created": "",
+    "date_uploaded": "9/26/2025",
+    "source": {
+      "_default": ""
+    },
+    "description": "",
+    "genre": "",
+    "author": "",
+    "glosser": "",
+    "speakers": [
+      "MM",
+      "RH"
+    ],
+    "xml_file_name": "Marcelino-Marciano.eaf",
+    "source_filetype": "ELAN",
+    "tier IDs": {
+      "transcript_MM": {
+        "subdivided": false
+      },
+      "translation_MM": {
+        "subdivided": false
+      },
+      "transcript_RH": {
+        "subdivided": false
+      },
+      "translation_RH": {
+        "subdivided": false
+      }
+    },
+    "speaker IDs": {
+      "S1": {
+        "name": "MM",
+        "tier": "transcript_MM"
+      },
+      "S2": {
+        "name": "RH",
+        "tier": "transcript_RH"
+      }
+    }
+  },
+  "8bed4ffd-9987-472c-a663-662d9c858c6c": {
+    "timed": true,
+    "story ID": "8bed4ffd-9987-472c-a663-662d9c858c6c",
+    "title": {
+      "_default": "Pedro-Antonio"
+    },
+    "media": {
+      "audio_local": "",
+      "audio_remote": "",
+      "video": "https://lingview-enenlhet.sfo3.digitaloceanspaces.com/2019/video/Pedro-Antonio.mp4",
+      "audio": ""
+    },
+    "languages": [],
+    "date_created": "",
+    "date_uploaded": "9/26/2025",
+    "source": {
+      "_default": ""
+    },
+    "description": "",
+    "genre": "",
+    "author": "",
+    "glosser": "",
+    "speakers": [
+      "PA",
+      "RH",
+      "MR"
+    ],
+    "xml_file_name": "Pedro-Antonio.eaf",
+    "source_filetype": "ELAN",
+    "tier IDs": {
+      "transcript_PA": {
+        "subdivided": false
+      },
+      "translation_PA": {
+        "subdivided": false
+      },
+      "transcript_RH": {
+        "subdivided": false
+      },
+      "translation_RH": {
+        "subdivided": false
+      },
+      "transcript_MR": {
+        "subdivided": false
+      },
+      "translation_MR": {
+        "subdivided": false
+      }
+    },
+    "speaker IDs": {
+      "S1": {
+        "name": "PA",
+        "tier": "transcript_PA"
+      },
+      "S2": {
+        "name": "RH",
+        "tier": "transcript_RH"
+      },
+      "S3": {
+        "name": "MR",
+        "tier": "transcript_MR"
+      }
+    }
+  },
+  "2b58c6cc-e2f3-405f-802c-1cea15edd6d1": {
+    "timed": true,
+    "story ID": "2b58c6cc-e2f3-405f-802c-1cea15edd6d1",
+    "title": {
+      "_default": "Tina-Francito"
+    },
+    "media": {
+      "audio_local": "",
+      "audio_remote": "",
+      "video": "https://lingview-enenlhet.sfo3.digitaloceanspaces.com/2019/video/Tina-Francito.mp4",
+      "audio": ""
+    },
+    "languages": [],
+    "date_created": "",
+    "date_uploaded": "9/26/2025",
+    "source": {
+      "_default": ""
+    },
+    "description": "",
+    "genre": "",
+    "author": "",
+    "glosser": "",
+    "speakers": [
+      "TF",
+      "RH"
+    ],
+    "xml_file_name": "Tina-Francito.eaf",
+    "source_filetype": "ELAN",
+    "tier IDs": {
+      "transcript_TF": {
+        "subdivided": false
+      },
+      "translation_TF": {
+        "subdivided": false
+      },
+      "transcript_RH": {
+        "subdivided": false
+      },
+      "translation_RH": {
+        "subdivided": false
+      }
+    },
+    "speaker IDs": {
+      "S1": {
+        "name": "TF",
+        "tier": "transcript_TF"
+      },
+      "S2": {
+        "name": "RH",
+        "tier": "transcript_RH"
+      }
+    }
+  },
+  "eb5d87ae-5c9a-43cf-a7ca-c3b2e3c62729": {
+    "timed": true,
+    "story ID": "eb5d87ae-5c9a-43cf-a7ca-c3b2e3c62729",
+    "title": {
+      "_default": "Miguel-Romero"
+    },
+    "media": {
+      "audio_local": "",
+      "audio_remote": "",
+      "video": "https://lingview-enenlhet.sfo3.digitaloceanspaces.com/2019/video/Miguel-Romero.mp4",
+      "audio": ""
+    },
+    "languages": [],
+    "date_created": "",
+    "date_uploaded": "9/26/2025",
+    "source": {
+      "_default": ""
+    },
+    "description": "",
+    "genre": "",
+    "author": "",
+    "glosser": "",
+    "speakers": [
+      "MRR"
+    ],
+    "xml_file_name": "Miguel-Romero.eaf",
+    "source_filetype": "ELAN",
+    "tier IDs": {
+      "Transcript": {
+        "subdivided": false
+      },
+      "Translation": {
+        "subdivided": false
+      },
+      "RH transcript": {
+        "subdivided": false
+      },
+      "RH translation": {
+        "subdivided": false
+      }
+    },
+    "speaker IDs": {
+      "S1": {
+        "name": "MRR",
+        "tier": "Transcript"
+      },
+      "S2": {
+        "tier": "RH transcript"
+      }
+    }
+  },
+  "3814a427-b1b2-40a6-8c7e-04223a422120": {
+    "timed": true,
+    "story ID": "3814a427-b1b2-40a6-8c7e-04223a422120",
+    "title": {
+      "_default": "Arsenio-Romero"
+    },
+    "media": {
+      "audio_local": "",
+      "audio_remote": "",
+      "video": "https://lingview-enenlhet.sfo3.digitaloceanspaces.com/2019/video/Arsenio-Romero.mp4",
+      "audio": ""
+    },
+    "languages": [],
+    "date_created": "",
+    "date_uploaded": "9/27/2025",
+    "source": {
+      "_default": ""
+    },
+    "description": "",
+    "genre": "",
+    "author": "",
+    "glosser": "",
+    "speakers": [
+      "Arsenio Romero"
+    ],
+    "xml_file_name": "Arsenio-Romero.eaf",
+    "source_filetype": "ELAN",
+    "tier IDs": {
+      "AR_transcripcion": {
+        "subdivided": false
+      },
+      "AR-traduccion": {
+        "subdivided": false
+      }
+    },
+    "speaker IDs": {
+      "S1": {
+        "name": "Arsenio Romero",
+        "tier": "AR_transcripcion"
+      }
+    }
+  },
+  "ffe5a661-43f4-4493-968a-e24644d36201": {
+    "timed": true,
+    "story ID": "ffe5a661-43f4-4493-968a-e24644d36201",
+    "title": {
+      "_default": "Lecacio-Lopez"
+    },
+    "media": {
+      "audio_local": "",
+      "audio_remote": "",
+      "video": "https://lingview-enenlhet.sfo3.digitaloceanspaces.com/2019/video/Lecacio-Lopez.mp4",
+      "audio": ""
+    },
+    "languages": [],
+    "date_created": "",
+    "date_uploaded": "9/27/2025",
+    "source": {
+      "_default": ""
+    },
+    "description": "",
+    "genre": "",
+    "author": "",
+    "glosser": "",
+    "speakers": [
+      "Tito Ramos"
+    ],
+    "xml_file_name": "Lecacio-Lopez.eaf",
+    "source_filetype": "ELAN",
+    "tier IDs": {
+      "transcripcion": {
+        "subdivided": false
+      },
+      "traduccion": {
+        "subdivided": false
+      },
+      "transcripcion_Tito": {
+        "subdivided": false
+      },
+      "traduccion_Tito": {
+        "subdivided": false
+      }
+    },
+    "speaker IDs": {
+      "S1": {
+        "tier": "transcripcion"
+      },
+      "S2": {
+        "name": "Tito Ramos",
+        "tier": "transcripcion_Tito"
+      }
+    }
+  },
+  "d1254165-c30c-40c3-b5db-e283f2d2e436": {
+    "timed": true,
+    "story ID": "d1254165-c30c-40c3-b5db-e283f2d2e436",
+    "title": {
+      "_default": "Miguel-Romero_2"
+    },
+    "media": {
+      "audio_local": "",
+      "audio_remote": "",
+      "video": "https://lingview-enenlhet.sfo3.digitaloceanspaces.com/2019/video/Miguel-Romero_2.mp4",
+      "audio": ""
+    },
+    "languages": [],
+    "date_created": "",
+    "date_uploaded": "9/27/2025",
+    "source": {
+      "_default": ""
+    },
+    "description": "",
+    "genre": "",
+    "author": "",
+    "glosser": "",
+    "speakers": [
+      "MRR"
+    ],
+    "xml_file_name": "Miguel-Romero_2.eaf",
+    "source_filetype": "ELAN",
+    "tier IDs": {
+      "transcript_MRR": {
+        "subdivided": false
+      },
+      "translation_MRR": {
+        "subdivided": false
+      }
+    },
+    "speaker IDs": {
+      "S1": {
+        "name": "MRR",
+        "tier": "transcript_MRR"
+      }
+    }
+  },
+  "f1f31254-03d2-4bb0-9141-895bc76f0d6d": {
+    "timed": true,
+    "story ID": "f1f31254-03d2-4bb0-9141-895bc76f0d6d",
+    "title": {
+      "_default": "Miguel-Romero_nentoma_parte2"
+    },
+    "media": {
+      "audio_local": "",
+      "audio_remote": "",
+      "video": "https://lingview-enenlhet.sfo3.digitaloceanspaces.com/2019/video/Miguel-Romero_nentoma_parte2.mp4",
+      "audio": ""
+    },
+    "languages": [],
+    "date_created": "",
+    "date_uploaded": "9/27/2025",
+    "source": {
+      "_default": ""
+    },
+    "description": "",
+    "genre": "",
+    "author": "",
+    "glosser": "",
+    "speakers": [
+      "MRR",
+      "RH"
+    ],
+    "xml_file_name": "Miguel-Romero_nentoma_parte2.eaf",
+    "source_filetype": "ELAN",
+    "tier IDs": {
+      "transcript_MRR": {
+        "subdivided": false
+      },
+      "MRR_translation": {
+        "subdivided": false
+      },
+      "transcript_RH": {
+        "subdivided": false
+      }
+    },
+    "speaker IDs": {
+      "S1": {
+        "name": "MRR",
+        "tier": "transcript_MRR"
+      },
+      "S2": {
+        "name": "RH",
+        "tier": "transcript_RH"
+      }
+    }
+  },
+  "cbc5ff68-ecc1-414f-9860-cb913ab68e83": {
+    "timed": true,
+    "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab68e83",
+    "title": {
+      "_default": "Sabelino-Metai"
+    },
+    "media": {
+      "audio_local": "",
+      "audio_remote": "",
+      "video": "https://lingview-enenlhet.sfo3.digitaloceanspaces.com/2019/video/Sabelino-Metai.mp4",
+      "audio": ""
+    },
+    "languages": [],
+    "date_created": "",
+    "date_uploaded": "9/27/2025",
+    "source": {
+      "_default": ""
+    },
+    "description": "",
+    "genre": "",
+    "author": "",
+    "glosser": "",
+    "speakers": [
+      "Sabelino Metai"
+    ],
+    "xml_file_name": "Sabelino-Metai.eaf",
+    "source_filetype": "ELAN",
+    "tier IDs": {
+      "Transcripcion": {
+        "subdivided": false
+      },
+      "Traduccion": {
+        "subdivided": false
+      }
+    },
+    "speaker IDs": {
+      "S1": {
+        "name": "Sabelino Metai",
+        "tier": "Transcripcion"
+      }
+    }
+  },
+  "be69e8fe-9723-43af-8511-587ce53c4a06": {
+    "timed": true,
+    "story ID": "be69e8fe-9723-43af-8511-587ce53c4a06",
+    "title": {
+      "_default": "Pedro-Miranda"
+    },
+    "media": {
+      "audio_local": "",
+      "audio_remote": "",
+      "video": "https://lingview-enenlhet.sfo3.digitaloceanspaces.com/2019/video/Pedro-Miranda.mp4",
+      "audio": ""
+    },
+    "languages": [],
+    "date_created": "",
+    "date_uploaded": "9/27/2025",
+    "source": {
+      "_default": ""
+    },
+    "description": "",
+    "genre": "",
+    "author": "",
+    "glosser": "",
+    "speakers": [
+      "Pedro Miranda",
+      "Tito Ramos"
+    ],
+    "xml_file_name": "Pedro-Miranda.eaf",
+    "source_filetype": "ELAN",
+    "tier IDs": {
+      "Transcripcion_HM": {
+        "subdivided": false
+      },
+      "Traduccion_HM": {
+        "subdivided": false
+      },
+      "Transcripcion_TR": {
+        "subdivided": false
+      },
+      "Traduccion_TR": {
+        "subdivided": false
+      }
+    },
+    "speaker IDs": {
+      "S1": {
+        "name": "Pedro Miranda",
+        "tier": "Transcripcion_HM"
+      },
+      "S2": {
+        "name": "Tito Ramos",
+        "tier": "Transcripcion_TR"
+      }
+    }
+  },
+  "b7776c8e-290f-4041-a243-94a738a22ae5": {
+    "timed": true,
+    "story ID": "b7776c8e-290f-4041-a243-94a738a22ae5",
+    "title": {
+      "_default": "Sopero-Aquino_parte3"
+    },
+    "media": {
+      "audio_local": "",
+      "audio_remote": "",
+      "video": "https://lingview-enenlhet.sfo3.digitaloceanspaces.com/2019/video/Sopero-Aquino_parte3.mp4",
+      "audio": ""
+    },
+    "languages": [],
+    "date_created": "",
+    "date_uploaded": "9/27/2025",
+    "source": {
+      "_default": ""
+    },
+    "description": "",
+    "genre": "",
+    "author": "",
+    "glosser": "",
+    "speakers": [
+      "SSA",
+      "RH",
+      "MR"
+    ],
+    "xml_file_name": "Sopero-Aquino_parte3.eaf",
+    "source_filetype": "ELAN",
+    "tier IDs": {
+      "transcript_SSA": {
+        "subdivided": false
+      },
+      "translation_SSA": {
+        "subdivided": false
+      }
+    },
+    "speaker IDs": {
+      "S1": {
+        "name": "SSA",
+        "tier": "transcript_SSA"
+      }
+    }
+  },
+  "c2d64431-c7ca-41ff-ab9d-78585549dda0": {
+    "timed": true,
+    "story ID": "c2d64431-c7ca-41ff-ab9d-78585549dda0",
+    "title": {
+      "_default": "Sopero-Aquino_parte1"
+    },
+    "media": {
+      "audio_local": "",
+      "audio_remote": "",
+      "video": "https://lingview-enenlhet.sfo3.digitaloceanspaces.com/2019/video/Sopero-Aquino_parte1.mp4",
+      "audio": ""
+    },
+    "languages": [],
+    "date_created": "",
+    "date_uploaded": "9/27/2025",
+    "source": {
+      "_default": ""
+    },
+    "description": "",
+    "genre": "",
+    "author": "",
+    "glosser": "",
+    "speakers": [
+      "SSA",
+      "RH",
+      "MR"
+    ],
+    "xml_file_name": "Sopero-Aquino_parte1.eaf",
+    "source_filetype": "ELAN",
+    "tier IDs": {
+      "transcript_SSA": {
+        "subdivided": false
+      },
+      "translation_SSA": {
+        "subdivided": false
+      },
+      "transcript_RH": {
+        "subdivided": false
+      },
+      "translation_RH": {
+        "subdivided": false
+      },
+      "transcript_MR": {
+        "subdivided": false
+      },
+      "translation_MR": {
+        "subdivided": false
+      }
+    },
+    "speaker IDs": {
+      "S1": {
+        "name": "SSA",
+        "tier": "transcript_SSA"
+      },
+      "S2": {
+        "name": "RH",
+        "tier": "transcript_RH"
+      },
+      "S3": {
+        "name": "MR",
+        "tier": "transcript_MR"
+      }
+    }
+  },
+  "4225bc2c-6956-464b-a68a-bae889db45af": {
+    "timed": true,
+    "story ID": "4225bc2c-6956-464b-a68a-bae889db45af",
+    "title": {
+      "_default": "Miguel-Romero_pongha"
+    },
+    "media": {
+      "audio_local": "",
+      "audio_remote": "",
+      "video": "https://lingview-enenlhet.sfo3.digitaloceanspaces.com/2019/video/Miguel-Romero_pongha.mp4",
+      "audio": ""
+    },
+    "languages": [],
+    "date_created": "",
+    "date_uploaded": "9/27/2025",
+    "source": {
+      "_default": ""
+    },
+    "description": "",
+    "genre": "",
+    "author": "",
+    "glosser": "",
+    "speakers": [
+      "MRR",
+      "RH"
+    ],
+    "xml_file_name": "Miguel-Romero_pongha.eaf",
+    "source_filetype": "ELAN",
+    "tier IDs": {
+      "transcript_MRR": {
+        "subdivided": false
+      },
+      "translation_MRR": {
+        "subdivided": false
+      },
+      "transcript_RH": {
+        "subdivided": false
+      }
+    },
+    "speaker IDs": {
+      "S1": {
+        "name": "MRR",
+        "tier": "transcript_MRR"
+      },
+      "S2": {
+        "name": "RH",
+        "tier": "transcript_RH"
+      }
+    }
+  },
+  "08a1e521-488d-470e-a9ff-f52c2c645f7a": {
+    "timed": true,
+    "story ID": "08a1e521-488d-470e-a9ff-f52c2c645f7a",
+    "title": {
+      "_default": "Sopero-Aquino_parte2"
+    },
+    "media": {
+      "audio_local": "",
+      "audio_remote": "",
+      "video": "https://lingview-enenlhet.sfo3.digitaloceanspaces.com/2019/video/Sopero-Aquino_parte2.mp4",
+      "audio": ""
+    },
+    "languages": [],
+    "date_created": "",
+    "date_uploaded": "9/27/2025",
+    "source": {
+      "_default": ""
+    },
+    "description": "",
+    "genre": "",
+    "author": "",
+    "glosser": "",
+    "speakers": [
+      "SSA",
+      "RH",
+      "MR"
+    ],
+    "xml_file_name": "Sopero-Aquino_parte2.eaf",
+    "source_filetype": "ELAN",
+    "tier IDs": {
+      "transcript_SSA": {
+        "subdivided": false
+      },
+      "translation_SSA": {
+        "subdivided": false
+      },
+      "transcript_RH": {
+        "subdivided": false
+      },
+      "translation_RH": {
+        "subdivided": false
+      },
+      "transcript_MR": {
+        "subdivided": false
+      },
+      "translation_MR": {
+        "subdivided": false
+      }
+    },
+    "speaker IDs": {
+      "S1": {
+        "name": "SSA",
+        "tier": "transcript_SSA"
+      },
+      "S2": {
+        "name": "RH",
+        "tier": "transcript_RH"
+      },
+      "S3": {
+        "name": "MR",
+        "tier": "transcript_MR"
+      }
+    }
+  },
+  "ddc237ee-a9d4-4da3-87a6-7eb2fa6af0af": {
+    "timed": true,
+    "story ID": "ddc237ee-a9d4-4da3-87a6-7eb2fa6af0af",
+    "title": {
+      "_default": "Miguel-Romero_nentoma_parte1"
+    },
+    "media": {
+      "audio_local": "",
+      "audio_remote": "",
+      "video": "https://lingview-enenlhet.sfo3.digitaloceanspaces.com/2019/video/Miguel-Romero_nentoma_parte1.mp4",
+      "audio": ""
+    },
+    "languages": [],
+    "date_created": "",
+    "date_uploaded": "9/27/2025",
+    "source": {
+      "_default": ""
+    },
+    "description": "",
+    "genre": "",
+    "author": "",
+    "glosser": "",
+    "speakers": [
+      "MRR",
+      "RH"
+    ],
+    "xml_file_name": "Miguel-Romero_nentoma_parte1.eaf",
+    "source_filetype": "ELAN",
+    "tier IDs": {
+      "MRR_transcript": {
+        "subdivided": false
+      },
+      "MRR_translation": {
+        "subdivided": false
+      },
+      "RH_transcript": {
+        "subdivided": false
+      }
+    },
+    "speaker IDs": {
+      "S1": {
+        "name": "MRR",
+        "tier": "MRR_transcript"
+      },
+      "S2": {
+        "name": "RH",
+        "tier": "RH_transcript"
+      }
+    }
+  },
+  "78641f2f-c66a-4911-99d5-fe65fbc7a38f": {
+    "timed": true,
+    "story ID": "78641f2f-c66a-4911-99d5-fe65fbc7a38f",
+    "title": {
+      "_default": "aliemhapma_Tobati"
+    },
+    "media": {
+      "audio_local": "",
+      "audio_remote": "",
+      "video": "https://lingview-enenlhet.sfo3.digitaloceanspaces.com/2019/video/aliemhapma_Tobati.mp4",
+      "audio": ""
+    },
+    "languages": [],
+    "date_created": "",
+    "date_uploaded": "9/28/2025",
+    "source": {
+      "_default": ""
+    },
+    "description": "",
+    "genre": "",
+    "author": "",
+    "glosser": "",
+    "speakers": [],
+    "xml_file_name": "aliemhapma_Tobati.eaf",
+    "source_filetype": "ELAN",
+    "tier IDs": {},
+    "speaker IDs": {}
+  },
+  "01460bdc-71f7-4f59-9810-366798cd9c57": {
+    "timed": true,
+    "story ID": "01460bdc-71f7-4f59-9810-366798cd9c57",
+    "title": {
+      "_default": "Bernardo-Eme_radioPA"
+    },
+    "media": {
+      "audio_local": "",
+      "audio_remote": "",
+      "video": "",
+      "audio": "https://lingview-enenlhet.sfo3.digitaloceanspaces.com/2019/audio/Bernardo-Eme_radioPA.wav"
+    },
+    "languages": [],
+    "date_created": "",
+    "date_uploaded": "9/28/2025",
+    "source": {
+      "_default": ""
+    },
+    "description": "",
+    "genre": "",
+    "author": "",
+    "glosser": "",
+    "speakers": [],
+    "xml_file_name": "Bernardo-Eme_radioPA.eaf",
+    "source_filetype": "ELAN",
+    "tier IDs": {},
+    "speaker IDs": {}
+  },
+  "b00f3d54-5ffc-4574-90a6-80c0447b3237": {
+    "timed": true,
+    "story ID": "b00f3d54-5ffc-4574-90a6-80c0447b3237",
+    "title": {
+      "_default": "Antonio-Miranda_Marín-Guillermo_Alfredo-Pedro_Alieno-López_Tito-Ramos_Bernardo-Eme_radioPA"
+    },
+    "media": {
+      "audio_local": "",
+      "audio_remote": "",
+      "video": "",
+      "audio": "https://lingview-enenlhet.sfo3.digitaloceanspaces.com/2019/audio/Antonio-Miranda_Mari%CC%81n-Guillermo_Alfredo-Pedro_Alieno-Lo%CC%81pez_Tito-Ramos_Bernardo-Eme_radioPA.wav"
+    },
+    "languages": [],
+    "date_created": "",
+    "date_uploaded": "9/28/2025",
+    "source": {
+      "_default": ""
+    },
+    "description": "",
+    "genre": "",
+    "author": "",
+    "glosser": "",
+    "speakers": [],
+    "xml_file_name": "Antonio-Miranda_Marín-Guillermo_Alfredo-Pedro_Alieno-López_Tito-Ramos_Bernardo-Eme_radioPA.eaf",
+    "source_filetype": "ELAN",
+    "tier IDs": {},
+    "speaker IDs": {}
+  },
+  "cb1dbdcf-ef20-4dca-ac23-7e902f30eb93": {
+    "timed": true,
+    "story ID": "cb1dbdcf-ef20-4dca-ac23-7e902f30eb93",
+    "title": {
+      "_default": "Arsenio-Romero_Arnolio-Fernández_Leandro-Benítez_Simón-Aquino_radioPA"
+    },
+    "media": {
+      "audio_local": "",
+      "audio_remote": "",
+      "video": "",
+      "audio": "https://lingview-enenlhet.sfo3.digitaloceanspaces.com/2019/audio/Arsenio-Romero_Arnolio-Ferna%CC%81ndez_Leandro-Beni%CC%81tez_Simo%CC%81n-Aquino_radioPA.wav"
+    },
+    "languages": [],
+    "date_created": "",
+    "date_uploaded": "9/28/2025",
+    "source": {
+      "_default": ""
+    },
+    "description": "",
+    "genre": "",
+    "author": "",
+    "glosser": "",
+    "speakers": [],
+    "xml_file_name": "Arsenio-Romero_Arnolio-Fernández_Leandro-Benítez_Simón-Aquino_radioPA.eaf",
+    "source_filetype": "ELAN",
+    "tier IDs": {},
+    "speaker IDs": {}
+  },
+  "9b36ad24-e51f-4975-8daf-a9426b34569d": {
+    "timed": true,
+    "story ID": "9b36ad24-e51f-4975-8daf-a9426b34569d",
+    "title": {
+      "_default": "Tito-Ramos_Bernardo-Eme_radioPA"
+    },
+    "media": {
+      "audio_local": "",
+      "audio_remote": "",
+      "video": "",
+      "audio": "https://lingview-enenlhet.sfo3.digitaloceanspaces.com/2019/audio/Tito-Ramos_Bernardo-Eme_radioPA.wav"
+    },
+    "languages": [],
+    "date_created": "",
+    "date_uploaded": "9/28/2025",
+    "source": {
+      "_default": ""
+    },
+    "description": "",
+    "genre": "",
+    "author": "",
+    "glosser": "",
+    "speakers": [
+      "Transcripcion"
+    ],
+    "xml_file_name": "Tito-Ramos_Bernardo-Eme_radioPA.eaf",
+    "source_filetype": "ELAN",
+    "tier IDs": {},
+    "speaker IDs": {}
+  },
+  "da41db8f-4c17-4f6b-b65a-0ce0ef9e0e1b": {
+    "timed": true,
+    "story ID": "da41db8f-4c17-4f6b-b65a-0ce0ef9e0e1b",
+    "title": {
+      "_default": "Tito-Ramos_Bernardo-Eme_radioPA_2"
+    },
+    "media": {
+      "audio_local": "",
+      "audio_remote": "",
+      "video": "",
+      "audio": "https://lingview-enenlhet.sfo3.digitaloceanspaces.com/2019/audio/Tito-Ramos_Bernardo-Eme_radioPA_2.wav"
+    },
+    "languages": [],
+    "date_created": "",
+    "date_uploaded": "9/28/2025",
+    "source": {
+      "_default": ""
+    },
+    "description": "",
+    "genre": "",
+    "author": "",
+    "glosser": "",
+    "speakers": [],
+    "xml_file_name": "Tito-Ramos_Bernardo-Eme_radioPA_2.eaf",
+    "source_filetype": "ELAN",
+    "tier IDs": {},
+    "speaker IDs": {}
+  },
+  "36fbc73f-320f-4218-a50e-fb402f845e93": {
+    "timed": true,
+    "story ID": "36fbc73f-320f-4218-a50e-fb402f845e93",
+    "title": {
+      "_default": "Tito-Ramos_Simón-Aquino_Sarmiento-Antolín_Valentín-Raimar_radioPA"
+    },
+    "media": {
+      "audio_local": "",
+      "audio_remote": "",
+      "video": "",
+      "audio": "https://lingview-enenlhet.sfo3.digitaloceanspaces.com/2019/audio/Tito-Ramos_Simo%CC%81n-Aquino_Sarmiento-Antoli%CC%81n_Valenti%CC%81n-Raimar_radioPA.wav"
+    },
+    "languages": [],
+    "date_created": "",
+    "date_uploaded": "9/28/2025",
+    "source": {
+      "_default": ""
+    },
+    "description": "",
+    "genre": "",
+    "author": "",
+    "glosser": "",
+    "speakers": [],
+    "xml_file_name": "Tito-Ramos_Simón-Aquino_Sarmiento-Antolín_Valentín-Raimar_radioPA.eaf",
+    "source_filetype": "ELAN",
+    "tier IDs": {},
+    "speaker IDs": {}
+  },
+  "b12d6a1e-36d8-4e64-a113-8c0ce4264aae": {
+    "timed": true,
+    "story ID": "b12d6a1e-36d8-4e64-a113-8c0ce4264aae",
+    "title": {
+      "_default": "Tito-Ramos_Simón-Aquino_Valentín-Raimar_Tela-Carapé_radioPA"
+    },
+    "media": {
+      "audio_local": "",
+      "audio_remote": "",
+      "video": "",
+      "audio": "https://lingview-enenlhet.sfo3.digitaloceanspaces.com/2019/audio/Tito-Ramos_Simo%CC%81n-Aquino_Valenti%CC%81n-Raimar_Tela-Carape%CC%81_radioPA.wav"
+    },
+    "languages": [],
+    "date_created": "",
+    "date_uploaded": "9/28/2025",
+    "source": {
+      "_default": ""
+    },
+    "description": "",
+    "genre": "",
+    "author": "",
+    "glosser": "",
+    "speakers": [],
+    "xml_file_name": "Tito-Ramos_Simón-Aquino_Valentín-Raimar_Tela-Carapé_radioPA.eaf",
+    "source_filetype": "ELAN",
+    "tier IDs": {},
+    "speaker IDs": {}
+  },
+  "5d244659-e328-423a-8041-9c8052d09b09": {
+    "timed": true,
+    "story ID": "5d244659-e328-423a-8041-9c8052d09b09",
+    "title": {
+      "_default": "nengaknekelha_Tobati"
+    },
+    "media": {
+      "audio_local": "",
+      "audio_remote": "",
+      "video": "",
+      "audio": "https://lingview-enenlhet.sfo3.digitaloceanspaces.com/2019/audio/nengaknekelha_Tobati.wav"
+    },
+    "languages": [],
+    "date_created": "",
+    "date_uploaded": "9/28/2025",
+    "source": {
+      "_default": ""
+    },
+    "description": "",
+    "genre": "",
+    "author": "",
+    "glosser": "",
+    "speakers": [],
+    "xml_file_name": "nengaknekelha_Tobati.eaf",
+    "source_filetype": "ELAN",
+    "tier IDs": {},
+    "speaker IDs": {}
+  },
+  "78e05b2d-2daf-49d3-b751-fe11109c6ed7": {
+    "timed": true,
+    "story ID": "78e05b2d-2daf-49d3-b751-fe11109c6ed7",
+    "title": {
+      "_default": "Antonio-Miranda"
+    },
+    "media": {
+      "audio_local": "",
+      "audio_remote": "",
+      "video": "https://lingview-enenlhet.sfo3.digitaloceanspaces.com/2019/video/Antonio-Miranda.mp4",
+      "audio": ""
+    },
+    "languages": [],
+    "date_created": "",
+    "date_uploaded": "9/28/2025",
+    "source": {
+      "_default": ""
+    },
+    "description": "",
+    "genre": "",
+    "author": "",
+    "glosser": "",
+    "speakers": [],
+    "xml_file_name": "Antonio-Miranda.eaf",
+    "source_filetype": "ELAN",
+    "tier IDs": {},
+    "speaker IDs": {}
+  },
+  "40f59aa9-2181-4642-9f07-5f98e05d66fe": {
+    "timed": true,
+    "story ID": "40f59aa9-2181-4642-9f07-5f98e05d66fe",
+    "title": {
+      "_default": "Sopero-Aquino_ioqalhma_parte1"
+    },
+    "media": {
+      "audio_local": "",
+      "audio_remote": "",
+      "video": "https://lingview-enenlhet.sfo3.digitaloceanspaces.com/2022/video/Sopero-Aquino_ioqalhma_parte1.mp4",
+      "audio": ""
+    },
+    "languages": [],
+    "date_created": "",
+    "date_uploaded": "9/28/2025",
+    "source": {
+      "_default": ""
+    },
+    "description": "",
+    "genre": "",
+    "author": "",
+    "glosser": "",
+    "speakers": [],
+    "xml_file_name": "Sopero-Aquino_ioqalhma_parte1.eaf",
+    "source_filetype": "ELAN",
+    "tier IDs": {},
+    "speaker IDs": {}
+  },
+  "f093e09d-5d0e-440b-8f05-778aa5f1a4e0": {
+    "timed": true,
+    "story ID": "f093e09d-5d0e-440b-8f05-778aa5f1a4e0",
+    "title": {
+      "_default": "Sopero-Aquino_ioqalhma_parte2"
+    },
+    "media": {
+      "audio_local": "",
+      "audio_remote": "",
+      "video": "https://lingview-enenlhet.sfo3.digitaloceanspaces.com/2022/video/Sopero-Aquino_ioqalhma_parte2.mp4",
+      "audio": ""
+    },
+    "languages": [],
+    "date_created": "",
+    "date_uploaded": "9/28/2025",
+    "source": {
+      "_default": ""
+    },
+    "description": "",
+    "genre": "",
+    "author": "",
+    "glosser": "",
+    "speakers": [],
+    "xml_file_name": "Sopero-Aquino_ioqalhma_parte2.eaf",
+    "source_filetype": "ELAN",
+    "tier IDs": {},
+    "speaker IDs": {}
+  },
+  "fda7ec0a-5d0d-4dba-8d70-00595f19a638": {
+    "timed": true,
+    "story ID": "fda7ec0a-5d0d-4dba-8d70-00595f19a638",
+    "title": {
+      "_default": "Sopero-Aquino_ioqalhma_parte3"
+    },
+    "media": {
+      "audio_local": "",
+      "audio_remote": "",
+      "video": "https://lingview-enenlhet.sfo3.digitaloceanspaces.com/2022/video/Sopero-Aquino_ioqalhma_parte3.mp4",
+      "audio": ""
+    },
+    "languages": [],
+    "date_created": "",
+    "date_uploaded": "9/28/2025",
+    "source": {
+      "_default": ""
+    },
+    "description": "",
+    "genre": "",
+    "author": "",
+    "glosser": "",
+    "speakers": [],
+    "xml_file_name": "Sopero-Aquino_ioqalhma_parte3.eaf",
+    "source_filetype": "ELAN",
+    "tier IDs": {},
+    "speaker IDs": {}
+  },
+  "e1b95418-7632-414a-a050-0527c3d686cd": {
+    "timed": true,
+    "story ID": "e1b95418-7632-414a-a050-0527c3d686cd",
+    "title": {
+      "_default": "Sopero-Aquino_ioqalhma_parte4"
+    },
+    "media": {
+      "audio_local": "",
+      "audio_remote": "",
+      "video": "https://lingview-enenlhet.sfo3.digitaloceanspaces.com/2022/video/Sopero-Aquino_ioqalhma_parte4.mp4",
+      "audio": ""
+    },
+    "languages": [],
+    "date_created": "",
+    "date_uploaded": "9/28/2025",
+    "source": {
+      "_default": ""
+    },
+    "description": "",
+    "genre": "",
+    "author": "",
+    "glosser": "",
+    "speakers": [],
+    "xml_file_name": "Sopero-Aquino_ioqalhma_parte4.eaf",
+    "source_filetype": "ELAN",
+    "tier IDs": {},
+    "speaker IDs": {}
+  },
+  "e900aee8-6843-47d2-8c15-1040fc4c2fad": {
+    "timed": true,
+    "story ID": "e900aee8-6843-47d2-8c15-1040fc4c2fad",
+    "title": {
+      "_default": "Antonio-Miranda_Manolo-Romero_Arsenio-Romero_radioPA"
+    },
+    "media": {
+      "audio_local": "",
+      "audio_remote": "",
+      "video": "https://lingview-enenlhet.sfo3.digitaloceanspaces.com/2019/video/Antonio-Miranda_Manolo-Romero_Arsenio-Romero_radioPA.mp4",
+      "audio": ""
+    },
+    "languages": [],
+    "date_created": "",
+    "date_uploaded": "9/28/2025",
+    "source": {
+      "_default": ""
+    },
+    "description": "",
+    "genre": "",
+    "author": "",
+    "glosser": "",
+    "speakers": [],
+    "xml_file_name": "Antonio-Miranda_Manolo-Romero_Arsenio-Romero_radioPA.eaf",
+    "source_filetype": "ELAN",
+    "tier IDs": {},
+    "speaker IDs": {}
+  },
+  "a6846d2e-e2ad-4eb1-b2a7-62975dcc4df4": {
+    "timed": true,
+    "story ID": "a6846d2e-e2ad-4eb1-b2a7-62975dcc4df4",
+    "title": {
+      "_default": "Arnolio-Fernández_radioPA"
+    },
+    "media": {
+      "audio_local": "",
+      "audio_remote": "",
+      "video": "https://lingview-enenlhet.sfo3.digitaloceanspaces.com/2019/video/Arnolio-Fern%C3%A1ndez_radioPA.mp4",
+      "audio": ""
+    },
+    "languages": [],
+    "date_created": "",
+    "date_uploaded": "9/28/2025",
+    "source": {
+      "_default": ""
+    },
+    "description": "",
+    "genre": "",
+    "author": "",
+    "glosser": "",
+    "speakers": [],
+    "xml_file_name": "Arnolio-Fernández_radioPA.eaf",
+    "source_filetype": "ELAN",
+    "tier IDs": {},
+    "speaker IDs": {}
+  },
+  "6d44d1e8-3335-4e87-816c-cca32919c2a0": {
+    "timed": true,
+    "story ID": "6d44d1e8-3335-4e87-816c-cca32919c2a0",
+    "title": {
+      "_default": "Enciso-Selian_Manolo-Romero_radioPA"
+    },
+    "media": {
+      "audio_local": "",
+      "audio_remote": "",
+      "video": "https://lingview-enenlhet.sfo3.digitaloceanspaces.com/2019/video/Enciso-Selian_Manolo-Romero_radioPA.mp4",
+      "audio": ""
+    },
+    "languages": [],
+    "date_created": "",
+    "date_uploaded": "9/28/2025",
+    "source": {
+      "_default": ""
+    },
+    "description": "",
+    "genre": "",
+    "author": "",
+    "glosser": "",
+    "speakers": [],
+    "xml_file_name": "Enciso-Selian_Manolo-Romero_radioPA.eaf",
+    "source_filetype": "ELAN",
+    "tier IDs": {},
+    "speaker IDs": {}
+  },
+  "1500f2e9-cc70-457c-91b7-7a816b33ccc7": {
+    "timed": true,
+    "story ID": "1500f2e9-cc70-457c-91b7-7a816b33ccc7",
+    "title": {
+      "_default": "Manuel-Aquino_radioPA"
+    },
+    "media": {
+      "audio_local": "",
+      "audio_remote": "",
+      "video": "https://lingview-enenlhet.sfo3.digitaloceanspaces.com/2019/video/Manuel-Aquino_radioPA.mp4",
+      "audio": ""
+    },
+    "languages": [],
+    "date_created": "",
+    "date_uploaded": "9/28/2025",
+    "source": {
+      "_default": ""
+    },
+    "description": "",
+    "genre": "",
+    "author": "",
+    "glosser": "",
+    "speakers": [],
+    "xml_file_name": "Manuel-Aquino_radioPA.eaf",
+    "source_filetype": "ELAN",
+    "tier IDs": {},
+    "speaker IDs": {}
+  },
+  "202b0cd7-d739-4cd1-9193-9de3879109e1": {
+    "timed": true,
+    "story ID": "202b0cd7-d739-4cd1-9193-9de3879109e1",
+    "title": {
+      "_default": "Rosalia-Miranda_radioPA"
+    },
+    "media": {
+      "audio_local": "",
+      "audio_remote": "",
+      "video": "https://lingview-enenlhet.sfo3.digitaloceanspaces.com/2019/video/Rosalia-Miranda_radioPA.mp4",
+      "audio": ""
+    },
+    "languages": [],
+    "date_created": "",
+    "date_uploaded": "9/28/2025",
+    "source": {
+      "_default": ""
+    },
+    "description": "",
+    "genre": "",
+    "author": "",
+    "glosser": "",
+    "speakers": [],
+    "xml_file_name": "Rosalia-Miranda_radioPA.eaf",
+    "source_filetype": "ELAN",
+    "tier IDs": {},
+    "speaker IDs": {}
+  },
+  "235f77ba-4095-4914-8253-adde07adcc6e": {
+    "timed": true,
+    "story ID": "235f77ba-4095-4914-8253-adde07adcc6e",
+    "title": {
+      "_default": "Tito Eme_radioPA"
+    },
+    "media": {
+      "audio_local": "",
+      "audio_remote": "",
+      "video": "https://lingview-enenlhet.sfo3.digitaloceanspaces.com/2019/video/Tito-Eme_radioPA.mp4",
+      "audio": ""
+    },
+    "languages": [],
+    "date_created": "",
+    "date_uploaded": "9/28/2025",
+    "source": {
+      "_default": ""
+    },
+    "description": "",
+    "genre": "",
+    "author": "",
+    "glosser": "",
+    "speakers": [],
+    "xml_file_name": "Tito Eme_radioPA.eaf",
+    "source_filetype": "ELAN",
+    "tier IDs": {},
+    "speaker IDs": {}
+  },
+  "8043540b-c00a-449b-82f1-100ee3147828": {
+    "timed": true,
+    "story ID": "8043540b-c00a-449b-82f1-100ee3147828",
+    "title": {
+      "_default": "Isaak-Fehr"
+    },
+    "media": {
+      "audio_local": "",
+      "audio_remote": "",
+      "video": "https://lingview-enenlhet.sfo3.digitaloceanspaces.com/2019/video/Isaak-Fehr.mp4",
+      "audio": ""
+    },
+    "languages": [],
+    "date_created": "",
+    "date_uploaded": "9/28/2025",
+    "source": {
+      "_default": ""
+    },
+    "description": "",
+    "genre": "",
+    "author": "",
+    "glosser": "",
+    "speakers": [
+      "IF",
+      "RH",
+      "MR"
+    ],
+    "xml_file_name": "Isaak-Fehr.eaf",
+    "source_filetype": "ELAN",
+    "tier IDs": {
+      "IF_transcript": {
+        "subdivided": false
+      },
+      "IF_translation": {
+        "subdivided": false
+      },
+      "RH_transcript": {
+        "subdivided": false
+      },
+      "MR_transcript": {
+        "subdivided": false
+      }
+    },
+    "speaker IDs": {
+      "S1": {
+        "name": "IF",
+        "tier": "IF_transcript"
+      },
+      "S2": {
+        "name": "RH",
+        "tier": "RH_transcript"
+      },
+      "S3": {
+        "name": "MR",
+        "tier": "MR_transcript"
+      }
+    }
+  },
+  "2749f7c6-58d1-4fdd-a033-05b66e6a457a": {
+    "timed": true,
+    "story ID": "2749f7c6-58d1-4fdd-a033-05b66e6a457a",
+    "title": {
+      "_default": "Cecilio-Ramón_Sakha-Pelhie"
+    },
+    "media": {
+      "audio_local": "",
+      "audio_remote": "",
+      "video": "https://lingview-enenlhet.sfo3.digitaloceanspaces.com/2025/video/Cecilio-Ramo%CC%81n_Sakha-Pelhie.mp4",
+      "audio": ""
+    },
+    "languages": [],
+    "date_created": "",
+    "date_uploaded": "9/28/2025",
+    "source": {
+      "_default": ""
+    },
+    "description": "",
+    "genre": "",
+    "author": "",
+    "glosser": "",
+    "speakers": [],
+    "xml_file_name": "Cecilio-Ramón_Sakha-Pelhie.eaf",
+    "source_filetype": "ELAN",
+    "tier IDs": {},
+    "speaker IDs": {}
+  },
+  "6a391306-afe1-40c8-88a3-1f548bf6c346": {
+    "timed": true,
+    "story ID": "6a391306-afe1-40c8-88a3-1f548bf6c346",
+    "title": {
+      "_default": "Cecilio-Ramón_Tekiomakha'ai"
+    },
+    "media": {
+      "audio_local": "",
+      "audio_remote": "",
+      "video": "https://lingview-enenlhet.sfo3.digitaloceanspaces.com/2025/video/Cecilio-Ramo%CC%81n_Tekiomakha'ai.mp4",
+      "audio": ""
+    },
+    "languages": [],
+    "date_created": "",
+    "date_uploaded": "9/28/2025",
+    "source": {
+      "_default": ""
+    },
+    "description": "",
+    "genre": "",
+    "author": "",
+    "glosser": "",
+    "speakers": [],
+    "xml_file_name": "Cecilio-Ramón_Tekiomakha'ai.eaf",
+    "source_filetype": "ELAN",
+    "tier IDs": {},
+    "speaker IDs": {}
+  },
+  "2efca1b5-b2b6-4a70-8350-4a87790e50ca": {
+    "timed": true,
+    "story ID": "2efca1b5-b2b6-4a70-8350-4a87790e50ca",
+    "title": {
+      "_default": "Erna-Faus_Ietna-Pommet"
+    },
+    "media": {
+      "audio_local": "",
+      "audio_remote": "",
+      "video": "https://lingview-enenlhet.sfo3.digitaloceanspaces.com/2025/video/Erna-Faus_Ietna-Pommet.mp4",
+      "audio": ""
+    },
+    "languages": [],
+    "date_created": "",
+    "date_uploaded": "9/28/2025",
+    "source": {
+      "_default": ""
+    },
+    "description": "",
+    "genre": "",
+    "author": "",
+    "glosser": "",
+    "speakers": [],
+    "xml_file_name": "Erna-Faus_Ietna-Pommet.eaf",
+    "source_filetype": "ELAN",
+    "tier IDs": {},
+    "speaker IDs": {}
+  },
+  "394733ce-67a5-47fc-9a94-0091eec5b75b": {
+    "timed": true,
+    "story ID": "394733ce-67a5-47fc-9a94-0091eec5b75b",
+    "title": {
+      "_default": "Jacobo-Salejo_Nanito-Vargas_Halhema-Teves_parte1"
+    },
+    "media": {
+      "audio_local": "",
+      "audio_remote": "",
+      "video": "https://lingview-enenlhet.sfo3.digitaloceanspaces.com/2025/video/Jacobo-Salejo_Nanito-Vargas_Halhema-Teves_parte1.mp4",
+      "audio": ""
+    },
+    "languages": [],
+    "date_created": "",
+    "date_uploaded": "9/28/2025",
+    "source": {
+      "_default": ""
+    },
+    "description": "",
+    "genre": "",
+    "author": "",
+    "glosser": "",
+    "speakers": [],
+    "xml_file_name": "Jacobo-Salejo_Nanito-Vargas_Halhema-Teves_parte1.eaf",
+    "source_filetype": "ELAN",
+    "tier IDs": {},
+    "speaker IDs": {}
+  },
+  "f280d391-ffc6-47da-96ec-0037d36a1fa1": {
+    "timed": true,
+    "story ID": "f280d391-ffc6-47da-96ec-0037d36a1fa1",
+    "title": {
+      "_default": "Jacobo-Salejo_Nanito-Vargas_Halhema-Teves_parte2"
+    },
+    "media": {
+      "audio_local": "",
+      "audio_remote": "",
+      "video": "https://lingview-enenlhet.sfo3.digitaloceanspaces.com/2025/video/Jacobo-Salejo_Nanito-Vargas_Halhema-Teves_parte2.mp4",
+      "audio": ""
+    },
+    "languages": [],
+    "date_created": "",
+    "date_uploaded": "9/28/2025",
+    "source": {
+      "_default": ""
+    },
+    "description": "",
+    "genre": "",
+    "author": "",
+    "glosser": "",
+    "speakers": [],
+    "xml_file_name": "Jacobo-Salejo_Nanito-Vargas_Halhema-Teves_parte2.eaf",
+    "source_filetype": "ELAN",
+    "tier IDs": {},
+    "speaker IDs": {}
+  },
+  "6d15b382-76fa-46d0-a6c9-705f72cc5297": {
+    "timed": true,
+    "story ID": "6d15b382-76fa-46d0-a6c9-705f72cc5297",
+    "title": {
+      "_default": "Jacobo-Salejo_Nanito-Vargas_Kalhetnepma"
+    },
+    "media": {
+      "audio_local": "",
+      "audio_remote": "",
+      "video": "https://lingview-enenlhet.sfo3.digitaloceanspaces.com/2025/video/Jacobo-Salejo_Nanito-Vargas_Kalhetnepma.mp4",
+      "audio": ""
+    },
+    "languages": [],
+    "date_created": "",
+    "date_uploaded": "9/28/2025",
+    "source": {
+      "_default": ""
+    },
+    "description": "",
+    "genre": "",
+    "author": "",
+    "glosser": "",
+    "speakers": [],
+    "xml_file_name": "Jacobo-Salejo_Nanito-Vargas_Kalhetnepma.eaf",
+    "source_filetype": "ELAN",
+    "tier IDs": {},
+    "speaker IDs": {}
+  },
+  "57631a49-161a-4d98-aaa8-3e0f7883bb2c": {
+    "timed": true,
+    "story ID": "57631a49-161a-4d98-aaa8-3e0f7883bb2c",
+    "title": {
+      "_default": "Jacobo-Salejo_Nanito-Vargas_Kemho-Panlhek"
+    },
+    "media": {
+      "audio_local": "",
+      "audio_remote": "",
+      "video": "https://lingview-enenlhet.sfo3.digitaloceanspaces.com/2025/video/Jacobo-Salejo_Nanito-Vargas_Kemho-Panlhek.mp4",
+      "audio": ""
+    },
+    "languages": [],
+    "date_created": "",
+    "date_uploaded": "9/28/2025",
+    "source": {
+      "_default": ""
+    },
+    "description": "",
+    "genre": "",
+    "author": "",
+    "glosser": "",
+    "speakers": [],
+    "xml_file_name": "Jacobo-Salejo_Nanito-Vargas_Kemho-Panlhek.eaf",
+    "source_filetype": "ELAN",
+    "tier IDs": {},
+    "speaker IDs": {}
+  },
+  "5d73b057-c3b5-4a00-a1b1-180c8fcb7ed4": {
+    "timed": true,
+    "story ID": "5d73b057-c3b5-4a00-a1b1-180c8fcb7ed4",
+    "title": {
+      "_default": "Juan-Francisco-Escobar_Tekiomakha'ai"
+    },
+    "media": {
+      "audio_local": "",
+      "audio_remote": "",
+      "video": "https://lingview-enenlhet.sfo3.digitaloceanspaces.com/2025/video/Juan-Francisco-Escobar_Tekiomakha'ai.mp4",
+      "audio": ""
+    },
+    "languages": [],
+    "date_created": "",
+    "date_uploaded": "9/28/2025",
+    "source": {
+      "_default": ""
+    },
+    "description": "",
+    "genre": "",
+    "author": "",
+    "glosser": "",
+    "speakers": [],
+    "xml_file_name": "Juan-Francisco-Escobar_Tekiomakha'ai.eaf",
+    "source_filetype": "ELAN",
+    "tier IDs": {},
+    "speaker IDs": {}
+  },
+  "7f5fb2b2-26ce-40df-b7ea-c03cde901522": {
+    "timed": true,
+    "story ID": "7f5fb2b2-26ce-40df-b7ea-c03cde901522",
+    "title": {
+      "_default": "Juan-Francisco-Escobar_Sakha-Pelhie"
+    },
+    "media": {
+      "audio_local": "",
+      "audio_remote": "",
+      "video": "https://lingview-enenlhet.sfo3.digitaloceanspaces.com/2025/video/Juan-Francisco-Escobar_Sakha-Pelhie.mp4",
+      "audio": ""
+    },
+    "languages": [],
+    "date_created": "",
+    "date_uploaded": "9/28/2025",
+    "source": {
+      "_default": ""
+    },
+    "description": "",
+    "genre": "",
+    "author": "",
+    "glosser": "",
+    "speakers": [],
+    "xml_file_name": "Juan-Francisco-Escobar_Sakha-Pelhie.eaf",
+    "source_filetype": "ELAN",
+    "tier IDs": {},
+    "speaker IDs": {}
+  },
+  "3f7fe2f4-d33c-44f4-b483-2475b8609f52": {
+    "timed": true,
+    "story ID": "3f7fe2f4-d33c-44f4-b483-2475b8609f52",
+    "title": {
+      "_default": "Juan-Francisco-Escobar_Manolo-Romero_Hapong-Aniep"
+    },
+    "media": {
+      "audio_local": "",
+      "audio_remote": "",
+      "video": "https://lingview-enenlhet.sfo3.digitaloceanspaces.com/2025/video/Juan-Francisco-Escobar_Manolo-Romero_Hapong-Aniep.mp4",
+      "audio": ""
+    },
+    "languages": [],
+    "date_created": "",
+    "date_uploaded": "9/28/2025",
+    "source": {
+      "_default": ""
+    },
+    "description": "",
+    "genre": "",
+    "author": "",
+    "glosser": "",
+    "speakers": [],
+    "xml_file_name": "Juan-Francisco-Escobar_Manolo-Romero_Hapong-Aniep.eaf",
+    "source_filetype": "ELAN",
+    "tier IDs": {},
+    "speaker IDs": {}
+  },
+  "6d9d554e-9fbd-4d29-883b-651d5efae0fa": {
+    "timed": true,
+    "story ID": "6d9d554e-9fbd-4d29-883b-651d5efae0fa",
+    "title": {
+      "_default": "Jacobo-Salejo_Nanito-Vargas_Ntaikaha"
+    },
+    "media": {
+      "audio_local": "",
+      "audio_remote": "",
+      "video": "https://lingview-enenlhet.sfo3.digitaloceanspaces.com/2025/video/Jacobo-Salejo_Nanito-Vargas_Ntaikaha.mp4",
+      "audio": ""
+    },
+    "languages": [],
+    "date_created": "",
+    "date_uploaded": "9/28/2025",
+    "source": {
+      "_default": ""
+    },
+    "description": "",
+    "genre": "",
+    "author": "",
+    "glosser": "",
+    "speakers": [],
+    "xml_file_name": "Jacobo-Salejo_Nanito-Vargas_Ntaikaha.eaf",
+    "source_filetype": "ELAN",
+    "tier IDs": {},
+    "speaker IDs": {}
+  },
+  "5956df8a-ff1c-49f7-a70b-a61abef314f5": {
+    "timed": true,
+    "story ID": "5956df8a-ff1c-49f7-a70b-a61abef314f5",
+    "title": {
+      "_default": "Lecacio-Lopez_Maleng-Aiempek"
+    },
+    "media": {
+      "audio_local": "",
+      "audio_remote": "",
+      "video": "https://lingview-enenlhet.sfo3.digitaloceanspaces.com/2025/video/Lecacio-Lopez_Maleng-Aiempek.mp4",
+      "audio": ""
+    },
+    "languages": [],
+    "date_created": "",
+    "date_uploaded": "9/28/2025",
+    "source": {
+      "_default": ""
+    },
+    "description": "",
+    "genre": "",
+    "author": "",
+    "glosser": "",
+    "speakers": [],
+    "xml_file_name": "Lecacio-Lopez_Maleng-Aiempek.eaf",
+    "source_filetype": "ELAN",
+    "tier IDs": {},
+    "speaker IDs": {}
+  },
+  "0d92cfe2-0e1e-4243-b6f1-2ba037c455f8": {
+    "timed": true,
+    "story ID": "0d92cfe2-0e1e-4243-b6f1-2ba037c455f8",
+    "title": {
+      "_default": "Luis-Leiva_Konamoktololaq"
+    },
+    "media": {
+      "audio_local": "",
+      "audio_remote": "",
+      "video": "https://lingview-enenlhet.sfo3.digitaloceanspaces.com/2025/video/Luis-Leiva_Konamoktololaq.mp4",
+      "audio": ""
+    },
+    "languages": [],
+    "date_created": "",
+    "date_uploaded": "9/28/2025",
+    "source": {
+      "_default": ""
+    },
+    "description": "",
+    "genre": "",
+    "author": "",
+    "glosser": "",
+    "speakers": [],
+    "xml_file_name": "Luis-Leiva_Konamoktololaq.eaf",
+    "source_filetype": "ELAN",
+    "tier IDs": {},
+    "speaker IDs": {}
+  },
+  "91a1b7f8-4ef2-4980-bd95-6d88f107a401": {
+    "timed": true,
+    "story ID": "91a1b7f8-4ef2-4980-bd95-6d88f107a401",
+    "title": {
+      "_default": "Mariano-Ramón_Tekiomakha'ai"
+    },
+    "media": {
+      "audio_local": "",
+      "audio_remote": "",
+      "video": "https://lingview-enenlhet.sfo3.digitaloceanspaces.com/2025/video/Mariano-Ram%C3%B3n_Tekiomakha'ai.mp4",
+      "audio": ""
+    },
+    "languages": [],
+    "date_created": "",
+    "date_uploaded": "9/28/2025",
+    "source": {
+      "_default": ""
+    },
+    "description": "",
+    "genre": "",
+    "author": "",
+    "glosser": "",
+    "speakers": [],
+    "xml_file_name": "Mariano-Ramón_Tekiomakha'ai.eaf",
+    "source_filetype": "ELAN",
+    "tier IDs": {},
+    "speaker IDs": {}
+  },
+  "c8250ad0-b247-4c99-a181-5a919db4a512": {
+    "timed": true,
+    "story ID": "c8250ad0-b247-4c99-a181-5a919db4a512",
+    "title": {
+      "_default": "Mariano-Ramón_Sakha-Pelhie"
+    },
+    "media": {
+      "audio_local": "",
+      "audio_remote": "",
+      "video": "https://lingview-enenlhet.sfo3.digitaloceanspaces.com/2025/video/Mariano-Ram%C3%B3n_Sakha-Pelhie.mp4",
+      "audio": ""
+    },
+    "languages": [],
+    "date_created": "",
+    "date_uploaded": "9/28/2025",
+    "source": {
+      "_default": ""
+    },
+    "description": "",
+    "genre": "",
+    "author": "",
+    "glosser": "",
+    "speakers": [],
+    "xml_file_name": "Mariano-Ramón_Sakha-Pelhie.eaf",
+    "source_filetype": "ELAN",
+    "tier IDs": {},
+    "speaker IDs": {}
+  },
+  "b90b551a-2fc6-4346-a618-23ed0c880d9f": {
+    "timed": true,
+    "story ID": "b90b551a-2fc6-4346-a618-23ed0c880d9f",
+    "title": {
+      "_default": "Miguel-Romero_Ianqalhonamok"
+    },
+    "media": {
+      "audio_local": "",
+      "audio_remote": "",
+      "video": "https://lingview-enenlhet.sfo3.digitaloceanspaces.com/2025/video/Miguel-Romero_Ianqalhonamok.mp4",
+      "audio": ""
+    },
+    "languages": [],
+    "date_created": "",
+    "date_uploaded": "9/28/2025",
+    "source": {
+      "_default": ""
+    },
+    "description": "",
+    "genre": "",
+    "author": "",
+    "glosser": "",
+    "speakers": [],
+    "xml_file_name": "Miguel-Romero_Ianqalhonamok.eaf",
+    "source_filetype": "ELAN",
+    "tier IDs": {},
+    "speaker IDs": {}
+  },
+  "05eef3a5-8562-4b32-ae9b-8e5c38601170": {
+    "timed": true,
+    "story ID": "05eef3a5-8562-4b32-ae9b-8e5c38601170",
+    "title": {
+      "_default": "Miguel-Romero_Hapong-Aniep"
+    },
+    "media": {
+      "audio_local": "",
+      "audio_remote": "",
+      "video": "https://lingview-enenlhet.sfo3.digitaloceanspaces.com/2025/video/Miguel-Romero_Hapong-Aniep.mp4",
+      "audio": ""
+    },
+    "languages": [],
+    "date_created": "",
+    "date_uploaded": "9/28/2025",
+    "source": {
+      "_default": ""
+    },
+    "description": "",
+    "genre": "",
+    "author": "",
+    "glosser": "",
+    "speakers": [],
+    "xml_file_name": "Miguel-Romero_Hapong-Aniep.eaf",
+    "source_filetype": "ELAN",
+    "tier IDs": {},
+    "speaker IDs": {}
+  },
+  "cb5614f7-736a-4fc3-979f-c498d1956a0d": {
+    "timed": true,
+    "story ID": "cb5614f7-736a-4fc3-979f-c498d1956a0d",
+    "title": {
+      "_default": "Miguel-Romero_Julián-López_Kelhakhama-Apaktek"
+    },
+    "media": {
+      "audio_local": "",
+      "audio_remote": "",
+      "video": "https://lingview-enenlhet.sfo3.digitaloceanspaces.com/2025/video/Miguel-Romero_Julia%CC%81n-Lo%CC%81pez_Kelhakhama-Apaktek.mp4",
+      "audio": ""
+    },
+    "languages": [],
+    "date_created": "",
+    "date_uploaded": "9/28/2025",
+    "source": {
+      "_default": ""
+    },
+    "description": "",
+    "genre": "",
+    "author": "",
+    "glosser": "",
+    "speakers": [],
+    "xml_file_name": "Miguel-Romero_Julián-López_Kelhakhama-Apaktek.eaf",
+    "source_filetype": "ELAN",
+    "tier IDs": {},
+    "speaker IDs": {}
+  },
+  "a0e22adb-0452-43ae-9729-ac9791c81e78": {
+    "timed": true,
+    "story ID": "a0e22adb-0452-43ae-9729-ac9791c81e78",
+    "title": {
+      "_default": "Miguel-Romero_Julián-López_Mesmakhanem"
+    },
+    "media": {
+      "audio_local": "",
+      "audio_remote": "",
+      "video": "https://lingview-enenlhet.sfo3.digitaloceanspaces.com/2025/video/Miguel-Romero_Juli%C3%A1n-L%C3%B3pez_Mesmakhanem.mp4",
+      "audio": ""
+    },
+    "languages": [],
+    "date_created": "",
+    "date_uploaded": "9/28/2025",
+    "source": {
+      "_default": ""
+    },
+    "description": "",
+    "genre": "",
+    "author": "",
+    "glosser": "",
+    "speakers": [],
+    "xml_file_name": "Miguel-Romero_Julián-López_Mesmakhanem.eaf",
+    "source_filetype": "ELAN",
+    "tier IDs": {},
+    "speaker IDs": {}
+  },
+  "5e58aabc-46c4-4ced-9a88-e76f9b5132be": {
+    "timed": true,
+    "story ID": "5e58aabc-46c4-4ced-9a88-e76f9b5132be",
+    "title": {
+      "_default": "Miguel-Romero_Julián-López_Maso-Sanga"
+    },
+    "media": {
+      "audio_local": "",
+      "audio_remote": "",
+      "video": "https://lingview-enenlhet.sfo3.digitaloceanspaces.com/2025/video/Miguel-Romero_Juli%C3%A1n-L%C3%B3pez_Maso-Sanga.mp4",
+      "audio": ""
+    },
+    "languages": [],
+    "date_created": "",
+    "date_uploaded": "9/28/2025",
+    "source": {
+      "_default": ""
+    },
+    "description": "",
+    "genre": "",
+    "author": "",
+    "glosser": "",
+    "speakers": [],
+    "xml_file_name": "Miguel-Romero_Julián-López_Maso-Sanga.eaf",
+    "source_filetype": "ELAN",
+    "tier IDs": {},
+    "speaker IDs": {}
+  },
+  "40ba7864-210f-4cf7-b36f-3bf217277400": {
+    "timed": true,
+    "story ID": "40ba7864-210f-4cf7-b36f-3bf217277400",
+    "title": {
+      "_default": "Osvaldo-Centurion_Iettelev"
+    },
+    "media": {
+      "audio_local": "",
+      "audio_remote": "",
+      "video": "https://lingview-enenlhet.sfo3.digitaloceanspaces.com/2025/video/Osvaldo-Centurion_Iettelev.mp4",
+      "audio": ""
+    },
+    "languages": [],
+    "date_created": "",
+    "date_uploaded": "9/28/2025",
+    "source": {
+      "_default": ""
+    },
+    "description": "",
+    "genre": "",
+    "author": "",
+    "glosser": "",
+    "speakers": [],
+    "xml_file_name": "Osvaldo-Centurion_Iettelev.eaf",
+    "source_filetype": "ELAN",
+    "tier IDs": {},
+    "speaker IDs": {}
+  },
+  "ed8124d0-2821-4114-8c43-580a9ac9ab9b": {
+    "timed": true,
+    "story ID": "ed8124d0-2821-4114-8c43-580a9ac9ab9b",
+    "title": {
+      "_default": "Sarmiento-Antolín_Maleng-Aiempek"
+    },
+    "media": {
+      "audio_local": "",
+      "audio_remote": "",
+      "video": "https://lingview-enenlhet.sfo3.digitaloceanspaces.com/2025/video/Sarmiento-Antol%C3%ADn_Maleng-Aiempek.mp4",
+      "audio": ""
+    },
+    "languages": [],
+    "date_created": "",
+    "date_uploaded": "9/28/2025",
+    "source": {
+      "_default": ""
+    },
+    "description": "",
+    "genre": "",
+    "author": "",
+    "glosser": "",
+    "speakers": [],
+    "xml_file_name": "Sarmiento-Antolín_Maleng-Aiempek.eaf",
+    "source_filetype": "ELAN",
+    "tier IDs": {},
+    "speaker IDs": {}
   }
 }

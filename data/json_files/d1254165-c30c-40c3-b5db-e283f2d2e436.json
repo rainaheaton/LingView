@@ -1,0 +1,4666 @@
+{
+  "metadata": {
+    "timed": true,
+    "story ID": "d1254165-c30c-40c3-b5db-e283f2d2e436",
+    "title": {
+      "_default": "Miguel-Romero_2"
+    },
+    "media": {
+      "audio_local": "",
+      "audio_remote": "",
+      "video": "https://lingview-enenlhet.sfo3.digitaloceanspaces.com/2019/video/Miguel-Romero_2.mp4",
+      "audio": ""
+    },
+    "languages": [],
+    "date_created": "",
+    "date_uploaded": "9/27/2025",
+    "source": {
+      "_default": ""
+    },
+    "description": "",
+    "genre": "",
+    "author": "",
+    "glosser": "",
+    "speakers": [
+      "MRR"
+    ],
+    "xml_file_name": "Miguel-Romero_2.eaf",
+    "source_filetype": "ELAN",
+    "tier IDs": {
+      "transcript_MRR": {
+        "subdivided": false
+      },
+      "translation_MRR": {
+        "subdivided": false
+      }
+    },
+    "speaker IDs": {
+      "S1": {
+        "name": "MRR",
+        "tier": "transcript_MRR"
+      }
+    }
+  },
+  "sentences": [
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 3350,
+      "end_time_ms": 4100,
+      "num_slots": 1,
+      "text": "ntase'",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "esta bien"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 7783,
+      "end_time_ms": 9083,
+      "num_slots": 1,
+      "text": "vanlha ko'o",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "solo yo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 11175,
+      "end_time_ms": 12300,
+      "num_slots": 1,
+      "text": "askavakha' ",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "vivia en"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 12775,
+      "end_time_ms": 14125,
+      "num_slots": 1,
+      "text": "Colonia 15",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "Colonia 15"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 14700,
+      "end_time_ms": 15875,
+      "num_slots": 1,
+      "text": "ketketsek",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "pequeno"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 19975,
+      "end_time_ms": 20775,
+      "num_slots": 1,
+      "text": "tan",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "luego"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 22663,
+      "end_time_ms": 23513,
+      "num_slots": 1,
+      "text": "tata",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "mi papa"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 23601,
+      "end_time_ms": 24451,
+      "num_slots": 1,
+      "text": "meme",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "mi mama"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 25589,
+      "end_time_ms": 26339,
+      "num_slots": 1,
+      "text": "apkeniem'o",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "origenaron"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 26777,
+      "end_time_ms": 28002,
+      "num_slots": 1,
+      "text": "Palo Santo",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "Palo Santo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 29052,
+      "end_time_ms": 29952,
+      "num_slots": 1,
+      "text": "na lhepop",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "caminando"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 30315,
+      "end_time_ms": 31590,
+      "num_slots": 1,
+      "text": "aplhengama",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "viajaron"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 33165,
+      "end_time_ms": 34365,
+      "num_slots": 1,
+      "text": "con a pie",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "con a pie"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 35478,
+      "end_time_ms": 36753,
+      "num_slots": 1,
+      "text": "caminando",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "caminando"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 38828,
+      "end_time_ms": 40428,
+      "num_slots": 1,
+      "text": "pero lejos",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "pero lejos"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 41191,
+      "end_time_ms": 42216,
+      "num_slots": 1,
+      "text": "taiepe'",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "lejos"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 43766,
+      "end_time_ms": 45141,
+      "num_slots": 1,
+      "text": "Palo Santo",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "Palo Santo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 46641,
+      "end_time_ms": 47816,
+      "num_slots": 1,
+      "text": "malha",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "parece que es"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 50391,
+      "end_time_ms": 51766,
+      "num_slots": 1,
+      "text": "100 kilometro",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "100 kilometros"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 51966,
+      "end_time_ms": 53116,
+      "num_slots": 1,
+      "text": "na lhepop",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "caminando"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 57004,
+      "end_time_ms": 58004,
+      "num_slots": 1,
+      "text": "vanlha",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "solo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 60417,
+      "end_time_ms": 61317,
+      "num_slots": 1,
+      "text": "meme",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "mi mama"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 62930,
+      "end_time_ms": 64080,
+      "num_slots": 1,
+      "text": "nlhengkek meme ",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "viajaba mi mama"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 68368,
+      "end_time_ms": 70568,
+      "num_slots": 1,
+      "text": "1947",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "1947"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 73331,
+      "end_time_ms": 74131,
+      "num_slots": 1,
+      "text": "netamen",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "luego"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 76919,
+      "end_time_ms": 77894,
+      "num_slots": 1,
+      "text": "na",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "y"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 79194,
+      "end_time_ms": 80294,
+      "num_slots": 1,
+      "text": "nlhengkek",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "viajaba"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 80807,
+      "end_time_ms": 81907,
+      "num_slots": 1,
+      "text": "tan",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "luego"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 82920,
+      "end_time_ms": 84170,
+      "num_slots": 1,
+      "text": "meme ko'o",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "mi mama, yo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 85608,
+      "end_time_ms": 87183,
+      "num_slots": 1,
+      "text": "comienza embarazo",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "fue embarazado"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 88883,
+      "end_time_ms": 89958,
+      "num_slots": 1,
+      "text": "Enenlhet",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "Enenlhet"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 92083,
+      "end_time_ms": 92683,
+      "num_slots": 1,
+      "text": "ko'o",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "yo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 93621,
+      "end_time_ms": 94721,
+      "num_slots": 1,
+      "text": "nloseie",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "estaba embarazada"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 95434,
+      "end_time_ms": 96209,
+      "num_slots": 1,
+      "text": "nloseie ",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "estaba embarasada"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 97984,
+      "end_time_ms": 99984,
+      "num_slots": 1,
+      "text": "nloseie ntak meme ",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "mi mama estaba embarazada"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 104072,
+      "end_time_ms": 105322,
+      "num_slots": 1,
+      "text": "netamen ma'a",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "y luego"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 109160,
+      "end_time_ms": 110835,
+      "num_slots": 1,
+      "text": "stiakme ko'o",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "yo naci"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 111510,
+      "end_time_ms": 113585,
+      "num_slots": 1,
+      "text": "1949",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "1949"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 114010,
+      "end_time_ms": 115585,
+      "num_slots": 1,
+      "text": "nietnek sedola nak",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "tengo certificado de nacimiento"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 116560,
+      "end_time_ms": 118560,
+      "num_slots": 1,
+      "text": "1949",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "1949"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 121148,
+      "end_time_ms": 121923,
+      "num_slots": 1,
+      "text": "tan",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "luego"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 123548,
+      "end_time_ms": 125123,
+      "num_slots": 1,
+      "text": "svanengie ko'o",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "creci"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 126898,
+      "end_time_ms": 128073,
+      "num_slots": 1,
+      "text": "netamen",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "luego"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 128748,
+      "end_time_ms": 132048,
+      "num_slots": 1,
+      "text": "as-, vanlha 8 anos",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "solo 8 anos"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 132961,
+      "end_time_ms": 134536,
+      "num_slots": 1,
+      "text": "tata, meme",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "mi mama y mi papa"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 135611,
+      "end_time_ms": 137061,
+      "num_slots": 1,
+      "text": "vuelta mok hom",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "regresan otra vez"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 137199,
+      "end_time_ms": 138274,
+      "num_slots": 1,
+      "text": "Palo Santo",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "Palo Santo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 138674,
+      "end_time_ms": 140149,
+      "num_slots": 1,
+      "text": "100 kilometro mok hom",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "10 k otra vez"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 141474,
+      "end_time_ms": 143049,
+      "num_slots": 1,
+      "text": "cerca Filadelfia",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "cerca Filadelfia"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 144524,
+      "end_time_ms": 145674,
+      "num_slots": 1,
+      "text": "Palo Santo",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "Palo Santo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 148687,
+      "end_time_ms": 150887,
+      "num_slots": 1,
+      "text": "kan, tan",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "y luego"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 152525,
+      "end_time_ms": 154925,
+      "num_slots": 1,
+      "text": "asiav'a ko Palo Santo ",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "creci en Palo Santo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 155988,
+      "end_time_ms": 156838,
+      "num_slots": 1,
+      "text": "vanlha eietkok",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "solo era joven"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 159601,
+      "end_time_ms": 160751,
+      "num_slots": 1,
+      "text": "12 anio",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "12 anos"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 165389,
+      "end_time_ms": 166139,
+      "num_slots": 1,
+      "text": "",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 167652,
+      "end_time_ms": 169352,
+      "num_slots": 1,
+      "text": "1950",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "1950"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 173765,
+      "end_time_ms": 175165,
+      "num_slots": 1,
+      "text": "51",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "1951"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 178028,
+      "end_time_ms": 180728,
+      "num_slots": 1,
+      "text": "netlhekme ennengko Laguna Pora ",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "venimos a Laguna Pora"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 181616,
+      "end_time_ms": 182866,
+      "num_slots": 1,
+      "text": "Nenekev'",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "Laguna Pora"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 183429,
+      "end_time_ms": 185254,
+      "num_slots": 1,
+      "text": "ap- na lhepop nan ",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "caminando"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 187229,
+      "end_time_ms": 188454,
+      "num_slots": 1,
+      "text": "mama",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "no"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 190954,
+      "end_time_ms": 192129,
+      "num_slots": 1,
+      "text": "vanlha",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "solo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 194404,
+      "end_time_ms": 195804,
+      "num_slots": 1,
+      "text": "alhekmek ko'o",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "estoy veniendo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 199392,
+      "end_time_ms": 200567,
+      "num_slots": 1,
+      "text": "eietkok",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "yo era chico"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 202692,
+      "end_time_ms": 204042,
+      "num_slots": 1,
+      "text": "astemakha eietkok",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "era mi costumbre cuando yo era chico"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 204330,
+      "end_time_ms": 206430,
+      "num_slots": 1,
+      "text": "skelhiakme'",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "estoy veniendo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 207418,
+      "end_time_ms": 208793,
+      "num_slots": 1,
+      "text": "alhengama na lhepop",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "viajando caminando"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 210868,
+      "end_time_ms": 211968,
+      "num_slots": 1,
+      "text": "vaktamo ",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "hasta llegar"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 212081,
+      "end_time_ms": 213106,
+      "num_slots": 1,
+      "text": "vanlha",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "solo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 213131,
+      "end_time_ms": 215731,
+      "num_slots": 1,
+      "text": "80 kilometro, Laguna Pora",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "80 kilometros, Laguna Pora"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 215731,
+      "end_time_ms": 217956,
+      "num_slots": 1,
+      "text": "Palo Santo, 80 kilometro",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "Palo Santo, 80 kilometros"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 218556,
+      "end_time_ms": 219831,
+      "num_slots": 1,
+      "text": "na lhepop",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "caminando"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 224881,
+      "end_time_ms": 225906,
+      "num_slots": 1,
+      "text": "taiepe",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "lejos"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 226781,
+      "end_time_ms": 227806,
+      "num_slots": 1,
+      "text": "lejos",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "lejos"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 233881,
+      "end_time_ms": 235931,
+      "num_slots": 1,
+      "text": "apianpa'ak tata",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "mi papa era cansado"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 237169,
+      "end_time_ms": 238669,
+      "num_slots": 1,
+      "text": "mi papa cansado",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "mi papa era cansado"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 243032,
+      "end_time_ms": 244232,
+      "num_slots": 1,
+      "text": "sianpa'ak kolha",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "yo ya era cansado"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 244720,
+      "end_time_ms": 246470,
+      "num_slots": 1,
+      "text": "yo tambien estoy cansado",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "yo tambien era cansado"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 247158,
+      "end_time_ms": 248758,
+      "num_slots": 1,
+      "text": "porque soy chiquitito",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "porque yo era chiquitito"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 250521,
+      "end_time_ms": 252971,
+      "num_slots": 1,
+      "text": "mi papa me agarro",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "mi papa me agarro"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 253859,
+      "end_time_ms": 255409,
+      "num_slots": 1,
+      "text": "y pone en Enenlhet",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "y pone (en Enenlhet)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 256897,
+      "end_time_ms": 257872,
+      "num_slots": 1,
+      "text": "neten",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "arriba"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 258447,
+      "end_time_ms": 259797,
+      "num_slots": 1,
+      "text": "neten ko'o",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "yo era arriba"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 260935,
+      "end_time_ms": 262135,
+      "num_slots": 1,
+      "text": "aplhengama tata ",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "mi pap viajaba"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 269498,
+      "end_time_ms": 271748,
+      "num_slots": 1,
+      "text": "nelvak ennengko pelhasep",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "llegemos en la noche"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 272311,
+      "end_time_ms": 273686,
+      "num_slots": 1,
+      "text": "llegamos en la noche",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "llegemos en la noche"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 273936,
+      "end_time_ms": 275561,
+      "num_slots": 1,
+      "text": "Laguna Pora",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "a Laguna Pora"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 278736,
+      "end_time_ms": 280311,
+      "num_slots": 1,
+      "text": "nengvetak ennengko'o",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "vimos"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 280886,
+      "end_time_ms": 281786,
+      "num_slots": 1,
+      "text": "malha",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "parecian"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 282224,
+      "end_time_ms": 283199,
+      "num_slots": 1,
+      "text": "temma ",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "casas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 285274,
+      "end_time_ms": 286199,
+      "num_slots": 1,
+      "text": "lhaniek",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "mucho"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 286724,
+      "end_time_ms": 287999,
+      "num_slots": 1,
+      "text": "lhaniek temma ",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "muchas casas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 288524,
+      "end_time_ms": 289699,
+      "num_slots": 1,
+      "text": "lhaniek Toba",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "muchas personas Toba"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 294449,
+      "end_time_ms": 296674,
+      "num_slots": 1,
+      "text": "ten estaban muy contento",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "luego estaban muy contentos"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 296974,
+      "end_time_ms": 297949,
+      "num_slots": 1,
+      "text": "llegamos",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "llegamos"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 298624,
+      "end_time_ms": 299474,
+      "num_slots": 1,
+      "text": "Enenlhet",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "Enenlhet"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 301712,
+      "end_time_ms": 303412,
+      "num_slots": 1,
+      "text": "Enenlhet apnemakha' ",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "casas de la gente"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 304600,
+      "end_time_ms": 305800,
+      "num_slots": 1,
+      "text": "Toba apnemakha'",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "casas de la gente"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 308338,
+      "end_time_ms": 309263,
+      "num_slots": 1,
+      "text": "netamen",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "luego"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 313163,
+      "end_time_ms": 315263,
+      "num_slots": 1,
+      "text": "nengvetak ennengko'o",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "vimos "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 316676,
+      "end_time_ms": 319126,
+      "num_slots": 1,
+      "text": "lhamakho aktemakha'",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "muchos costumbres"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 321089,
+      "end_time_ms": 322814,
+      "num_slots": 1,
+      "text": "nietnek fabrica",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "existe fabrica"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 325664,
+      "end_time_ms": 327314,
+      "num_slots": 1,
+      "text": "nietnek estancia",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "existe estancias"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 329802,
+      "end_time_ms": 331202,
+      "num_slots": 1,
+      "text": "nietnek nan",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "y existe"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 333190,
+      "end_time_ms": 334690,
+      "num_slots": 1,
+      "text": "iglesia",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "iglesia"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 336653,
+      "end_time_ms": 338278,
+      "num_slots": 1,
+      "text": "nietnek Tetelhep",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "existe un misionero Tetelhep"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 338403,
+      "end_time_ms": 340128,
+      "num_slots": 1,
+      "text": "apvesai'a misionero",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "es el nombre del misionero"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 343403,
+      "end_time_ms": 344653,
+      "num_slots": 1,
+      "text": "Filadelfia",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "Filadelfia"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 347841,
+      "end_time_ms": 348891,
+      "num_slots": 1,
+      "text": "netamen",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "luego"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 353304,
+      "end_time_ms": 354804,
+      "num_slots": 1,
+      "text": "nietnek ko'o ",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "tengo (muchas historias)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 357942,
+      "end_time_ms": 358917,
+      "num_slots": 1,
+      "text": "vanlha",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "solo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 360792,
+      "end_time_ms": 361542,
+      "num_slots": 1,
+      "text": "lhaniek",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "muchas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 362380,
+      "end_time_ms": 363430,
+      "num_slots": 1,
+      "text": "historia",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "historias"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 364968,
+      "end_time_ms": 366093,
+      "num_slots": 1,
+      "text": "vanlha ko'o",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "solo yo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 367993,
+      "end_time_ms": 369093,
+      "num_slots": 1,
+      "text": "asvetai'a",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "vi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 370281,
+      "end_time_ms": 371106,
+      "num_slots": 1,
+      "text": "lhanie'",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "mucho"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 373781,
+      "end_time_ms": 375431,
+      "num_slots": 1,
+      "text": "mucho historia",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "muchas historias"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 375844,
+      "end_time_ms": 376694,
+      "num_slots": 1,
+      "text": "lhennenga",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "de antes"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 380032,
+      "end_time_ms": 381307,
+      "num_slots": 1,
+      "text": "astengia' ko'o",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "yo buzco"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 383132,
+      "end_time_ms": 384057,
+      "num_slots": 1,
+      "text": "netamen nan",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "y luego"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 385382,
+      "end_time_ms": 386707,
+      "num_slots": 1,
+      "text": "19",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "1963"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 389032,
+      "end_time_ms": 390582,
+      "num_slots": 1,
+      "text": "63",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "1963"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 394020,
+      "end_time_ms": 397495,
+      "num_slots": 1,
+      "text": "1969",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "1969"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 398195,
+      "end_time_ms": 399545,
+      "num_slots": 1,
+      "text": "heliemhapkek ko'o",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "me case"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 399758,
+      "end_time_ms": 400658,
+      "num_slots": 1,
+      "text": "kanhan",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "y"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 401571,
+      "end_time_ms": 403071,
+      "num_slots": 1,
+      "text": "casamiento",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "casamiento"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 406159,
+      "end_time_ms": 407359,
+      "num_slots": 1,
+      "text": "tan",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "luego"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 409922,
+      "end_time_ms": 411422,
+      "num_slots": 1,
+      "text": "yo no sabia",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "yo no sabia"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 412385,
+      "end_time_ms": 413835,
+      "num_slots": 1,
+      "text": "cazar animal",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "cazar a los animales"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 414948,
+      "end_time_ms": 416523,
+      "num_slots": 1,
+      "text": "porque soy nuevo",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "proque yo era joven todavia"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 418998,
+      "end_time_ms": 420698,
+      "num_slots": 1,
+      "text": "nelpaqvaiem anak ",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "cazamos"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 421811,
+      "end_time_ms": 422711,
+      "num_slots": 1,
+      "text": "nelpaqvaiem ",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "cazamos"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 426374,
+      "end_time_ms": 427599,
+      "num_slots": 1,
+      "text": "netamen nan",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "y luego"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 428399,
+      "end_time_ms": 429774,
+      "num_slots": 1,
+      "text": "5 anio",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "5 anos"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 432049,
+      "end_time_ms": 433549,
+      "num_slots": 1,
+      "text": "nelvetak ennengko'o",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "vimos"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 433962,
+      "end_time_ms": 434712,
+      "num_slots": 1,
+      "text": "mi hijo",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "mi hijo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 436875,
+      "end_time_ms": 438075,
+      "num_slots": 1,
+      "text": "primer hijo",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "primer hijo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 438588,
+      "end_time_ms": 440163,
+      "num_slots": 1,
+      "text": "primer hijo Alsenio",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "mi primer hijo es Alsenio"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 443713,
+      "end_time_ms": 446263,
+      "num_slots": 1,
+      "text": "segundo, fallecio",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "el segundo, fallecio"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 447376,
+      "end_time_ms": 448651,
+      "num_slots": 1,
+      "text": "ketketsek",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "cuando era pequeno"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 450476,
+      "end_time_ms": 453251,
+      "num_slots": 1,
+      "text": "tercer hijo, Manolo",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "el tercer hijo es Manolo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 455526,
+      "end_time_ms": 456626,
+      "num_slots": 1,
+      "text": "nempaivoma",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "nuestra idioma"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 458864,
+      "end_time_ms": 460164,
+      "num_slots": 1,
+      "text": "mo'ok nan",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "y otro"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 462677,
+      "end_time_ms": 463752,
+      "num_slots": 1,
+      "text": "tan",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "luego"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 464052,
+      "end_time_ms": 465527,
+      "num_slots": 1,
+      "text": "stengia ko'o",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "buscaba"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 465877,
+      "end_time_ms": 467752,
+      "num_slots": 1,
+      "text": "iet-, astengia ko'o",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "yo buscaba"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 470002,
+      "end_time_ms": 471077,
+      "num_slots": 1,
+      "text": "anmoma",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "rifle"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 472677,
+      "end_time_ms": 473777,
+      "num_slots": 1,
+      "text": "escopeta",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "escopeta"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 474290,
+      "end_time_ms": 476440,
+      "num_slots": 1,
+      "text": "alhengkek ko nalhma'",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "yo viajo en el monte"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 478753,
+      "end_time_ms": 480378,
+      "num_slots": 1,
+      "text": "svetak ko popiet ",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "vi un venado"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 483503,
+      "end_time_ms": 485228,
+      "num_slots": 1,
+      "text": "asantaiek popiet ",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "trai venado"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 485328,
+      "end_time_ms": 487153,
+      "num_slots": 1,
+      "text": "nentavkek nan apetek",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "y comemos su carne"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 489553,
+      "end_time_ms": 493003,
+      "num_slots": 1,
+      "text": "svetak nan keliaqhava chancho, cori'",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "y vi sp de chancho"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 496866,
+      "end_time_ms": 497941,
+      "num_slots": 1,
+      "text": "temakha",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "costumbre"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 498366,
+      "end_time_ms": 499916,
+      "num_slots": 1,
+      "text": "aptemakha Enenlhet",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "costumbres de la gente"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 500454,
+      "end_time_ms": 501354,
+      "num_slots": 1,
+      "text": "lhennenga",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "antes"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 503917,
+      "end_time_ms": 505392,
+      "num_slots": 1,
+      "text": "cultura indigena",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "cultura indigena"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 507317,
+      "end_time_ms": 509267,
+      "num_slots": 1,
+      "text": "siempre camina en el monte",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "siempre caminan en el monte"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 509630,
+      "end_time_ms": 510980,
+      "num_slots": 1,
+      "text": "buscar comida",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "para buscar comida"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 514868,
+      "end_time_ms": 516018,
+      "num_slots": 1,
+      "text": "hasta hoy",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "hasta hoy"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 516656,
+      "end_time_ms": 517731,
+      "num_slots": 1,
+      "text": "continua",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "continua"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 519206,
+      "end_time_ms": 520506,
+      "num_slots": 1,
+      "text": "por ejemplo",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "por ejemplo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 521494,
+      "end_time_ms": 523819,
+      "num_slots": 1,
+      "text": "mok hom nempaivoma",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "otra palabra"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 525519,
+      "end_time_ms": 526694,
+      "num_slots": 1,
+      "text": "nelpaqvaiem ",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "cazamos"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 528894,
+      "end_time_ms": 530994,
+      "num_slots": 1,
+      "text": "nelpaqvaiem akvesai'a",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "se llama la caza"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 535882,
+      "end_time_ms": 538882,
+      "num_slots": 1,
+      "text": "manana o sosekhata ko alpavomok",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "voy a cazar manana"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 541445,
+      "end_time_ms": 542745,
+      "num_slots": 1,
+      "text": "manana voy a",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "manana voy a"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 543058,
+      "end_time_ms": 544158,
+      "num_slots": 1,
+      "text": "buscar",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "buscar"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 545371,
+      "end_time_ms": 546496,
+      "num_slots": 1,
+      "text": "lo que sea",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "lo que sea"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 547471,
+      "end_time_ms": 549746,
+      "num_slots": 1,
+      "text": "popiet o otra cosa",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "venado o otra cosa"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 551296,
+      "end_time_ms": 553046,
+      "num_slots": 1,
+      "text": "sosekhata alpaqvomok",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "manana voy a cazar varias cosas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 556384,
+      "end_time_ms": 557209,
+      "num_slots": 1,
+      "text": "como",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "como"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 558309,
+      "end_time_ms": 559784,
+      "num_slots": 1,
+      "text": "la palabra",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "la palabra"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 559809,
+      "end_time_ms": 563109,
+      "num_slots": 1,
+      "text": "sosekha' quiere decir manana",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "sosekha' quiere decir manana"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 563472,
+      "end_time_ms": 564547,
+      "num_slots": 1,
+      "text": "sosekha'",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "manana"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 568047,
+      "end_time_ms": 569622,
+      "num_slots": 1,
+      "text": "sek la ehangke?",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "que otro tengo?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 574222,
+      "end_time_ms": 577672,
+      "num_slots": 1,
+      "text": "lhaniek aptemakha, aptoma Enenlhet",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "hay muchos costumbres, muchas comidas de la gente"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 577935,
+      "end_time_ms": 578935,
+      "num_slots": 1,
+      "text": "lhennenga",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "de antes"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 579998,
+      "end_time_ms": 581023,
+      "num_slots": 1,
+      "text": "nlhengkeklhek ",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "estaba contando"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 581648,
+      "end_time_ms": 582548,
+      "num_slots": 1,
+      "text": "etava ",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "mi esposa"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 583536,
+      "end_time_ms": 584286,
+      "num_slots": 1,
+      "text": "lhenga",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "sp planta"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 584449,
+      "end_time_ms": 585074,
+      "num_slots": 1,
+      "text": "pa'ang",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "palma del monte"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 587549,
+      "end_time_ms": 588399,
+      "num_slots": 1,
+      "text": "mo'ok nan",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "y otro"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 589787,
+      "end_time_ms": 591162,
+      "num_slots": 1,
+      "text": "tekpongkasa",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "sp de tuna"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 593062,
+      "end_time_ms": 594237,
+      "num_slots": 1,
+      "text": "melapan",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "sp de tuna"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 595587,
+      "end_time_ms": 596412,
+      "num_slots": 1,
+      "text": "mo'ok nan",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "y otro"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 596412,
+      "end_time_ms": 597462,
+      "num_slots": 1,
+      "text": "akpet ",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "sp de tuna"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 598500,
+      "end_time_ms": 600000,
+      "num_slots": 1,
+      "text": "akpet nan ",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "y sp de tuna"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 606963,
+      "end_time_ms": 608163,
+      "num_slots": 1,
+      "text": "koka",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "tambien"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 611076,
+      "end_time_ms": 612339,
+      "num_slots": 1,
+      "text": "nietnek nan",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "y existe"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 612339,
+      "end_time_ms": 614639,
+      "num_slots": 1,
+      "text": "nentomakha aikaha, teves",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "comemos algarrobo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 615402,
+      "end_time_ms": 616427,
+      "num_slots": 1,
+      "text": "niaqpenek",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "otro sp de algarrobo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 618927,
+      "end_time_ms": 619977,
+      "num_slots": 1,
+      "text": "popom",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "sp de avispa"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 620190,
+      "end_time_ms": 621165,
+      "num_slots": 1,
+      "text": "iavhan",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "sp de abeja"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 622240,
+      "end_time_ms": 624215,
+      "num_slots": 1,
+      "text": "aptomakha lhennenga Enenlhet",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "eran la comida de los Tobas antiguos"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 625140,
+      "end_time_ms": 628090,
+      "num_slots": 1,
+      "text": "historia, hasta hoy comemos tambien",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "historia, hasta hoy comemos tambien"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 632853,
+      "end_time_ms": 633928,
+      "num_slots": 1,
+      "text": "",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 634453,
+      "end_time_ms": 636453,
+      "num_slots": 1,
+      "text": "poco tiempo",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "poco tiempo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 638791,
+      "end_time_ms": 640466,
+      "num_slots": 1,
+      "text": "atengia' ko iavhan ",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "buzco sp de abejas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 641891,
+      "end_time_ms": 644066,
+      "num_slots": 1,
+      "text": "no enero, noviembre por alli",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "no enero, noviembre por alli"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 645041,
+      "end_time_ms": 646441,
+      "num_slots": 1,
+      "text": "voy a entrar al monte",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "voy a entrar al monte"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 646754,
+      "end_time_ms": 648279,
+      "num_slots": 1,
+      "text": "para buscar iavhan",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "para buscar sp de abeja"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 649779,
+      "end_time_ms": 652079,
+      "num_slots": 1,
+      "text": "ieta ievhene'",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "sp de abeja"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 659217,
+      "end_time_ms": 660692,
+      "num_slots": 1,
+      "text": "sek la nan ehangke?",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "que mas tengo?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 661042,
+      "end_time_ms": 663292,
+      "num_slots": 1,
+      "text": "iep- kelasma no kanhan",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "con pescado"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 667605,
+      "end_time_ms": 671030,
+      "num_slots": 1,
+      "text": "nietnek kelasma nentoma, menlhai",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "existe pescado para nuesta comida y tambien sp de pes"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 671905,
+      "end_time_ms": 672980,
+      "num_slots": 1,
+      "text": "ielhem",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "serpiente del agua"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 674030,
+      "end_time_ms": 674905,
+      "num_slots": 1,
+      "text": "mo'ok nan",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "y otro"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 676280,
+      "end_time_ms": 677530,
+      "num_slots": 1,
+      "text": "ielhem",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "serpiente del agua"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 679093,
+      "end_time_ms": 680493,
+      "num_slots": 1,
+      "text": "hay alahak konne'",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "hay agujas adentro"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 682431,
+      "end_time_ms": 683406,
+      "num_slots": 1,
+      "text": "tenemos",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "tenemos"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 686006,
+      "end_time_ms": 686981,
+      "num_slots": 1,
+      "text": "alahak",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "aguja"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 688256,
+      "end_time_ms": 689356,
+      "num_slots": 1,
+      "text": "voy a",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "voy a"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 691519,
+      "end_time_ms": 692994,
+      "num_slots": 1,
+      "text": "yo no sabia",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "yo no sabia"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 693194,
+      "end_time_ms": 694519,
+      "num_slots": 1,
+      "text": "buscar ielhem",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "buscar serpientes del agua"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 700094,
+      "end_time_ms": 701519,
+      "num_slots": 1,
+      "text": "tata ko",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "mi papa"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 702169,
+      "end_time_ms": 703294,
+      "num_slots": 1,
+      "text": "apvankek",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "sabia"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 703294,
+      "end_time_ms": 704994,
+      "num_slots": 1,
+      "text": "etengiak ielhem ",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "como buzcar serpientes del agua"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 705757,
+      "end_time_ms": 707057,
+      "num_slots": 1,
+      "text": "alvata'",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "lago"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 707495,
+      "end_time_ms": 708870,
+      "num_slots": 1,
+      "text": "tajamar",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "tajamar"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 713395,
+      "end_time_ms": 715095,
+      "num_slots": 1,
+      "text": "sek la nan ehangke?",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "que mas tengo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 717583,
+      "end_time_ms": 718608,
+      "num_slots": 1,
+      "text": "aplhaniek",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "mucho"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 720083,
+      "end_time_ms": 721858,
+      "num_slots": 1,
+      "text": "yo estoy grabando",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "yo estoy grabando"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 722258,
+      "end_time_ms": 723608,
+      "num_slots": 1,
+      "text": "Manolo apnemakha'",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "en la casa de Manolo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 726646,
+      "end_time_ms": 730546,
+      "num_slots": 1,
+      "text": "yo estoy hablando para repetir otra vez",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "yo estoy hablando para repetir otra vez"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 730859,
+      "end_time_ms": 731584,
+      "num_slots": 1,
+      "text": "hoy",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "hoy"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 732284,
+      "end_time_ms": 733884,
+      "num_slots": 1,
+      "text": "pero la misma cosa",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "pero la misma cosa"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 734447,
+      "end_time_ms": 735647,
+      "num_slots": 1,
+      "text": "que hablo",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "que hable"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 740460,
+      "end_time_ms": 741910,
+      "num_slots": 1,
+      "text": "konne lhta",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "era adentro"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 748798,
+      "end_time_ms": 749973,
+      "num_slots": 1,
+      "text": "vanlha",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "es todo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MRR",
+      "start_time_ms": 750448,
+      "end_time_ms": 751673,
+      "num_slots": 1,
+      "text": "vanlha",
+      "dependents": [
+        {
+          "tier": "translation_MRR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "es todo"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

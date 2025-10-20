@@ -1,0 +1,2340 @@
+{
+  "metadata": {
+    "timed": true,
+    "story ID": "f4a426e5-1260-42f2-9e4c-6ce790fa617b",
+    "title": {
+      "_default": "Lucia-Marciano"
+    },
+    "media": {
+      "audio_local": "",
+      "audio_remote": "",
+      "video": "https://lingview-enenlhet.sfo3.digitaloceanspaces.com/2019/video/Lucia-Marciano.mp4",
+      "audio": ""
+    },
+    "languages": [],
+    "date_created": "",
+    "date_uploaded": "9/26/2025",
+    "source": {
+      "_default": ""
+    },
+    "description": "",
+    "genre": "",
+    "author": "",
+    "glosser": "",
+    "speakers": [
+      "LM",
+      "RH"
+    ],
+    "xml_file_name": "Lucia-Marciano.eaf",
+    "source_filetype": "ELAN",
+    "tier IDs": {
+      "transcript_LM": {
+        "subdivided": false
+      },
+      "translation_LM": {
+        "subdivided": false
+      },
+      "transcript_RH": {
+        "subdivided": false
+      },
+      "translation_RH": {
+        "subdivided": false
+      }
+    },
+    "speaker IDs": {
+      "S1": {
+        "name": "LM",
+        "tier": "transcript_LM"
+      },
+      "S2": {
+        "name": "RH",
+        "tier": "transcript_RH"
+      }
+    }
+  },
+  "sentences": [
+    {
+      "speaker": "S2",
+      "tier": "transcript_RH",
+      "start_time_ms": 10371,
+      "end_time_ms": 12042,
+      "num_slots": 1,
+      "text": "sek avesai'a?",
+      "dependents": [
+        {
+          "tier": "translation_RH",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "como te llamas?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_LM",
+      "start_time_ms": 12141,
+      "end_time_ms": 13027,
+      "num_slots": 1,
+      "text": "Lucia",
+      "dependents": [
+        {
+          "tier": "translation_LM",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "Lucia"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S2",
+      "tier": "transcript_RH",
+      "start_time_ms": 15562,
+      "end_time_ms": 17462,
+      "num_slots": 1,
+      "text": "kok aniemakha'?",
+      "dependents": [
+        {
+          "tier": "translation_RH",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "de donde vienes?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_LM",
+      "start_time_ms": 18947,
+      "end_time_ms": 21219,
+      "num_slots": 1,
+      "text": "skeniem'ak ko'o Nenekev'",
+      "dependents": [
+        {
+          "tier": "translation_LM",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "soy de Laguna Pora"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S2",
+      "tier": "transcript_RH",
+      "start_time_ms": 23894,
+      "end_time_ms": 26365,
+      "num_slots": 1,
+      "text": "selha ano apangkok?",
+      "dependents": [
+        {
+          "tier": "translation_RH",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "cuantos anos tienes?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_LM",
+      "start_time_ms": 26579,
+      "end_time_ms": 28779,
+      "num_slots": 1,
+      "text": "selha anio kelhaha",
+      "dependents": [
+        {
+          "tier": "translation_LM",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "no se cuantos anios fue"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_LM",
+      "start_time_ms": 30200,
+      "end_time_ms": 31529,
+      "num_slots": 1,
+      "text": "moiho ko'o",
+      "dependents": [
+        {
+          "tier": "translation_LM",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "no se"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_LM",
+      "start_time_ms": 36550,
+      "end_time_ms": 40864,
+      "num_slots": 1,
+      "text": "vanlha lhta ko asiamo astiaianlha ko",
+      "dependents": [
+        {
+          "tier": "translation_LM",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "solo yo sabia donde naci"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_LM",
+      "start_time_ms": 41085,
+      "end_time_ms": 44842,
+      "num_slots": 1,
+      "text": "1963",
+      "dependents": [
+        {
+          "tier": "translation_LM",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "1963"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_LM",
+      "start_time_ms": 45750,
+      "end_time_ms": 48425,
+      "num_slots": 1,
+      "text": "3 alhta Enero",
+      "dependents": [
+        {
+          "tier": "translation_LM",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "era tres de Enero"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_LM",
+      "start_time_ms": 48800,
+      "end_time_ms": 50725,
+      "num_slots": 1,
+      "text": "steiaianlha lhta ko",
+      "dependents": [
+        {
+          "tier": "translation_LM",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "yo naci"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_LM",
+      "start_time_ms": 51275,
+      "end_time_ms": 53425,
+      "num_slots": 1,
+      "text": "kelha apiavek ma'aha",
+      "dependents": [
+        {
+          "tier": "translation_LM",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "creo que el sabe alli"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_LM",
+      "start_time_ms": 53488,
+      "end_time_ms": 55238,
+      "num_slots": 1,
+      "text": "tata lhta ko",
+      "dependents": [
+        {
+          "tier": "translation_LM",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "mi papa era"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_LM",
+      "start_time_ms": 58201,
+      "end_time_ms": 60226,
+      "num_slots": 1,
+      "text": "kelhanhan niavek ma'a meme",
+      "dependents": [
+        {
+          "tier": "translation_LM",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "creo que mi mama alli sabe"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_LM",
+      "start_time_ms": 61601,
+      "end_time_ms": 63801,
+      "num_slots": 1,
+      "text": "moiho ko aktemakha eietkok",
+      "dependents": [
+        {
+          "tier": "translation_LM",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "yo no se sobre mi joventud"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_LM",
+      "start_time_ms": 64239,
+      "end_time_ms": 64939,
+      "num_slots": 1,
+      "text": "ha?",
+      "dependents": [
+        {
+          "tier": "translation_LM",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "huh?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_LM",
+      "start_time_ms": 66002,
+      "end_time_ms": 68052,
+      "num_slots": 1,
+      "text": "nnek meme ko ha'e",
+      "dependents": [
+        {
+          "tier": "translation_LM",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "esta mi mama"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_LM",
+      "start_time_ms": 68515,
+      "end_time_ms": 70390,
+      "num_slots": 1,
+      "text": "akvaneiam nan tahak",
+      "dependents": [
+        {
+          "tier": "translation_LM",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "es vieja"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_LM",
+      "start_time_ms": 72065,
+      "end_time_ms": 74590,
+      "num_slots": 1,
+      "text": "akvaneiam nan tak meme",
+      "dependents": [
+        {
+          "tier": "translation_LM",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "mi mama es vieja"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_LM",
+      "start_time_ms": 78415,
+      "end_time_ms": 82740,
+      "num_slots": 1,
+      "text": "asvetai'o lhta ko temakho eietkok kasno ko ngke",
+      "dependents": [
+        {
+          "tier": "translation_LM",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "vi cuando yo era joven y mi altura era asi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_LM",
+      "start_time_ms": 83115,
+      "end_time_ms": 84640,
+      "num_slots": 1,
+      "text": "metka siamo",
+      "dependents": [
+        {
+          "tier": "translation_LM",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "sin saber nada"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_LM",
+      "start_time_ms": 90315,
+      "end_time_ms": 93215,
+      "num_slots": 1,
+      "text": "temakha hetavkeskama ko tata lhta",
+      "dependents": [
+        {
+          "tier": "translation_LM",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "mi papa era consiguendo mi comida"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_LM",
+      "start_time_ms": 93303,
+      "end_time_ms": 94303,
+      "num_slots": 1,
+      "text": "iavhan",
+      "dependents": [
+        {
+          "tier": "translation_LM",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "sp de abeja"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_LM",
+      "start_time_ms": 94966,
+      "end_time_ms": 96616,
+      "num_slots": 1,
+      "text": "kakto nak na",
+      "dependents": [
+        {
+          "tier": "translation_LM",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "y por ejemplo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_LM",
+      "start_time_ms": 98029,
+      "end_time_ms": 100229,
+      "num_slots": 1,
+      "text": "ieta ievhene kelha apvesai'a",
+      "dependents": [
+        {
+          "tier": "translation_LM",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "ietaievhene' creo que es como se llama"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_LM",
+      "start_time_ms": 102267,
+      "end_time_ms": 103442,
+      "num_slots": 1,
+      "text": "iavhan",
+      "dependents": [
+        {
+          "tier": "translation_LM",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "sp de abeja"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_LM",
+      "start_time_ms": 105492,
+      "end_time_ms": 108692,
+      "num_slots": 1,
+      "text": "apkelkakek nan to nak seppo",
+      "dependents": [
+        {
+          "tier": "translation_LM",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "carpiendo por ejemplo mandioca"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_LM",
+      "start_time_ms": 108980,
+      "end_time_ms": 109905,
+      "num_slots": 1,
+      "text": "peia'",
+      "dependents": [
+        {
+          "tier": "translation_LM",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "patata"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_LM",
+      "start_time_ms": 111755,
+      "end_time_ms": 114380,
+      "num_slots": 1,
+      "text": "takto nak na meme ko avaneiam",
+      "dependents": [
+        {
+          "tier": "translation_LM",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "por ejemplo mi mama es vieja"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_LM",
+      "start_time_ms": 115280,
+      "end_time_ms": 117980,
+      "num_slots": 1,
+      "text": "hetavkaskek nan temakha eietkok",
+      "dependents": [
+        {
+          "tier": "translation_LM",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "ella me dio la comida cuando yo era joven"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_LM",
+      "start_time_ms": 118568,
+      "end_time_ms": 120143,
+      "num_slots": 1,
+      "text": "metka seiamo",
+      "dependents": [
+        {
+          "tier": "translation_LM",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "yo no sabia nada"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_LM",
+      "start_time_ms": 122043,
+      "end_time_ms": 123993,
+      "num_slots": 1,
+      "text": "muy hamok ko'o",
+      "dependents": [
+        {
+          "tier": "translation_LM",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "no sabia nada"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_LM",
+      "start_time_ms": 124356,
+      "end_time_ms": 126506,
+      "num_slots": 1,
+      "text": "ngietok a Nenekev'",
+      "dependents": [
+        {
+          "tier": "translation_LM",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "el lugar era Laguna Pora"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_LM",
+      "start_time_ms": 126769,
+      "end_time_ms": 129394,
+      "num_slots": 1,
+      "text": "nempai'akha kelha",
+      "dependents": [
+        {
+          "tier": "translation_LM",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "creo que donde viviamos"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_LM",
+      "start_time_ms": 132519,
+      "end_time_ms": 135694,
+      "num_slots": 1,
+      "text": "stavke hetavkaskek na meme ko pa'ang",
+      "dependents": [
+        {
+          "tier": "translation_LM",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "yo comi y mi mama me alimento con pa'an"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_LM",
+      "start_time_ms": 136744,
+      "end_time_ms": 137719,
+      "num_slots": 1,
+      "text": "pa'ang",
+      "dependents": [
+        {
+          "tier": "translation_LM",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "palma del monte"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_LM",
+      "start_time_ms": 137944,
+      "end_time_ms": 139169,
+      "num_slots": 1,
+      "text": "potanhan",
+      "dependents": [
+        {
+          "tier": "translation_LM",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "y para"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_LM",
+      "start_time_ms": 140844,
+      "end_time_ms": 143694,
+      "num_slots": 1,
+      "text": "kakto nak hepiaqne'",
+      "dependents": [
+        {
+          "tier": "translation_LM",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "por ejemplo sp de tuna"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_LM",
+      "start_time_ms": 144382,
+      "end_time_ms": 146207,
+      "num_slots": 1,
+      "text": "hepiaqne'",
+      "dependents": [
+        {
+          "tier": "translation_LM",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "sp de tuna"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_LM",
+      "start_time_ms": 149207,
+      "end_time_ms": 151757,
+      "num_slots": 1,
+      "text": "lhenga, lhenganha",
+      "dependents": [
+        {
+          "tier": "translation_LM",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "caraguata"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_LM",
+      "start_time_ms": 152595,
+      "end_time_ms": 155670,
+      "num_slots": 1,
+      "text": "koteienhan, hetavkaske mota",
+      "dependents": [
+        {
+          "tier": "translation_LM",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "y koteie (planta), ella me dio siempre"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_LM",
+      "start_time_ms": 155795,
+      "end_time_ms": 157295,
+      "num_slots": 1,
+      "text": "koteie kelhaha",
+      "dependents": [
+        {
+          "tier": "translation_LM",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "creo que era koteie"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_LM",
+      "start_time_ms": 158458,
+      "end_time_ms": 160508,
+      "num_slots": 1,
+      "text": "mok aktema nak lhenga",
+      "dependents": [
+        {
+          "tier": "translation_LM",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "otro tipo es caraguata"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_LM",
+      "start_time_ms": 161346,
+      "end_time_ms": 164146,
+      "num_slots": 1,
+      "text": "koteie hetavkaske'",
+      "dependents": [
+        {
+          "tier": "translation_LM",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "me alimento con koteie"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_LM",
+      "start_time_ms": 167209,
+      "end_time_ms": 169684,
+      "num_slots": 1,
+      "text": "temakha eietkok muy hamo",
+      "dependents": [
+        {
+          "tier": "translation_LM",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "en mi joventud no sobia nada"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_LM",
+      "start_time_ms": 173209,
+      "end_time_ms": 175234,
+      "num_slots": 1,
+      "text": "kanhan kelasma",
+      "dependents": [
+        {
+          "tier": "translation_LM",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "con pescado"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_LM",
+      "start_time_ms": 175709,
+      "end_time_ms": 177284,
+      "num_slots": 1,
+      "text": "astavkek ko mota",
+      "dependents": [
+        {
+          "tier": "translation_LM",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "yo come siempre"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_LM",
+      "start_time_ms": 178634,
+      "end_time_ms": 182034,
+      "num_slots": 1,
+      "text": "kelvanemet, menlhai",
+      "dependents": [
+        {
+          "tier": "translation_LM",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "sp de peces"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_LM",
+      "start_time_ms": 182597,
+      "end_time_ms": 184347,
+      "num_slots": 1,
+      "text": "aikaha",
+      "dependents": [
+        {
+          "tier": "translation_LM",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "sp de algarrobo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_LM",
+      "start_time_ms": 184910,
+      "end_time_ms": 187285,
+      "num_slots": 1,
+      "text": "aikaha anek",
+      "dependents": [
+        {
+          "tier": "translation_LM",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "aikaha molido"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_LM",
+      "start_time_ms": 187860,
+      "end_time_ms": 189435,
+      "num_slots": 1,
+      "text": "aikaha anek",
+      "dependents": [
+        {
+          "tier": "translation_LM",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "aikaha molido"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_LM",
+      "start_time_ms": 189660,
+      "end_time_ms": 191560,
+      "num_slots": 1,
+      "text": "astavkek ko mota",
+      "dependents": [
+        {
+          "tier": "translation_LM",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "yo come siempre"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_LM",
+      "start_time_ms": 192623,
+      "end_time_ms": 194823,
+      "num_slots": 1,
+      "text": "temakha eietkok ko'o",
+      "dependents": [
+        {
+          "tier": "translation_LM",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "en mi joventud"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_LM",
+      "start_time_ms": 198186,
+      "end_time_ms": 200611,
+      "num_slots": 1,
+      "text": "kanhan akto nak nan iamaien anak",
+      "dependents": [
+        {
+          "tier": "translation_LM",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "con por ejemplo redes"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_LM",
+      "start_time_ms": 200761,
+      "end_time_ms": 202036,
+      "num_slots": 1,
+      "text": "tetekko",
+      "dependents": [
+        {
+          "tier": "translation_LM",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "hamaca"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_LM",
+      "start_time_ms": 203936,
+      "end_time_ms": 207161,
+      "num_slots": 1,
+      "text": "heltameskek na mmakmekama ko meme",
+      "dependents": [
+        {
+          "tier": "translation_LM",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "mi mama me enseno su trabajo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_LM",
+      "start_time_ms": 207711,
+      "end_time_ms": 210361,
+      "num_slots": 1,
+      "text": "tetekko temakha nemmakmekama",
+      "dependents": [
+        {
+          "tier": "translation_LM",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "como hacemos ese tipo de hamaca"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_LM",
+      "start_time_ms": 211374,
+      "end_time_ms": 213324,
+      "num_slots": 1,
+      "text": "evankek nan ntak",
+      "dependents": [
+        {
+          "tier": "translation_LM",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "y ahora yo se mucho"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_LM",
+      "start_time_ms": 215037,
+      "end_time_ms": 216937,
+      "num_slots": 1,
+      "text": "asmakmekama ko'o",
+      "dependents": [
+        {
+          "tier": "translation_LM",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "mi trabajo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S2",
+      "tier": "transcript_RH",
+      "start_time_ms": 223850,
+      "end_time_ms": 226750,
+      "num_slots": 1,
+      "text": "aketkak angkok?",
+      "dependents": [
+        {
+          "tier": "translation_RH",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "tienes familia?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_LM",
+      "start_time_ms": 225688,
+      "end_time_ms": 228588,
+      "num_slots": 1,
+      "text": "nietnek ko lhema eietka",
+      "dependents": [
+        {
+          "tier": "translation_LM",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "tengo un hijo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_LM",
+      "start_time_ms": 234351,
+      "end_time_ms": 236651,
+      "num_slots": 1,
+      "text": "kapkelmangkanangke'e",
+      "dependents": [
+        {
+          "tier": "translation_LM",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "aca esta parado (mostrando)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_LM",
+      "start_time_ms": 241264,
+      "end_time_ms": 244664,
+      "num_slots": 1,
+      "text": "ma'aklhek nangiekhe' elhenek eltenamha'",
+      "dependents": [
+        {
+          "tier": "translation_LM",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "el quiere contarte tambien"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_LM",
+      "start_time_ms": 245552,
+      "end_time_ms": 247877,
+      "num_slots": 1,
+      "text": "eltenamha'",
+      "dependents": [
+        {
+          "tier": "translation_LM",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "quiere contar"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_LM",
+      "start_time_ms": 258302,
+      "end_time_ms": 262002,
+      "num_slots": 1,
+      "text": "stengia'ak nak ko memong, pa'ang, kolhvave nak",
+      "dependents": [
+        {
+          "tier": "translation_LM",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "ahora mismo buzco palo santo, palma del monte"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_LM",
+      "start_time_ms": 262865,
+      "end_time_ms": 264840,
+      "num_slots": 1,
+      "text": "stavke mota pa'ang",
+      "dependents": [
+        {
+          "tier": "translation_LM",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "siempre yo come palma del monte"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_LM",
+      "start_time_ms": 265290,
+      "end_time_ms": 266815,
+      "num_slots": 1,
+      "text": "siaspake'",
+      "dependents": [
+        {
+          "tier": "translation_LM",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "me gusta"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_LM",
+      "start_time_ms": 268090,
+      "end_time_ms": 269890,
+      "num_slots": 1,
+      "text": "stoma pa'ang",
+      "dependents": [
+        {
+          "tier": "translation_LM",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "mi comida palma del monte"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_LM",
+      "start_time_ms": 270278,
+      "end_time_ms": 273128,
+      "num_slots": 1,
+      "text": "metka seiamasma pa'ang",
+      "dependents": [
+        {
+          "tier": "translation_LM",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "no voy a dejar de comer palma del monte"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_LM",
+      "start_time_ms": 281616,
+      "end_time_ms": 287041,
+      "num_slots": 1,
+      "text": "astavkek nan ko napnaqse', nialva",
+      "dependents": [
+        {
+          "tier": "translation_LM",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "y come armadillo, tatu bolita"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_LM",
+      "start_time_ms": 295541,
+      "end_time_ms": 299341,
+      "num_slots": 1,
+      "text": "nnek na hetaskeso lhennenga akto nak kahe",
+      "dependents": [
+        {
+          "tier": "translation_LM",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "me mostraron como era antes"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_LM",
+      "start_time_ms": 299679,
+      "end_time_ms": 301779,
+      "num_slots": 1,
+      "text": "mok aktema nak menasma",
+      "dependents": [
+        {
+          "tier": "translation_LM",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "otro tipo es vibora"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_LM",
+      "start_time_ms": 301917,
+      "end_time_ms": 303492,
+      "num_slots": 1,
+      "text": "temakha eietkok",
+      "dependents": [
+        {
+          "tier": "translation_LM",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "cuando yo era joven"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_LM",
+      "start_time_ms": 309542,
+      "end_time_ms": 312192,
+      "num_slots": 1,
+      "text": "ielhem mok aktema nak",
+      "dependents": [
+        {
+          "tier": "translation_LM",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "otro era serpiente del agua"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_LM",
+      "start_time_ms": 314105,
+      "end_time_ms": 315930,
+      "num_slots": 1,
+      "text": "alvenaqtema",
+      "dependents": [
+        {
+          "tier": "translation_LM",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "son largos"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_LM",
+      "start_time_ms": 320480,
+      "end_time_ms": 324105,
+      "num_slots": 1,
+      "text": "kanhan aktemakha kolhvave nak selha anio ntak",
+      "dependents": [
+        {
+          "tier": "translation_LM",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "y tambien en este momento cuantos anio cumplio?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_LM",
+      "start_time_ms": 324730,
+      "end_time_ms": 328755,
+      "num_slots": 1,
+      "text": "temakha lhta skennekmaska, temakha eietkok",
+      "dependents": [
+        {
+          "tier": "translation_LM",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "yo esetaba cantando de cuando yo era nina"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_LM",
+      "start_time_ms": 329155,
+      "end_time_ms": 331680,
+      "num_slots": 1,
+      "text": "hennekmaskaskek ko tata",
+      "dependents": [
+        {
+          "tier": "translation_LM",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "mi papa me hizo cantar"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_LM",
+      "start_time_ms": 331755,
+      "end_time_ms": 335605,
+      "num_slots": 1,
+      "text": "heltennashengkek apkennekmaskama",
+      "dependents": [
+        {
+          "tier": "translation_LM",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "mi enseno su musica"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_LM",
+      "start_time_ms": 336618,
+      "end_time_ms": 341118,
+      "num_slots": 1,
+      "text": "temakha eietkok skennekmaskama kelha snok cinco anio",
+      "dependents": [
+        {
+          "tier": "translation_LM",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "desde mi joventud sprendi de cantar creo que desde 5 anio de edad"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_LM",
+      "start_time_ms": 342206,
+      "end_time_ms": 346206,
+      "num_slots": 1,
+      "text": "skennekmaskama lheme ngvomek kolhvave nak",
+      "dependents": [
+        {
+          "tier": "translation_LM",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "aprendi cantar hasta ahora"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_LM",
+      "start_time_ms": 348294,
+      "end_time_ms": 352294,
+      "num_slots": 1,
+      "text": "ngvakmek kolhvave nak askennekmaskama mok lhema koka",
+      "dependents": [
+        {
+          "tier": "translation_LM",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "en este tiempo yo continua de cantar algunas veces"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_LM",
+      "start_time_ms": 352732,
+      "end_time_ms": 356807,
+      "num_slots": 1,
+      "text": "aniem'o akto nak a nemmaskema hengakhema",
+      "dependents": [
+        {
+          "tier": "translation_LM",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "por causa de infermedad"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_LM",
+      "start_time_ms": 360657,
+      "end_time_ms": 363282,
+      "num_slots": 1,
+      "text": "mok hom askennekmaska ko",
+      "dependents": [
+        {
+          "tier": "translation_LM",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "sigo cantando"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_LM",
+      "start_time_ms": 363307,
+      "end_time_ms": 365482,
+      "num_slots": 1,
+      "text": "metka seiamasma",
+      "dependents": [
+        {
+          "tier": "translation_LM",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "nunca voy a parar"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S2",
+      "tier": "transcript_RH",
+      "start_time_ms": 370482,
+      "end_time_ms": 375382,
+      "num_slots": 1,
+      "text": "cuentas de cuando ella era nina?",
+      "dependents": []
+    },
+    {
+      "speaker": "S2",
+      "tier": "transcript_RH",
+      "start_time_ms": 378120,
+      "end_time_ms": 379720,
+      "num_slots": 1,
+      "text": "aketko'ok?",
+      "dependents": [
+        {
+          "tier": "translation_RH",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "tienes hijos?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S2",
+      "tier": "transcript_RH",
+      "start_time_ms": 384283,
+      "end_time_ms": 391358,
+      "num_slots": 1,
+      "text": "puedes preguntar a ella si tiene cuetas de cuando era nina?",
+      "dependents": []
+    },
+    {
+      "speaker": "S2",
+      "tier": "transcript_RH",
+      "start_time_ms": 420258,
+      "end_time_ms": 426858,
+      "num_slots": 1,
+      "text": "no si se tiene mas, mok hom historias",
+      "dependents": []
+    },
+    {
+      "speaker": "S2",
+      "tier": "transcript_RH",
+      "start_time_ms": 427971,
+      "end_time_ms": 433046,
+      "num_slots": 1,
+      "text": "para compartir, no necesariamente de comida",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_LM",
+      "start_time_ms": 441496,
+      "end_time_ms": 445971,
+      "num_slots": 1,
+      "text": "vanlha ko' lhennenga Nenekev' temakha eietkok",
+      "dependents": [
+        {
+          "tier": "translation_LM",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "solo yo estaba en Laguna Pora para mi joventud"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_LM",
+      "start_time_ms": 446496,
+      "end_time_ms": 448046,
+      "num_slots": 1,
+      "text": "kakto nak a",
+      "dependents": [
+        {
+          "tier": "translation_LM",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "por ejemplo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_LM",
+      "start_time_ms": 448159,
+      "end_time_ms": 451784,
+      "num_slots": 1,
+      "text": "nelvakhe mota apnakha apveske engangkok",
+      "dependents": [
+        {
+          "tier": "translation_LM",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "siempre nos vamos a visitar el misionero"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_LM",
+      "start_time_ms": 451934,
+      "end_time_ms": 453659,
+      "num_slots": 1,
+      "text": "hakok apiavai'a lhta apvesai'a",
+      "dependents": [
+        {
+          "tier": "translation_LM",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "hakok apiavai'a decimos al senor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_LM",
+      "start_time_ms": 453884,
+      "end_time_ms": 455909,
+      "num_slots": 1,
+      "text": "temakha eietkok kakto nak a",
+      "dependents": [
+        {
+          "tier": "translation_LM",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "yo era asi en mi joventud"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_LM",
+      "start_time_ms": 456309,
+      "end_time_ms": 459134,
+      "num_slots": 1,
+      "text": "asmeiakhe mota heianke mota letse",
+      "dependents": [
+        {
+          "tier": "translation_LM",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "mi primer hijo siempre entrega leche"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_LM",
+      "start_time_ms": 459359,
+      "end_time_ms": 460234,
+      "num_slots": 1,
+      "text": "anek",
+      "dependents": [
+        {
+          "tier": "translation_LM",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "en pulvo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_LM",
+      "start_time_ms": 461459,
+      "end_time_ms": 464284,
+      "num_slots": 1,
+      "text": "escuelanha nentekamok a",
+      "dependents": [
+        {
+          "tier": "translation_LM",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "y en la escuela era nuestras comidas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_LM",
+      "start_time_ms": 464509,
+      "end_time_ms": 466709,
+      "num_slots": 1,
+      "text": "nentalhesekamok ketsek",
+      "dependents": [
+        {
+          "tier": "translation_LM",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "escribimos un poco"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_LM",
+      "start_time_ms": 466972,
+      "end_time_ms": 468747,
+      "num_slots": 1,
+      "text": "engketkeietse'",
+      "dependents": [
+        {
+          "tier": "translation_LM",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "eramos chiquitos"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_LM",
+      "start_time_ms": 469897,
+      "end_time_ms": 471672,
+      "num_slots": 1,
+      "text": "lhennenga kelha",
+      "dependents": [
+        {
+          "tier": "translation_LM",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "creo que antiguamente"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_LM",
+      "start_time_ms": 472697,
+      "end_time_ms": 475947,
+      "num_slots": 1,
+      "text": "muy hamok, helvankamekhe'",
+      "dependents": [
+        {
+          "tier": "translation_LM",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "no sabia, me olvide"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S2",
+      "tier": "transcript_RH",
+      "start_time_ms": 487685,
+      "end_time_ms": 490610,
+      "num_slots": 1,
+      "text": "cuentas de la familia?",
+      "dependents": []
+    },
+    {
+      "speaker": "S2",
+      "tier": "transcript_RH",
+      "start_time_ms": 492635,
+      "end_time_ms": 495460,
+      "num_slots": 1,
+      "text": "si tiene cuentas de la familia",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_LM",
+      "start_time_ms": 517160,
+      "end_time_ms": 521435,
+      "num_slots": 1,
+      "text": "hellapema ko mota meme lhennenga kanhan tata",
+      "dependents": [
+        {
+          "tier": "translation_LM",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "siempre mi mama y mi papa me muestra carina antiguamente"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_LM",
+      "start_time_ms": 523885,
+      "end_time_ms": 526610,
+      "num_slots": 1,
+      "text": "heliengieskaske stalhnema",
+      "dependents": [
+        {
+          "tier": "translation_LM",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "lavaban mi ropa"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_LM",
+      "start_time_ms": 527585,
+      "end_time_ms": 529535,
+      "num_slots": 1,
+      "text": "kakto nak he",
+      "dependents": [
+        {
+          "tier": "translation_LM",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "por ejemplo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_LM",
+      "start_time_ms": 530698,
+      "end_time_ms": 536448,
+      "num_slots": 1,
+      "text": "heliengieskaskek ko meme, astoma astavakhek nan",
+      "dependents": [
+        {
+          "tier": "translation_LM",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "mi mama me lavaba, me da la comida"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_LM",
+      "start_time_ms": 538811,
+      "end_time_ms": 541261,
+      "num_slots": 1,
+      "text": "kanha tata heiapema",
+      "dependents": [
+        {
+          "tier": "translation_LM",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "tambien mi papa me muestra carino"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_LM",
+      "start_time_ms": 543274,
+      "end_time_ms": 545374,
+      "num_slots": 1,
+      "text": "hetengiaskaske stoma",
+      "dependents": [
+        {
+          "tier": "translation_LM",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "buscaba comida para mi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_LM",
+      "start_time_ms": 547487,
+      "end_time_ms": 549512,
+      "num_slots": 1,
+      "text": "temakha eietkok kelha",
+      "dependents": [
+        {
+          "tier": "translation_LM",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "creo que en mi joventud"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_LM",
+      "start_time_ms": 561812,
+      "end_time_ms": 564287,
+      "num_slots": 1,
+      "text": "skasekhavek ko mok hom meme",
+      "dependents": [
+        {
+          "tier": "translation_LM",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "le amo todavia a mi mama"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_LM",
+      "start_time_ms": 564512,
+      "end_time_ms": 566637,
+      "num_slots": 1,
+      "text": "skangkek ko mok hom aktoma",
+      "dependents": [
+        {
+          "tier": "translation_LM",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "sigo entregando su comida"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_LM",
+      "start_time_ms": 569787,
+      "end_time_ms": 571512,
+      "num_slots": 1,
+      "text": "nnek ha'e",
+      "dependents": [
+        {
+          "tier": "translation_LM",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "ella esta"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_LM",
+      "start_time_ms": 578212,
+      "end_time_ms": 580362,
+      "num_slots": 1,
+      "text": "alhnankok mok hom meme",
+      "dependents": [
+        {
+          "tier": "translation_LM",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "mi mama toda via esta vivo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_LM",
+      "start_time_ms": 580525,
+      "end_time_ms": 584125,
+      "num_slots": 1,
+      "text": "akvaneiam stavkaskek ko mota",
+      "dependents": [
+        {
+          "tier": "translation_LM",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "ella es vieja, yo siempre (da su comida)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S2",
+      "tier": "transcript_RH",
+      "start_time_ms": 593838,
+      "end_time_ms": 599388,
+      "num_slots": 1,
+      "text": "mok hom para decir al mundo, o?",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_LM",
+      "start_time_ms": 601076,
+      "end_time_ms": 602776,
+      "num_slots": 1,
+      "text": "vanlha",
+      "dependents": [
+        {
+          "tier": "translation_LM",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "es todo"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

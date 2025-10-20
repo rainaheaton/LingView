@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "timed": true,
+    "story ID": "cb1dbdcf-ef20-4dca-ac23-7e902f30eb93",
+    "title": {
+      "_default": "Arsenio-Romero_Arnolio-Fernández_Leandro-Benítez_Simón-Aquino_radioPA"
+    },
+    "media": {
+      "audio_local": "",
+      "audio_remote": "",
+      "video": "",
+      "audio": "https://lingview-enenlhet.sfo3.digitaloceanspaces.com/2019/audio/Arsenio-Romero_Arnolio-Ferna%CC%81ndez_Leandro-Beni%CC%81tez_Simo%CC%81n-Aquino_radioPA.wav"
+    },
+    "languages": [],
+    "date_created": "",
+    "date_uploaded": "9/28/2025",
+    "source": {
+      "_default": ""
+    },
+    "description": "",
+    "genre": "",
+    "author": "",
+    "glosser": "",
+    "speakers": [],
+    "xml_file_name": "Arsenio-Romero_Arnolio-Fernández_Leandro-Benítez_Simón-Aquino_radioPA.eaf",
+    "source_filetype": "ELAN",
+    "tier IDs": {},
+    "speaker IDs": {}
+  },
+  "sentences": []
+}

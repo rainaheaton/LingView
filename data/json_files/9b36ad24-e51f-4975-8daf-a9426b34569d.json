@@ -1,0 +1,33 @@
+{
+  "metadata": {
+    "timed": true,
+    "story ID": "9b36ad24-e51f-4975-8daf-a9426b34569d",
+    "title": {
+      "_default": "Tito-Ramos_Bernardo-Eme_radioPA"
+    },
+    "media": {
+      "audio_local": "",
+      "audio_remote": "",
+      "video": "",
+      "audio": "https://lingview-enenlhet.sfo3.digitaloceanspaces.com/2019/audio/Tito-Ramos_Bernardo-Eme_radioPA.wav"
+    },
+    "languages": [],
+    "date_created": "",
+    "date_uploaded": "9/28/2025",
+    "source": {
+      "_default": ""
+    },
+    "description": "",
+    "genre": "",
+    "author": "",
+    "glosser": "",
+    "speakers": [
+      "Transcripcion"
+    ],
+    "xml_file_name": "Tito-Ramos_Bernardo-Eme_radioPA.eaf",
+    "source_filetype": "ELAN",
+    "tier IDs": {},
+    "speaker IDs": {}
+  },
+  "sentences": []
+}

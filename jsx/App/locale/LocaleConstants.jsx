@@ -4,162 +4,162 @@
 // (e.g. jsx/App/LandingPage.jsx).
 export const ENGLISH = "en";
 export const ESPANOL = "es";
-export const FRANCAIS = "fr";
+export const DEUTSCH = "de";
 
 // Put default language here.
-export const DEFAULT_LOCALE = ENGLISH;
+export const DEFAULT_LOCALE = ESPANOL;
 
 // Below, write the text that goes in various parts of the website for each
 // language.
 
 // NavBar text (header).
 export const navBarTitleText = {
-  [ENGLISH]: "LingView: ELAN and FLEx Web Display",
-  [ESPANOL]: "LingView: Pantella Web ELAN y FLEx",
-  [FRANCAIS]: "LingView: Affichage Web ELAN et FLEx",
+  [ENGLISH]: "LingView: Enenlhet Recordings",
+  [ESPANOL]: "LingView: Enenlhet Grabaciones",
+  [DEUTSCH]: "LingView: Enenlhet Aufnahmen",
 };
 
 export const navBarSearchText = {
   [ENGLISH]: "Search",
   [ESPANOL]: "Buscar",
-  [FRANCAIS]: "Chercher",
+  [DEUTSCH]: "Suche",
 };
 
 export const navBarAboutText = {
   [ENGLISH]: "About",
   [ESPANOL]: "Acerca del corpus",
-  [FRANCAIS]: "À propos du corpus",
+  [DEUTSCH]: "Über",
 };
 
 export const navBarGlossaryText = {
   [ENGLISH]: "Glossary",
   [ESPANOL]: "Glosario",
-  [FRANCAIS]: "Glossaire",
+  [DEUTSCH]: "Glossar",
 };
 
 export const navBarIndexText = {
-  [ENGLISH]: "Index of Texts",
-  [ESPANOL]: "Índice de textos",
-  [FRANCAIS]: "Index des Textes",
+  [ENGLISH]: "Recordings",
+  [ESPANOL]: "Grabaciones",
+  [DEUTSCH]: "Aufnahmen",
 };
 
 // Search page text
 export const searchPagePromptText = {
-  [ENGLISH] : "Search database:",
-  [ESPANOL] : "Buscar en la base de datos:",
-  [FRANCAIS] : "Rechercher dans la base de données:",
+  [ENGLISH] : "Search the recordings:",
+  [ESPANOL] : "Buscar las grabaciones:",
+  [DEUTSCH] : "Durchsuchen Sie die Aufnahmen:",
 };
 
 export const searchPageNextButtonText = {
   [ENGLISH] : "Next page",
   [ESPANOL] : "Página siguiente",
-  [FRANCAIS] : "Page suivante",
+  [DEUTSCH] : "Nächste Seite",
 };
 
 export const searchPagePrevButtonText = {
   [ENGLISH] : "Previous page",
   [ESPANOL] : "Página anterior",
-  [FRANCAIS] : "Page précédente",
+  [DEUTSCH] : "Vorherige Seite",
 };
 
 // Story index columns text.
 export const indexPageTitleHeaderText = {
   [ENGLISH] : "Title",
   [ESPANOL] : "Título",
-  [FRANCAIS] : "Titre",
+  [DEUTSCH] : "Titel",
 };
 
 export const indexPageAuthorHeaderText = {
   [ENGLISH] : "Author",
   [ESPANOL] : "Autor",
-  [FRANCAIS] : "Auteur",
+  [DEUTSCH] : "Autor",
 };
 
 export const indexPageMediaHeaderText = {
   [ENGLISH] : "Media",
   [ESPANOL] : "Medios",
-  [FRANCAIS] : "Médias",
+  [DEUTSCH] : "Medien",
 };
 
 // Use if a story isn't found.
 export const notFoundPageText = {
   [ENGLISH] : "Story not found. Perhaps you mistyped the URL?",
   [ESPANOL] : "Historia no encontrada. ¿Quizás escribiste mal la URL?",
-  [FRANCAIS] : "Histoire introuvable. Peut-être avez-vous mal saisi l'URL?",
+  [DEUTSCH] : "Story nicht gefunden. Vielleicht haben Sie die URL falsch eingegeben?",
 };
 
 // Use when a story is loading.
 export const loadingPageText = {
   [ENGLISH] : "Loading...",
   [ESPANOL] : "Cargando...",
-  [FRANCAIS] : "Chargement...",
+  [DEUTSCH] : "Wird geladen...",
 };
 
 // Story controls and metadata.
 export const showVideoButtonText = {
   [ENGLISH] : "Show video",
   [ESPANOL] : "Mostrar video",
-  [FRANCAIS] : "Montrer la vidéo",
+  [DEUTSCH] : "Video anzeigen",
 };
 
 export const showOrHideTiersButtonText = {
   [ENGLISH] : "Show/hide tiers",
   [ESPANOL] : "Mostrar/ocultar niveles",
-  [FRANCAIS] : "Afficher/masquer les niveaux",
+  [DEUTSCH] : "Stufen ein-/ausblenden",
 };
 
 export const metadataAuthorText = {
   [ENGLISH] : "Author",
   [ESPANOL] : "Autor",
-  [FRANCAIS] : "Auteur",
+  [DEUTSCH] : "Autor",
 };
 
 export const metadataDateText = {
   [ENGLISH] : "Date",
   [ESPANOL] : "Fecha",
-  [FRANCAIS] : "Date",
+  [DEUTSCH] : "Datum",
 };
 
 export const metadataDescriptionText = {
   [ENGLISH] : "Description",
   [ESPANOL] : "Descripción",
-  [FRANCAIS] : "Description",
+  [DEUTSCH] : "Beschreibung",
 };
 
 export const metadataGenreText = {
   [ENGLISH] : "Genre",
   [ESPANOL] : "Género",
-  [FRANCAIS] : "Genre",
+  [DEUTSCH] : "Genre",
 };
 
 export const metadataGlosserText = {
   [ENGLISH] : "Glosser",
   [ESPANOL] : "Glosador",
-  [FRANCAIS] : "Glosser",
+  [DEUTSCH] : "Glossar",
 };
 
 export const metadataSourceText = {
   [ENGLISH] : "Source",
   [ESPANOL] : "Fuente",
-  [FRANCAIS] : "Source",
+  [DEUTSCH] : "Quelle",
 };
 
 export const metadataSpeakersText = {
   [ENGLISH] : "Speakers",
   [ESPANOL] : "Oradores",
-  [FRANCAIS] : "Orateurs",
+  [DEUTSCH] : "Sprecher",
 };
 
 export const storySearchText = {
   [ENGLISH] : "Story",
   [ESPANOL] : "Historia",
-  [FRANCAIS] : "Histoire",
+  [DEUTSCH] : "Geschichte",
 };
 
 export const storySearchViewStoryText = {
   [ENGLISH] : "View story",
   [ESPANOL] : "Ver historia",
-  [FRANCAIS] : "Voir l'histoire",
+  [DEUTSCH] : "Geschichte anzeigen",
 };
 
 // Texts for LaTeX conversion UI
@@ -167,79 +167,79 @@ export const storySearchViewStoryText = {
 export const latexButtonText = {
   [ENGLISH] : "LaTeX",
   [ESPANOL] : "LaTeX",
-  [FRANCAIS] : "LaTeX",
+  [DEUTSCH] : "LaTeX",
 };
 
 export const latexSelectTiersPromptText = {
   [ENGLISH] : "Please select what tier to use for each line in the LaTeX gloss.",
   [ESPANOL] : "Seleccione qué nivel usar para cada línea en la glosa en LaTeX.",
-  [FRANCAIS] : "Veuillez sélectionner le niveau à utiliser pour chaque ligne du gloss LaTeX.",
+  [DEUTSCH] : "Bitte wählen Sie aus, welche Ebene für jede Zeile im LaTeX-Gloss verwendet werden soll.",
 };
 
 export const latexSentenceTierName = {
 	[ENGLISH] : "original sentence",
 	[ESPANOL] : "frase original",
-	[FRANCAIS] : "phrase originale",
+	[DEUTSCH] : "Originalsatz",
 };
 
 export const latexMorphemesTierName = {
 	[ENGLISH] : "morphemes",
 	[ESPANOL] : "morfemas",
-	[FRANCAIS] : "morphèmes",
+	[DEUTSCH] : "Morpheme",
 };
 
 export const latexMorphemeTranslationsTierName = {
 	[ENGLISH] : "morpheme glosses",
 	[ESPANOL] : "glosas de morfemas",
-	[FRANCAIS] : "gloses de morphèmes",
+	[DEUTSCH] : "Morphemglossen",
 };
 
 export const latexSentenceTranslationsTierName = {
 	[ENGLISH] : "sentence translation",
 	[ESPANOL] : "frase traducida",
-	[FRANCAIS] : "phrase traduite",
+	[DEUTSCH] : "Satzübersetzung",
 };
 
 // Text on the tier selection confirm button
 export const tierSelectionConfirmButtonText = {
   [ENGLISH] : "Confirm",
   [ESPANOL] : "Confirmar",
-  [FRANCAIS] : "Confirmer",
+  [DEUTSCH] : "Bestätigen",
 };
 
 // Text on the LaTeX formatter close button
 export const latexCloseButtonText = {
   [ENGLISH] : "Close",
   [ESPANOL] : "Cerrar",
-  [FRANCAIS] : "Fermer",
+  [DEUTSCH] : "Schließen",
 };
 
 export const latexStoryTitleText = {
   [ENGLISH] : "Story title:",
   [ESPANOL] : "Título de la historia:",
-  [FRANCAIS] : "Titre de l'histoire:",
+  [DEUTSCH] : "Titel der Geschichte:",
 };
 
 export const latexStoryIDText = {
   [ENGLISH] : "Story ID:",
   [ESPANOL] : "ID de historia:",
-  [FRANCAIS] : "ID de l'histoire:",
+  [DEUTSCH] : "ID der Geschichte:",
 };
 
 export const latexSentenceURLText = {
   [ENGLISH] : "Sentence URL:",
   [ESPANOL] : "URL de la frase:",
-  [FRANCAIS] : "URL de la phrase:",
+  [DEUTSCH] : "Satz-URL:",
 };
 
 export const latexLibraryText = {
   [ENGLISH] : "Formatted for gb4e and gb4e-modified LaTeX packages:",
   [ESPANOL] : "Formateado para paquetes LaTeX gb4e y gb4e-modified:",
-  [FRANCAIS] : "Formaté pour les packages LaTeX gb4e et gb4e-modified:",
+  [DEUTSCH] : "Formatiert für gb4e und gb4e-modifizierte LaTeX-Pakete:",
 };
 
 export const footerText = {
   [ENGLISH]: "This website is powered by ",
   [ESPANOL]: "Este sitio web funciona con ",
-  [FRANCAIS]: "Ce site Web est alimenté par ",
+  [DEUTSCH]: "Diese Website wird betrieben von ",
 };
